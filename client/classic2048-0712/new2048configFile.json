@@ -1,0 +1,20 @@
+{
+    "cdnGameConfig": {
+        "totalSwith": true,
+        "startScoreSwith": false,
+        "startScoreLimit": 800,
+        "reviveScoreSwith": false,
+        "reviveScoreLimit": 500,
+        "shareScoreSwith": false,
+        "shareScoreLimit": 1000
+    },
+    "bannerAdConfig": {
+        "swith": true,
+        "showHeight":100,
+        "interval": 20000
+    },
+    "reviveConfig": {
+        "clearVNum": 3,
+        "costNum": 50
+    }
+}

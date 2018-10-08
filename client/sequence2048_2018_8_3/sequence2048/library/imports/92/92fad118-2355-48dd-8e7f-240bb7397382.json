@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "2048kp_tx_quan",
+    "texture": "2a5993fe-00fb-4f20-a764-025adcfd53c6",
+    "atlas": "",
+    "rect": [
+      312,
+      507,
+      299,
+      299
+    ],
+    "offset": [
+      5.5,
+      29.5
+    ],
+    "originalSize": [
+      912,
+      1372
+    ]
+  }
+}

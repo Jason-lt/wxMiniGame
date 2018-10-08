@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "rankHand",
+    "texture": "a9cca3fe-14d9-48c0-84a3-60d9be466a4b",
+    "atlas": "",
+    "rect": [
+      2,
+      3,
+      411,
+      103
+    ],
+    "offset": [
+      -4,
+      0.5
+    ],
+    "originalSize": [
+      423,
+      110
+    ]
+  }
+}

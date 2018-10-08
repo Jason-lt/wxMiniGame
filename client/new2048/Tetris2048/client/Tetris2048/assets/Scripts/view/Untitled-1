@@ -1,0 +1,294 @@
+   /*       //将合并的格子的item设为null
+                       var deleteGridView = deleteGrid.getComponent("gridView");
+                       // deleteGridView.setIndex(deleteGridView.hIndex, deleteGridView.vIndex);
+                       var deleteGridForBoard = this.allGrids[deleteGridView.hIndex][deleteGridView.vIndex];
+                       deleteGridForBoard.getComponent("gridView").item = null;
+                       //再将下落 的格子位置、索引更新
+
+                       var gridController = Global.gridController.getComponent("gridController");
+                       var stopNode = gridController.getStopPosition(this.hIndex);
+                       var stopGridViewScript = stopNode.getComponent("gridView");
+
+                       //更新横纵坐标，不需要
+                       // this.setPosition(stopNode.x, stopNode.y);
+                       // this.setIndex(stopGridViewScript.hIndex, stopGridViewScript.vIndex);
+
+                       //对当前的grid执行动作
+                       var downAction = cc.moveTo(1, cc.p(stopNode.x, stopNode.y));
+                       currItem.node.runAction(downAction);
+
+                       //设置下落前的格子里item为null
+                       var preGrid = this.allGrids[this.node.getComponent("gridView").hIndex][this.node.getComponent("gridView").vIndex];
+                       preGrid.getComponent("gridView").item = null;
+
+                       //设置当前的格子里的item
+                       var downGrid = this.allGrids[stopGridViewScript.hIndex][stopGridViewScript.vIndex];
+                       downGrid.getComponent("gridView").item = this.item;
+
+                       */
+                // //合并之后继续遍历
+                // this.bianliForGrid(this.node);
+
+
+
+                /*
+                                //将合并格子下的item设为null
+                                // deleteGridScript.item = null;
+
+                                // //当前合并格子位置的item设为null
+                                // var deleteGridView = deleteGrid.getComponent("gridView");
+                                // var deleteGridForBoard = this.allGrids[deleteGridView.hIndex][deleteGridView.vIndex];
+                                // deleteGridForBoard.getComponent("gridView").item = null;
+
+                                this.allGrids[3][5].getComponent("gridView").item = null;
+
+
+                                //开始下落动作
+                                //获取最新的节点位置，如果下面还有位置则可以执行动作
+                                var gridController = Global.gridController.getComponent("gridController");
+                                var stopNode = gridController.getStopPosition(this.hIndex);
+                                var stopGridViewScript = stopNode.getComponent("gridView");
+
+                                //更新横纵坐标
+                                this.setPosition(stopNode.x, stopNode.y);
+                                this.setIndex(stopGridViewScript.hIndex, stopGridViewScript.vIndex);
+
+
+                                //设置下落之后的格子位置item赋值
+
+
+
+
+                                cc.log("stopNode:" + stopNode);
+                                //对当前的grid执行动作
+                                var downAction = cc.moveTo(1, cc.p(stopNode.x, stopNode.y));
+                                currItem.node.runAction(downAction);
+
+                                //设置当前的格子里的item
+                                var downGrid = this.allGrids[3][5];
+                                downGrid.getComponent("gridView").item = this.item;
+
+                                //当前合并格子前的位置的item设为null
+                                var deleteGridView = deleteGrid.getComponent("gridView");
+                                var deleteGridForBoard = this.allGrids[3][4];
+                                deleteGridForBoard.getComponent("gridView").item = null;
+
+
+                                //合并之后继续遍历
+                                this.bianliForGrid(this.node);
+
+
+
+
+
+                                cc.log("delete " + this.node + " :: " + this.allGrids);*/
+
+                /*
+
+                                var destroyItem = this.destroyGrid.getComponent("gridView").item;
+                                destroyItem.node.parent.removeChild(destroyItem.node);
+                                this.destroyGrid.parent.removeChild(this.destroyGrid);
+
+
+                                var item = this.node.getComponent("gridView").item;
+                                var numLabel = item.node.getChildByName("num");
+                                numLabel.getComponent(cc.Label).string = 4;
+                                // item.updataNum(item, 4);
+
+                                this.node.getComponent("gridView").gridNum = 4;*/
+
+-------------------------------------------------------------
+
+    /*
+        //判断是否有相同分数的格子
+        hasSameScore: function (grid, hIndex, vIndex) {
+            //判断是否是边界
+            if (hIndex < 0 || hIndex >= Global.hNum || vIndex < 0 || vIndex >= Global.vNum) {
+                return;
+            }
+            //判断是否有相同分数
+            cc.log("hassamescore:" + hIndex + " :: " + vIndex);
+            var compareGrid = this.allGrids[hIndex][vIndex];
+            var compareGridScript = compareGrid.getComponent("gridView");
+
+            //判断是否有item
+            if (compareGrid && compareGridScript.item == null) {
+                return;
+            }
+            if (compareGrid.gridNum >= Global.gridMaxScore) {
+                return;
+            }
+
+            //已经遍历过了
+            if (compareGridScript.hasCompare) {
+                return;
+            }
+
+            var gridScript = grid.getComponent("gridView");
+            if (compareGridScript.gridNum == gridScript.gridNum) {
+                compareGridScript.canJoin = true;
+                this.sameScoreNum++;
+                //继续遍历
+                this.bianliForGrid(compareGrid);
+            } else {
+                // cc.log("结束遍历");
+                // this.startjoin();
+            }
+        },
+    
+    //动作完成之后进行合并判断
+    startjoin: function () {
+
+        cc.log("sameScoreNum:" + this.sameScoreNum);
+        //开始执行下落动作
+        if (this.sameScoreNum < 1) {
+            this.resetData();
+            this.onJoinComplete();
+            return;
+        }
+
+        this.startDown();
+    },
+
+    
+    //可合并的格子都进行合并动作
+    startDown: function () {
+        //记录当前下落的格子位置
+        for (let hIndex = 0; hIndex < Global.hNum; hIndex++) {
+            for (let vIndex = 0; vIndex < Global.vNum; vIndex++) {
+                var grid = this.allGrids[hIndex][vIndex];
+                var gridScript = grid.getComponent("gridView");
+                if (grid && gridScript.item != null) {
+                    if (gridScript.canJoin) {
+                        //合并
+                        this.toJoin(grid);
+                    }
+                }
+            }
+        }
+    },
+
+    toJoin: function (grid) {
+        this.destroyGrid = grid;
+        cc.log("start combine");
+        // var action = cc.moveTo(3, cc.p(-40, 200));
+        // gridScript.item.node.runAction(action);
+        var finished = cc.callFunc(this.onDestroy, this);
+        var action = cc.moveTo(3, this.combineGrid.getPosition());
+        var myAction = cc.sequence(action, finished);
+        var gridScript = grid.getComponent("gridView");
+        gridScript.item.node.runAction(myAction);
+    },*/
+
+    /*
+    //销毁合并的格子
+    onDestroy: function () {
+        //销毁合并过的格子
+
+        var destroyItem = this.destroyGrid.getComponent("gridView").item;
+        destroyItem.node.parent.removeChild(destroyItem.node);
+        this.destroyGrid.parent.removeChild(this.destroyGrid);
+
+
+        var item = this.node.getComponent("gridView").item;
+        var numLabel = item.node.getChildByName("num");
+        numLabel.getComponent(cc.Label).string = 4;
+        // item.updataNum(item, 4);
+
+        this.node.getComponent("gridView").gridNum = 4;
+        this.onJoinComplete();
+    },
+*/
+
+
+
+
+
+                //将下落之前的格子里的item设为null
+                // var preGrid = self.allGrids[self.node.getComponent("gridView").hIndex][self.node.getComponent("gridView").vIndex];
+                // preGrid.getComponent("gridView").item = null;
+
+
+
+                // //对下落之后的格子进行设置item
+                // cc.log("stop index:" + stopGridViewScript.hIndex + " :: " + stopGridViewScript.vIndex);
+                // var downGrid = self.allGrids[stopGridViewScript.hIndex][stopGridViewScript.vIndex];
+                // var downView = downGrid.getComponent("gridView");
+                // //赋值 然后更新item里的值
+                // downView.item = deleteItem;
+                // downView.node.y = preGrid.y;
+                // downView.setPosition(cc.p(preGrid.x, preGrid.y));
+                // downView.setPosition(preGrid.x, preGrid.y);
+                // downView.setIndex(stopGridViewScript.hIndex, stopGridViewScript.vIndex);
+                // downView.gridNum = parseInt(numStr);
+--------------------------
+//开始合并动作
+            var finished = cc.callFunc(function () {
+                var deleteLabel = deleteItem.node.getChildByName("num");
+                //更新索引和格子分数
+                var numNode = combineItem.node.getChildByName("num");
+                var numLabel = numNode.getComponent(cc.Label);
+                var numStr = numLabel.string;
+                numStr += parseInt(deleteLabel.getComponent(cc.Label).string);
+                //更新分数
+                numLabel.string = numStr;
+                this.node.getComponent("gridView").gridNum = parseInt(numStr);
+                cc.log("AAA:" + this.node.getComponent("gridView").gridNum);
+
+                //将合并的格子的item设为null
+                var deleteGridView = deleteGrid.getComponent("gridView");
+                var deleteGridForBoard = self.allGrids[deleteGridView.hIndex][deleteGridView.vIndex];
+                deleteGridForBoard.getComponent("gridView").item = null;
+                //寻找最终的下落点
+                var gridController = Global.gridController.getComponent("gridController");
+                var stopNode = gridController.getStopPosition(this.hIndex);
+                var stopGridViewScript = stopNode.getComponent("gridView");
+
+                //移除节点
+                // deleteItem.node.parent.removeChild(deleteItem.node);
+
+                //下落之后的格子
+                var downGrid = self.allGrids[stopGridViewScript.hIndex][stopGridViewScript.vIndex];
+
+
+                var callBackForBianli = cc.callFunc(function () {
+                    //合并之后继续遍历
+                    self.bianliForGrid(downGrid);
+                }, self);
+
+                //最后下落的格子
+                var downAction = cc.moveTo(1, cc.p(stopNode.x, stopNode.y));
+                cc.log(self.node);
+
+                // var downItem = downGrid.getComponent("gridView").item;
+                var item = self.combineGrid.getComponent("gridView").item;
+                item.node.runAction(cc.sequence(downAction, callBackForBianli));
+
+                //将下落之前的格子里的item设为null
+                cc.log(deleteGridView);
+                var preGrid = self.allGrids[self.node.getComponent("gridView").hIndex][self.node.getComponent("gridView").vIndex];
+                // preGrid.getComponent("gridView").item = null;
+
+                //下落之后的格子
+                // var downGrid = self.allGrids[stopGridViewScript.hIndex][stopGridViewScript.vIndex];
+                var downView = downGrid.getComponent("gridView");
+                // downView.item = deleteItem;
+                downView.gridNum = parseInt(numStr);
+                downView.item.node.x = stopGridViewScript.posX;
+                downView.item.node.y = stopGridViewScript.posY;
+
+
+                cc.log("gridNum:" + downView.gridNum + " :: deleteItem" + deleteItem);
+
+
+                //移除当前的节点
+                var preItem = preGrid.getComponent("gridView").item;
+
+
+                preItem.node.parent.removeChild(preItem.node);
+                cc.log(preItem);
+
+
+
+                // cc.log(deleteItem.node.parent);
+                // deleteItem.node.parent.removeChild(deleteItem.node);

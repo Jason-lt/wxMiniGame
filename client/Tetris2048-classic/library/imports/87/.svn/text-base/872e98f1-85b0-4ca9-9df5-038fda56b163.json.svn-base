@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "iconzuan",
+    "texture": "0ea6b625-6650-45cb-97dc-dcc98221d90a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      42,
+      33
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      42,
+      33
+    ]
+  }
+}

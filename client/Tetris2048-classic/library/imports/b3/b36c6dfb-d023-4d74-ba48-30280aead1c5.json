@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "button_revivecoinUI",
+    "texture": "a59756bd-43fb-4df9-a23c-dc329b93dd7d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      112,
+      143
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      112,
+      143
+    ]
+  }
+}

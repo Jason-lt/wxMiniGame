@@ -1,0 +1,96 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "2048_huode",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.9333333333333333,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "glow_huang": {
+        "props": {
+          "rotation": []
+        }
+      },
+      "lizi_yuan": {
+        "comps": {
+          "cc.ParticleSystem": {
+            "emissionRate": [
+              {
+                "frame": 0.06666666666666667,
+                "value": 0
+              },
+              {
+                "frame": 0.1,
+                "value": 180
+              },
+              {
+                "frame": 0.23333333333333334,
+                "value": 0
+              }
+            ]
+          }
+        }
+      },
+      "fangsheguang": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0.06666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 1.9333333333333333,
+              "value": 180
+            }
+          ]
+        }
+      },
+      "lizi_tiao": {
+        "comps": {
+          "cc.ParticleSystem": {
+            "emissionRate": [
+              {
+                "frame": 0.06666666666666667,
+                "value": 0
+              },
+              {
+                "frame": 0.1,
+                "value": 100
+              },
+              {
+                "frame": 0.23333333333333334,
+                "value": 0
+              }
+            ]
+          }
+        }
+      }
+    },
+    "props": {
+      "scaleX": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.06666666666666667,
+          "value": 1
+        }
+      ],
+      "scaleY": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.06666666666666667,
+          "value": 1
+        }
+      ]
+    }
+  },
+  "events": []
+}

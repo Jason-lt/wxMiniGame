@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "2048kp_tx_juxing_01",
+    "texture": "05419fc4-aede-4702-83bf-04f0dc39d51e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      166,
+      282
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      166,
+      282
+    ]
+  }
+}

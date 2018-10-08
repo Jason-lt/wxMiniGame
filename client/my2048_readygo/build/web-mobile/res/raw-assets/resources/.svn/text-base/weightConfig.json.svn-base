@@ -1,0 +1,154 @@
+{
+  "weightConfig": {
+    "oneGearScore": 6000,
+    "twoGearScore": 40000,
+    "threeGearScore": 50000,
+    "fourGearScore": 60000,
+    "oneWeightRate": [{
+        "id": 2,
+        "weight": 11
+      },
+      {
+        "id": 4,
+        "weight": 11
+      },
+      {
+        "id": 8,
+        "weight": 11
+      },
+      {
+        "id": 16,
+        "weight": 11
+      },
+      {
+        "id": 32,
+        "weight": 11
+      },
+      {
+        "id": 64,
+        "weight": 5
+      }
+    ],
+    "oneTotalWeight": 60,
+    "twoWeightRate": [{
+        "id": 2,
+        "weight": 13
+      },
+      {
+        "id": 4,
+        "weight": 9
+      },
+      {
+        "id": 8,
+        "weight": 9
+      },
+      {
+        "id": 16,
+        "weight": 13
+      },
+      {
+        "id": 32,
+        "weight": 9
+      },
+      {
+        "id": 64,
+        "weight": 9
+      },
+      {
+        "id": 128,
+        "weight": 8
+      }
+    ],
+    "twoTotalWeight": 70,
+    "threeWeightRate": [{
+        "id": 2,
+        "weight": 16
+      },
+      {
+        "id": 4,
+        "weight": 9
+      },
+      {
+        "id": 8,
+        "weight": 9
+      },
+      {
+        "id": 16,
+        "weight": 13
+      },
+      {
+        "id": 32,
+        "weight": 8
+      },
+      {
+        "id": 64,
+        "weight": 8
+      },
+      {
+        "id": 128,
+        "weight": 7
+      }
+    ],
+    "threeTotalWeight": 70,
+    "fourWeightRate": [{
+      "id": 2,
+        "weight": 16
+      },
+      {
+        "id": 4,
+        "weight": 9
+      },
+      {
+        "id": 8,
+        "weight": 9
+      },
+      {
+        "id": 16,
+        "weight": 13
+      },
+      {
+        "id": 32,
+        "weight": 8
+      },
+      {
+        "id": 64,
+        "weight": 8
+      },
+      {
+        "id": 128,
+        "weight": 7
+      }
+    ],
+    "fourTotalWeight": 70,
+    "fiveWeightRate": [{
+      "id": 2,
+        "weight": 16
+      },
+      {
+        "id": 4,
+        "weight": 9
+      },
+      {
+        "id": 8,
+        "weight": 9
+      },
+      {
+        "id": 16,
+        "weight": 13
+      },
+      {
+        "id": 32,
+        "weight": 8
+      },
+      {
+        "id": 64,
+        "weight": 8
+      },
+      {
+        "id": 128,
+        "weight": 7
+      }
+    ],
+    "fiveTotalWeight": 70
+  }
+}

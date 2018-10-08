@@ -1,0 +1,809 @@
+2018-07-12T06:34:31.860Z - normal: Load ~/.CocosCreator/settings.json
+2018-07-12T06:34:31.866Z - normal: checking language setting...
+2018-07-12T06:34:31.867Z - normal: Language: zh
+2018-07-12T06:34:32.746Z - success: protocol editor-framework registered
+2018-07-12T06:34:32.747Z - success: protocol app registered
+2018-07-12T06:34:32.747Z - success: protocol theme registered
+2018-07-12T06:34:32.747Z - success: protocol packages registered
+2018-07-12T06:34:32.747Z - success: protocol unpack registerred
+2018-07-12T06:34:32.747Z - success: protocol disable-commonjs registerred
+2018-07-12T06:34:32.830Z - normal: connected!
+2018-07-12T06:34:32.832Z - normal: Check project /Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712
+2018-07-12T06:34:32.834Z - normal: Initializing Cocos2d
+2018-07-12T06:34:33.120Z - normal: Initializing Asset Database
+2018-07-12T06:34:33.157Z - success: protocol uuid registerred
+2018-07-12T06:34:33.157Z - success: protocol db registerred
+2018-07-12T06:34:33.157Z - success: protocol thumbnail registerred
+2018-07-12T06:34:33.158Z - normal: Loading editor/builtin packages
+2018-07-12T06:34:33.177Z - success: anysdk loaded
+2018-07-12T06:34:33.294Z - success: assets loaded
+2018-07-12T06:34:33.298Z - success: builder loaded
+2018-07-12T06:34:33.299Z - success: cocos-analytics loaded
+2018-07-12T06:34:33.303Z - success: console loaded
+2018-07-12T06:34:33.337Z - success: fb-instant-games loaded
+2018-07-12T06:34:33.342Z - success: hierarchy loaded
+2018-07-12T06:34:33.346Z - success: inspector loaded
+2018-07-12T06:34:33.347Z - success: keystore loaded
+2018-07-12T06:34:33.356Z - success: node-library loaded
+2018-07-12T06:34:33.358Z - success: package-asset loaded
+2018-07-12T06:34:33.359Z - success: preferences loaded
+2018-07-12T06:34:33.362Z - success: project-exporter loaded
+2018-07-12T06:34:33.378Z - success: project-importer loaded
+2018-07-12T06:34:33.382Z - success: project-settings loaded
+2018-07-12T06:34:33.385Z - success: ui-kit loaded
+2018-07-12T06:34:33.390Z - success: ui-grid loaded
+2018-07-12T06:34:33.394Z - success: scene loaded
+2018-07-12T06:34:33.396Z - success: sprite-editor loaded
+2018-07-12T06:34:33.403Z - success: store loaded
+2018-07-12T06:34:33.412Z - success: timeline loaded
+2018-07-12T06:34:33.412Z - normal: Loading builtin packages
+2018-07-12T06:34:33.417Z - success: asset-db-debugger loaded
+2018-07-12T06:34:33.418Z - success: color-picker loaded
+2018-07-12T06:34:33.422Z - success: package-manager loaded
+2018-07-12T06:34:33.426Z - success: sdkbox loaded
+2018-07-12T06:34:33.433Z - success: tester loaded
+2018-07-12T06:34:33.436Z - success: ui-kit-preview-extra loaded
+2018-07-12T06:34:33.440Z - success: ui-kit-preview loaded
+2018-07-12T06:34:33.443Z - success: ui-tree loaded
+2018-07-12T06:34:34.610Z - normal: Initializing project /Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712
+2018-07-12T06:34:34.613Z - normal: Loading packages
+2018-07-12T06:34:34.769Z - success: game-preview loaded
+2018-07-12T06:34:34.778Z - success: i18n loaded
+2018-07-12T06:34:34.784Z - normal: package load
+2018-07-12T06:34:34.785Z - success: json-lint loaded
+2018-07-12T06:34:34.785Z - normal: Watching packages
+2018-07-12T06:34:34.824Z - normal: Run Application
+2018-07-12T06:34:37.013Z - success: preview server running at http://localhost:7457
+2018-07-12T06:34:47.331Z - normal: 1.9.1
+2018-07-12T07:16:59.323Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712/build",
+  "debug": false,
+  "dest": "/Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "CCSpriteDistortion",
+    "LabelOutline",
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "EditorBox",
+    "WebView",
+    "RichText",
+    "MotionStreak",
+    "DragonBones",
+    "Physics",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.tetris2048",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "6f8dcfa9-06eb-4663-8e0a-16f3c794744b"
+  ],
+  "sourceMaps": false,
+  "startScene": "6f8dcfa9-06eb-4663-8e0a-16f3c794744b",
+  "template": "link",
+  "title": "Tetris2048",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wxf811feddef45fc13",
+    "orientation": "portrait",
+    "subContext": "openDataContext"
+  },
+  "xxteaKey": "7d34e7b7-4193-49",
+  "zipCompressJs": true,
+  "project": "/Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712",
+  "projectName": "Tetris2048",
+  "debugBuildWorker": false
+}
+2018-07-12T07:16:59.340Z - normal: Building /Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712
+2018-07-12T07:16:59.340Z - normal: Destination /Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712/build/wechatgame
+2018-07-12T07:16:59.680Z - normal: Delete /Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712/build/wechatgame/**/*
+2018-07-12T07:17:13.253Z - normal: Compiled project javascript file successfully
+2018-07-12T07:17:13.254Z - normal: Start building assets
+2018-07-12T07:17:13.254Z - normal: Start spawn build-worker
+2018-07-12T07:17:14.065Z - normal: Finish spawn build-worker
+2018-07-12T07:17:14.065Z - normal: Start init build-worker
+2018-07-12T07:17:16.410Z - normal: 1.9.1
+2018-07-12T07:17:16.705Z - normal: Finish init build-worker
+2018-07-12T07:17:16.705Z - normal: Start build-assets in worker
+2018-07-12T07:17:16.964Z - warn: Can not find particle texture in /Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712/assets/resources/particle/demo10.png, plist: /Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712/assets/resources/particle/bomb.plist
+2018-07-12T07:17:19.487Z - normal: Finish build-assets in worker
+2018-07-12T07:17:19.495Z - normal: Finish building assets
+2018-07-12T07:17:19.548Z - normal: Start building raw assets
+2018-07-12T07:17:19.549Z - normal: Start building plugin scripts
+2018-07-12T07:17:20.144Z - normal: Finish building plugin scripts
+2018-07-12T07:17:20.178Z - normal: Finish building raw assets
+2018-07-12T07:17:20.181Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-07-12T07:17:20.272Z - normal: Built to "/Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712/build/wechatgame" successfully
+2018-07-12T07:21:29.210Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712/build",
+  "debug": false,
+  "dest": "/Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "CCSpriteDistortion",
+    "LabelOutline",
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "EditorBox",
+    "WebView",
+    "RichText",
+    "MotionStreak",
+    "DragonBones",
+    "Physics",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.tetris2048",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "6f8dcfa9-06eb-4663-8e0a-16f3c794744b"
+  ],
+  "sourceMaps": false,
+  "startScene": "6f8dcfa9-06eb-4663-8e0a-16f3c794744b",
+  "template": "link",
+  "title": "Tetris2048",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wxf811feddef45fc13",
+    "orientation": "portrait",
+    "subContext": "openDataContext"
+  },
+  "xxteaKey": "7d34e7b7-4193-49",
+  "zipCompressJs": true,
+  "project": "/Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712",
+  "projectName": "Tetris2048",
+  "debugBuildWorker": false
+}
+2018-07-12T07:21:29.278Z - normal: Building /Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712
+2018-07-12T07:21:29.278Z - normal: Destination /Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712/build/wechatgame
+2018-07-12T07:21:29.279Z - normal: Delete /Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712/build/wechatgame/**/*
+2018-07-12T07:21:50.361Z - normal: Compiled project javascript file successfully
+2018-07-12T07:21:50.363Z - normal: Start building assets
+2018-07-12T07:21:50.363Z - normal: Start spawn build-worker
+2018-07-12T07:21:51.393Z - normal: Finish spawn build-worker
+2018-07-12T07:21:51.394Z - normal: Start init build-worker
+2018-07-12T07:21:54.583Z - normal: 1.9.1
+2018-07-12T07:21:54.974Z - normal: Finish init build-worker
+2018-07-12T07:21:54.974Z - normal: Start build-assets in worker
+2018-07-12T07:21:55.342Z - warn: Can not find particle texture in /Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712/assets/resources/particle/demo10.png, plist: /Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712/assets/resources/particle/bomb.plist
+2018-07-12T07:21:58.695Z - normal: Finish build-assets in worker
+2018-07-12T07:21:58.702Z - normal: Finish building assets
+2018-07-12T07:21:58.756Z - normal: Start building raw assets
+2018-07-12T07:21:58.757Z - normal: Start building plugin scripts
+2018-07-12T07:21:59.489Z - normal: Finish building plugin scripts
+2018-07-12T07:21:59.655Z - normal: Finish building raw assets
+2018-07-12T07:21:59.664Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-07-12T07:21:59.770Z - normal: Built to "/Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712/build/wechatgame" successfully
+2018-07-12T07:23:19.828Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712/build",
+  "debug": false,
+  "dest": "/Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "CCSpriteDistortion",
+    "LabelOutline",
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "EditorBox",
+    "WebView",
+    "RichText",
+    "MotionStreak",
+    "DragonBones",
+    "Physics",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.tetris2048",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "6f8dcfa9-06eb-4663-8e0a-16f3c794744b"
+  ],
+  "sourceMaps": false,
+  "startScene": "6f8dcfa9-06eb-4663-8e0a-16f3c794744b",
+  "template": "link",
+  "title": "Tetris2048",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wxf811feddef45fc13",
+    "orientation": "portrait",
+    "subContext": "openDataContext"
+  },
+  "xxteaKey": "7d34e7b7-4193-49",
+  "zipCompressJs": true,
+  "project": "/Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712",
+  "projectName": "Tetris2048",
+  "debugBuildWorker": false
+}
+2018-07-12T07:23:19.956Z - normal: Building /Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712
+2018-07-12T07:23:19.957Z - normal: Destination /Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712/build/wechatgame
+2018-07-12T07:23:19.958Z - normal: Delete /Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712/build/wechatgame/**/*
+2018-07-12T07:23:38.823Z - normal: Compiled project javascript file successfully
+2018-07-12T07:23:38.827Z - normal: Start building assets
+2018-07-12T07:23:38.828Z - normal: Start spawn build-worker
+2018-07-12T07:23:39.941Z - normal: Finish spawn build-worker
+2018-07-12T07:23:39.941Z - normal: Start init build-worker
+2018-07-12T07:23:43.398Z - normal: 1.9.1
+2018-07-12T07:23:43.807Z - normal: Finish init build-worker
+2018-07-12T07:23:43.807Z - normal: Start build-assets in worker
+2018-07-12T07:23:44.195Z - warn: Can not find particle texture in /Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712/assets/resources/particle/demo10.png, plist: /Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712/assets/resources/particle/bomb.plist
+2018-07-12T07:23:47.271Z - normal: Finish build-assets in worker
+2018-07-12T07:23:47.278Z - normal: Finish building assets
+2018-07-12T07:23:47.332Z - normal: Start building raw assets
+2018-07-12T07:23:47.333Z - normal: Start building plugin scripts
+2018-07-12T07:23:48.168Z - normal: Finish building plugin scripts
+2018-07-12T07:23:48.328Z - normal: Finish building raw assets
+2018-07-12T07:23:48.341Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-07-12T07:23:48.476Z - normal: Built to "/Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712/build/wechatgame" successfully
+2018-07-12T07:27:08.911Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712/build",
+  "debug": false,
+  "dest": "/Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "CCSpriteDistortion",
+    "LabelOutline",
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "EditorBox",
+    "WebView",
+    "RichText",
+    "MotionStreak",
+    "DragonBones",
+    "Physics",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.tetris2048",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "6f8dcfa9-06eb-4663-8e0a-16f3c794744b"
+  ],
+  "sourceMaps": false,
+  "startScene": "6f8dcfa9-06eb-4663-8e0a-16f3c794744b",
+  "template": "link",
+  "title": "Tetris2048",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wxf811feddef45fc13",
+    "orientation": "portrait",
+    "subContext": "openDataContext"
+  },
+  "xxteaKey": "7d34e7b7-4193-49",
+  "zipCompressJs": true,
+  "project": "/Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712",
+  "projectName": "Tetris2048",
+  "debugBuildWorker": false
+}
+2018-07-12T07:27:08.930Z - normal: Building /Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712
+2018-07-12T07:27:08.930Z - normal: Destination /Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712/build/wechatgame
+2018-07-12T07:27:08.931Z - normal: Delete /Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712/build/wechatgame/**/*
+2018-07-12T07:27:25.865Z - normal: Compiled project javascript file successfully
+2018-07-12T07:27:25.865Z - normal: Start building assets
+2018-07-12T07:27:25.865Z - normal: Start spawn build-worker
+2018-07-12T07:27:26.801Z - normal: Finish spawn build-worker
+2018-07-12T07:27:26.801Z - normal: Start init build-worker
+2018-07-12T07:27:29.597Z - normal: 1.9.1
+2018-07-12T07:27:29.938Z - normal: Finish init build-worker
+2018-07-12T07:27:29.938Z - normal: Start build-assets in worker
+2018-07-12T07:27:30.363Z - warn: Can not find particle texture in /Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712/assets/resources/particle/demo10.png, plist: /Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712/assets/resources/particle/bomb.plist
+2018-07-12T07:27:33.794Z - normal: Finish build-assets in worker
+2018-07-12T07:27:33.811Z - normal: Finish building assets
+2018-07-12T07:27:33.867Z - normal: Start building raw assets
+2018-07-12T07:27:33.868Z - normal: Start building plugin scripts
+2018-07-12T07:27:34.591Z - normal: Finish building plugin scripts
+2018-07-12T07:27:34.731Z - normal: Finish building raw assets
+2018-07-12T07:27:34.738Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-07-12T07:27:34.836Z - normal: Built to "/Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712/build/wechatgame" successfully
+2018-07-12T07:42:02.716Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712/build",
+  "debug": false,
+  "dest": "/Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "CCSpriteDistortion",
+    "LabelOutline",
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "EditorBox",
+    "WebView",
+    "RichText",
+    "MotionStreak",
+    "DragonBones",
+    "Physics",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.tetris2048",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "6f8dcfa9-06eb-4663-8e0a-16f3c794744b"
+  ],
+  "sourceMaps": false,
+  "startScene": "6f8dcfa9-06eb-4663-8e0a-16f3c794744b",
+  "template": "link",
+  "title": "Tetris2048",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wxf811feddef45fc13",
+    "orientation": "portrait",
+    "subContext": "openDataContext"
+  },
+  "xxteaKey": "7d34e7b7-4193-49",
+  "zipCompressJs": true,
+  "project": "/Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712",
+  "projectName": "Tetris2048",
+  "debugBuildWorker": false
+}
+2018-07-12T07:42:02.729Z - normal: Building /Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712
+2018-07-12T07:42:02.729Z - normal: Destination /Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712/build/wechatgame
+2018-07-12T07:42:02.730Z - normal: Delete /Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712/build/wechatgame/**/*
+2018-07-12T07:42:15.194Z - normal: Compiled project javascript file successfully
+2018-07-12T07:42:15.194Z - normal: Start building assets
+2018-07-12T07:42:15.194Z - normal: Start spawn build-worker
+2018-07-12T07:42:16.030Z - normal: Finish spawn build-worker
+2018-07-12T07:42:16.031Z - normal: Start init build-worker
+2018-07-12T07:42:18.270Z - normal: 1.9.1
+2018-07-12T07:42:18.509Z - normal: Finish init build-worker
+2018-07-12T07:42:18.509Z - normal: Start build-assets in worker
+2018-07-12T07:42:18.785Z - warn: Can not find particle texture in /Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712/assets/resources/particle/demo10.png, plist: /Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712/assets/resources/particle/bomb.plist
+2018-07-12T07:42:21.649Z - normal: Finish build-assets in worker
+2018-07-12T07:42:21.691Z - normal: Finish building assets
+2018-07-12T07:42:21.738Z - normal: Start building raw assets
+2018-07-12T07:42:21.739Z - normal: Start building plugin scripts
+2018-07-12T07:42:22.265Z - normal: Finish building plugin scripts
+2018-07-12T07:42:22.296Z - normal: Finish building raw assets
+2018-07-12T07:42:22.303Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-07-12T07:42:22.400Z - normal: Built to "/Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712/build/wechatgame" successfully
+2018-07-12T08:10:21.181Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712/build",
+  "debug": false,
+  "dest": "/Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "CCSpriteDistortion",
+    "LabelOutline",
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "EditorBox",
+    "WebView",
+    "RichText",
+    "MotionStreak",
+    "DragonBones",
+    "Physics",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.tetris2048",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "6f8dcfa9-06eb-4663-8e0a-16f3c794744b"
+  ],
+  "sourceMaps": false,
+  "startScene": "6f8dcfa9-06eb-4663-8e0a-16f3c794744b",
+  "template": "link",
+  "title": "Tetris2048",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wxf811feddef45fc13",
+    "orientation": "portrait",
+    "subContext": "openDataContext"
+  },
+  "xxteaKey": "7d34e7b7-4193-49",
+  "zipCompressJs": true,
+  "project": "/Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712",
+  "projectName": "Tetris2048",
+  "debugBuildWorker": false
+}
+2018-07-12T08:10:21.200Z - normal: Building /Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712
+2018-07-12T08:10:21.200Z - normal: Destination /Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712/build/wechatgame
+2018-07-12T08:10:21.203Z - normal: Delete /Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712/build/wechatgame/**/*
+2018-07-12T08:10:34.023Z - normal: Compiled project javascript file successfully
+2018-07-12T08:10:34.024Z - normal: Start building assets
+2018-07-12T08:10:34.024Z - normal: Start spawn build-worker
+2018-07-12T08:10:34.841Z - normal: Finish spawn build-worker
+2018-07-12T08:10:34.841Z - normal: Start init build-worker
+2018-07-12T08:10:37.362Z - normal: 1.9.1
+2018-07-12T08:10:37.655Z - normal: Finish init build-worker
+2018-07-12T08:10:37.655Z - normal: Start build-assets in worker
+2018-07-12T08:10:38.054Z - warn: Can not find particle texture in /Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712/assets/resources/particle/demo10.png, plist: /Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712/assets/resources/particle/bomb.plist
+2018-07-12T08:10:40.617Z - normal: Finish build-assets in worker
+2018-07-12T08:10:40.620Z - normal: Finish building assets
+2018-07-12T08:10:40.675Z - normal: Start building raw assets
+2018-07-12T08:10:40.676Z - normal: Start building plugin scripts
+2018-07-12T08:10:41.276Z - normal: Finish building plugin scripts
+2018-07-12T08:10:41.376Z - normal: Finish building raw assets
+2018-07-12T08:10:41.380Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-07-12T08:10:41.456Z - normal: Built to "/Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712/build/wechatgame" successfully
+2018-07-12T08:34:45.542Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712/build",
+  "debug": false,
+  "dest": "/Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "CCSpriteDistortion",
+    "LabelOutline",
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "EditorBox",
+    "WebView",
+    "RichText",
+    "MotionStreak",
+    "DragonBones",
+    "Physics",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.tetris2048",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "6f8dcfa9-06eb-4663-8e0a-16f3c794744b"
+  ],
+  "sourceMaps": false,
+  "startScene": "6f8dcfa9-06eb-4663-8e0a-16f3c794744b",
+  "template": "link",
+  "title": "Tetris2048",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wxf811feddef45fc13",
+    "orientation": "portrait",
+    "subContext": "openDataContext"
+  },
+  "xxteaKey": "7d34e7b7-4193-49",
+  "zipCompressJs": true,
+  "project": "/Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712",
+  "projectName": "Tetris2048",
+  "debugBuildWorker": false
+}
+2018-07-12T08:34:45.577Z - normal: Building /Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712
+2018-07-12T08:34:45.577Z - normal: Destination /Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712/build/wechatgame
+2018-07-12T08:34:45.578Z - normal: Delete /Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712/build/wechatgame/**/*
+2018-07-12T08:34:59.119Z - normal: Compiled project javascript file successfully
+2018-07-12T08:34:59.119Z - normal: Start building assets
+2018-07-12T08:34:59.119Z - normal: Start spawn build-worker
+2018-07-12T08:34:59.920Z - normal: Finish spawn build-worker
+2018-07-12T08:34:59.921Z - normal: Start init build-worker
+2018-07-12T08:35:02.177Z - normal: 1.9.1
+2018-07-12T08:35:02.408Z - normal: Finish init build-worker
+2018-07-12T08:35:02.408Z - normal: Start build-assets in worker
+2018-07-12T08:35:02.623Z - warn: Can not find particle texture in /Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712/assets/resources/particle/demo10.png, plist: /Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712/assets/resources/particle/bomb.plist
+2018-07-12T08:35:04.992Z - normal: Finish build-assets in worker
+2018-07-12T08:35:04.997Z - normal: Finish building assets
+2018-07-12T08:35:05.050Z - normal: Start building raw assets
+2018-07-12T08:35:05.051Z - normal: Start building plugin scripts
+2018-07-12T08:35:05.592Z - normal: Finish building plugin scripts
+2018-07-12T08:35:05.622Z - normal: Finish building raw assets
+2018-07-12T08:35:05.627Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-07-12T08:35:05.723Z - normal: Built to "/Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712/build/wechatgame" successfully
+2018-07-12T12:22:27.522Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712/build",
+  "debug": false,
+  "dest": "/Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "CCSpriteDistortion",
+    "LabelOutline",
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "EditorBox",
+    "WebView",
+    "RichText",
+    "MotionStreak",
+    "DragonBones",
+    "Physics",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.tetris2048",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "6f8dcfa9-06eb-4663-8e0a-16f3c794744b"
+  ],
+  "sourceMaps": false,
+  "startScene": "6f8dcfa9-06eb-4663-8e0a-16f3c794744b",
+  "template": "link",
+  "title": "Tetris2048",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wxf811feddef45fc13",
+    "orientation": "portrait",
+    "subContext": "openDataContext"
+  },
+  "xxteaKey": "7d34e7b7-4193-49",
+  "zipCompressJs": true,
+  "project": "/Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712",
+  "projectName": "Tetris2048",
+  "debugBuildWorker": false
+}
+2018-07-12T12:22:27.532Z - normal: Building /Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712
+2018-07-12T12:22:27.532Z - normal: Destination /Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712/build/wechatgame
+2018-07-12T12:22:27.536Z - normal: Delete /Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712/build/wechatgame/**/*
+2018-07-12T12:22:39.818Z - normal: Compiled project javascript file successfully
+2018-07-12T12:22:39.819Z - normal: Start building assets
+2018-07-12T12:22:39.819Z - normal: Start spawn build-worker
+2018-07-12T12:22:40.691Z - normal: Finish spawn build-worker
+2018-07-12T12:22:40.691Z - normal: Start init build-worker
+2018-07-12T12:22:43.021Z - normal: 1.9.1
+2018-07-12T12:22:43.290Z - normal: Finish init build-worker
+2018-07-12T12:22:43.290Z - normal: Start build-assets in worker
+2018-07-12T12:22:43.537Z - warn: Can not find particle texture in /Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712/assets/resources/particle/demo10.png, plist: /Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712/assets/resources/particle/bomb.plist
+2018-07-12T12:22:45.727Z - normal: Finish build-assets in worker
+2018-07-12T12:22:45.733Z - normal: Finish building assets
+2018-07-12T12:22:45.781Z - normal: Start building raw assets
+2018-07-12T12:22:45.782Z - normal: Start building plugin scripts
+2018-07-12T12:22:46.329Z - normal: Finish building plugin scripts
+2018-07-12T12:22:46.461Z - normal: Finish building raw assets
+2018-07-12T12:22:46.468Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-07-12T12:22:46.558Z - normal: Built to "/Users/tuyoo/Match3/games/Tetris2048/client/classic2048-0712/build/wechatgame" successfully

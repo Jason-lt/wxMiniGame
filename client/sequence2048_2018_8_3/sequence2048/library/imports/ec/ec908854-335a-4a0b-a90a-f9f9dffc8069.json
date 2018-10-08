@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "seq_rectangle_2",
+    "texture": "bd8611c0-cb4e-4098-a181-4a522a0d9e90",
+    "atlas": "1686e810-6542-42d2-bafa-58f1494fd81d",
+    "rect": [
+      154,
+      498,
+      57,
+      56
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      57,
+      56
+    ],
+    "rotated": 1,
+    "capInsets": [
+      10,
+      10,
+      10,
+      10
+    ]
+  }
+}

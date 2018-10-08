@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 240
+/newsvn/Match3/!svn/ver/1014/games/Tetris2048/client/my2048_readygo/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/cis/__/external/sources/Box2D/Collision/Shapes
+END
+b2CircleShape.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 258
+/newsvn/Match3/!svn/ver/1014/games/Tetris2048/client/my2048_readygo/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/cis/__/external/sources/Box2D/Collision/Shapes/b2CircleShape.o.d
+END
+b2ChainShape.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 257
+/newsvn/Match3/!svn/ver/1014/games/Tetris2048/client/my2048_readygo/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/cis/__/external/sources/Box2D/Collision/Shapes/b2ChainShape.o.d
+END
+b2EdgeShape.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 256
+/newsvn/Match3/!svn/ver/1014/games/Tetris2048/client/my2048_readygo/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/cis/__/external/sources/Box2D/Collision/Shapes/b2EdgeShape.o.d
+END
+b2PolygonShape.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 259
+/newsvn/Match3/!svn/ver/1014/games/Tetris2048/client/my2048_readygo/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/cis/__/external/sources/Box2D/Collision/Shapes/b2PolygonShape.o.d
+END

@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/newsvn/Match3/!svn/ver/970/games/Tetris2048/client/my2048_1/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/audioengine_static
+END
+UrlAudioPlayer.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 224
+/newsvn/Match3/!svn/ver/970/games/Tetris2048/client/my2048_1/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/audioengine_static/UrlAudioPlayer.o.d
+END
+AudioDecoderProvider.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 230
+/newsvn/Match3/!svn/ver/970/games/Tetris2048/client/my2048_1/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/audioengine_static/AudioDecoderProvider.o.d
+END
+Track.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 215
+/newsvn/Match3/!svn/ver/970/games/Tetris2048/client/my2048_1/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/audioengine_static/Track.o.d
+END
+AudioDecoderWav.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 225
+/newsvn/Match3/!svn/ver/970/games/Tetris2048/client/my2048_1/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/audioengine_static/AudioDecoderWav.o.d
+END
+AudioMixer.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 220
+/newsvn/Match3/!svn/ver/970/games/Tetris2048/client/my2048_1/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/audioengine_static/AudioMixer.o.d
+END
+AudioEngine-inl.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 225
+/newsvn/Match3/!svn/ver/970/games/Tetris2048/client/my2048_1/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/audioengine_static/AudioEngine-inl.o.d
+END
+AudioDecoderMp3.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 225
+/newsvn/Match3/!svn/ver/970/games/Tetris2048/client/my2048_1/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/audioengine_static/AudioDecoderMp3.o.d
+END
+PcmData.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 217
+/newsvn/Match3/!svn/ver/970/games/Tetris2048/client/my2048_1/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/audioengine_static/PcmData.o.d
+END
+AudioMixerController.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 230
+/newsvn/Match3/!svn/ver/970/games/Tetris2048/client/my2048_1/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/audioengine_static/AudioMixerController.o.d
+END
+AudioResampler.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 224
+/newsvn/Match3/!svn/ver/970/games/Tetris2048/client/my2048_1/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/audioengine_static/AudioResampler.o.d
+END
+PcmAudioPlayer.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 224
+/newsvn/Match3/!svn/ver/970/games/Tetris2048/client/my2048_1/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/audioengine_static/PcmAudioPlayer.o.d
+END
+AudioDecoderSLES.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 226
+/newsvn/Match3/!svn/ver/970/games/Tetris2048/client/my2048_1/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/audioengine_static/AudioDecoderSLES.o.d
+END
+mp3reader.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 219
+/newsvn/Match3/!svn/ver/970/games/Tetris2048/client/my2048_1/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/audioengine_static/mp3reader.o.d
+END
+PcmAudioService.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 225
+/newsvn/Match3/!svn/ver/970/games/Tetris2048/client/my2048_1/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/audioengine_static/PcmAudioService.o.d
+END
+AudioResamplerCubic.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 229
+/newsvn/Match3/!svn/ver/970/games/Tetris2048/client/my2048_1/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/audioengine_static/AudioResamplerCubic.o.d
+END
+PcmBufferProvider.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 227
+/newsvn/Match3/!svn/ver/970/games/Tetris2048/client/my2048_1/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/audioengine_static/PcmBufferProvider.o.d
+END
+AudioDecoderOgg.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 225
+/newsvn/Match3/!svn/ver/970/games/Tetris2048/client/my2048_1/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/audioengine_static/AudioDecoderOgg.o.d
+END
+AudioDecoder.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 222
+/newsvn/Match3/!svn/ver/970/games/Tetris2048/client/my2048_1/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/audioengine_static/AudioDecoder.o.d
+END
+tinysndfile.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 221
+/newsvn/Match3/!svn/ver/970/games/Tetris2048/client/my2048_1/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/audioengine_static/tinysndfile.o.d
+END
+AudioPlayerProvider.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 229
+/newsvn/Match3/!svn/ver/970/games/Tetris2048/client/my2048_1/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/audioengine_static/AudioPlayerProvider.o.d
+END
+AssetFd.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 217
+/newsvn/Match3/!svn/ver/970/games/Tetris2048/client/my2048_1/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/audioengine_static/AssetFd.o.d
+END

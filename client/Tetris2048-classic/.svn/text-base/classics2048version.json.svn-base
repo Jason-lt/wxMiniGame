@@ -1,0 +1,11 @@
+{
+    "cdnGameConfig": {
+        "totalSwith": false,
+        "startScoreSwith": false,
+        "startScoreLimit": 800,
+        "reviveScoreSwith": false,
+        "reviveScoreLimit": 500,
+        "shareScoreSwith": false,
+        "shareScoreLimit": 1000
+    }
+}

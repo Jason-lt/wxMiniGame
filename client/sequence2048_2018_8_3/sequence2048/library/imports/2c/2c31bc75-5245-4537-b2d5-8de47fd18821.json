@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "2048kp_tx_lizi_yuan",
+    "texture": "727cf4ad-e123-4b4f-8f3d-a76b20f76412",
+    "atlas": "",
+    "rect": [
+      12,
+      0,
+      65,
+      63
+    ],
+    "offset": [
+      6,
+      3.5
+    ],
+    "originalSize": [
+      77,
+      70
+    ]
+  }
+}

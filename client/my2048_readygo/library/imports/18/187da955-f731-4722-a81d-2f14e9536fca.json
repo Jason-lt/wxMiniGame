@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "signinBg",
+    "texture": "27994cd5-d0cf-440c-8946-123ad02e58e4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      115,
+      113
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      115,
+      113
+    ]
+  }
+}

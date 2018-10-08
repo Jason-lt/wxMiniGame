@@ -1,0 +1,24 @@
+{
+    "cdnGameConfig": {
+        "totalSwith": true,
+        "startScoreSwith": true,
+        "startScoreLimit": 800,
+        "reviveScoreSwith": true,
+        "reviveScoreLimit": 500,
+        "shareScoreSwith": true,
+        "shareScoreLimit": 1000,
+        "popPropTotalTimes": 1,
+        "weightRate": 0.3,
+        "scoreEquals": [2048, 4096],
+        "newUserPropCd": 60000,
+        "newUserScore": 0,
+        "newUserEquals": [64],
+        "validTime": 3600000
+    },
+    
+    "bannerAdConfig": {
+        "swith": true,
+        "interval": 20000,
+        "showHeight": 90
+    }
+}

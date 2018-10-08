@@ -1,0 +1,33 @@
+{
+    "shareImages": [
+        "https://sanxqn.nalrer.cn/tysanxiao/new2048/shareImages/weixin_fenxiang-3.jpg",
+        "https://sanxqn.nalrer.cn/tysanxiao/new2048/shareImages/weixin_fenxiang-4.jpg",
+        "https://sanxqn.nalrer.cn/tysanxiao/new2048/shareImages/weixin_fenxiang-5.jpg",
+        "https://sanxqn.nalrer.cn/tysanxiao/new2048/shareImages/weixin_fenxiang-6.png",
+        "https://sanxqn.nalrer.cn/tysanxiao/new2048/shareImages/weixin_fenxiang-7.png",
+        "https://sanxqn.nalrer.cn/tysanxiao/new2048/shareImages/weixin_fenxiang-8.png"
+    ],
+    "shareTexts": [
+        "这游戏玩不到2万分的自己退群吧",
+        "方块界最好玩的2048，2048界最好玩的俄罗斯方块",
+        "朋友圈智商最高的一群人，已经悄悄玩起了这个",
+        "本以为，这波我必不会死，结果……",
+        "欧美玩家已经玩疯了！国内终于开放了，点击查看",
+        "来自战斗民族的游戏!",
+        "8090的回忆，俄罗斯方块重磅回归",
+        "玩这个坐过了3站，但是合成了3个2048这波不亏！",
+        "我已凑齐7个2048，来一起召唤神龙吧！",
+        "智慧与美貌并存，俄罗斯与2048双飞。",
+        "白富美都去约会了，剩下矮穷矬的我还在这里玩这个！",
+        "加班这辈子不可能加班，只能玩这个勉强维持生活酱紫",
+        "[有人@你]想去俄罗斯看世界杯？玩玩这个游戏再说！"
+    ],
+    "propShareImages": {
+        "01": "https://sanxqn.nalrer.cn/tysanxiao/new2048/shareImages/prop_01.png",
+        "02": "https://sanxqn.nalrer.cn/tysanxiao/new2048/shareImages/prop_02.png"
+    },
+    "propShareTexts":{
+        "01":"10W分大佬都在用的消除锤锤免费送，快来抢！",
+        "02":"10W分大佬都在用的万能方块免费送，快来抢！"
+    }
+}

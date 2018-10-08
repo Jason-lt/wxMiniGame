@@ -1,0 +1,39 @@
+{
+  "appKey": "",
+  "appSecret": "",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.sequence2048",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "startScene": "8c443c50-25eb-4a3f-a1c3-7db20af5e56f",
+  "title": "sequence2048",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wxf1e6cc8e12d25d1f",
+    "isSubdomain": false,
+    "orientation": "portrait"
+  },
+  "xxteaKey": "74de1afb-38a8-46",
+  "zipCompressJs": true
+}

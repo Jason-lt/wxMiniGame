@@ -1,0 +1,2259 @@
+2018-07-13T02:36:02.897Z - normal: Load ~/.CocosCreator/settings.json
+2018-07-13T02:36:02.908Z - normal: checking language setting...
+2018-07-13T02:36:02.909Z - normal: Language: zh
+2018-07-13T02:36:04.129Z - success: protocol editor-framework registered
+2018-07-13T02:36:04.130Z - success: protocol app registered
+2018-07-13T02:36:04.130Z - success: protocol theme registered
+2018-07-13T02:36:04.130Z - success: protocol packages registered
+2018-07-13T02:36:04.130Z - success: protocol unpack registerred
+2018-07-13T02:36:04.131Z - success: protocol disable-commonjs registerred
+2018-07-13T02:36:04.224Z - normal: connected!
+2018-07-13T02:36:04.226Z - normal: Check project /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1
+2018-07-13T02:36:04.228Z - normal: Initializing Cocos2d
+2018-07-13T02:36:04.498Z - normal: Initializing Asset Database
+2018-07-13T02:36:04.546Z - success: protocol uuid registerred
+2018-07-13T02:36:04.546Z - success: protocol db registerred
+2018-07-13T02:36:04.547Z - success: protocol thumbnail registerred
+2018-07-13T02:36:04.547Z - normal: Loading editor/builtin packages
+2018-07-13T02:36:04.580Z - success: anysdk loaded
+2018-07-13T02:36:04.765Z - success: assets loaded
+2018-07-13T02:36:04.772Z - success: builder loaded
+2018-07-13T02:36:04.775Z - success: cocos-analytics loaded
+2018-07-13T02:36:04.782Z - success: console loaded
+2018-07-13T02:36:04.843Z - success: fb-instant-games loaded
+2018-07-13T02:36:04.849Z - success: hierarchy loaded
+2018-07-13T02:36:04.856Z - success: inspector loaded
+2018-07-13T02:36:04.857Z - success: keystore loaded
+2018-07-13T02:36:04.870Z - success: node-library loaded
+2018-07-13T02:36:04.872Z - success: package-asset loaded
+2018-07-13T02:36:04.875Z - success: preferences loaded
+2018-07-13T02:36:04.880Z - success: project-exporter loaded
+2018-07-13T02:36:04.901Z - success: project-importer loaded
+2018-07-13T02:36:04.906Z - success: project-settings loaded
+2018-07-13T02:36:04.911Z - success: ui-kit loaded
+2018-07-13T02:36:04.920Z - success: ui-grid loaded
+2018-07-13T02:36:04.926Z - success: scene loaded
+2018-07-13T02:36:04.928Z - success: sprite-editor loaded
+2018-07-13T02:36:04.934Z - success: store loaded
+2018-07-13T02:36:04.941Z - success: timeline loaded
+2018-07-13T02:36:04.941Z - normal: Loading builtin packages
+2018-07-13T02:36:04.946Z - success: asset-db-debugger loaded
+2018-07-13T02:36:04.947Z - success: color-picker loaded
+2018-07-13T02:36:04.952Z - success: package-manager loaded
+2018-07-13T02:36:04.960Z - success: sdkbox loaded
+2018-07-13T02:36:04.971Z - success: tester loaded
+2018-07-13T02:36:04.975Z - success: ui-kit-preview-extra loaded
+2018-07-13T02:36:04.981Z - success: ui-kit-preview loaded
+2018-07-13T02:36:04.987Z - success: ui-tree loaded
+2018-07-13T02:36:06.525Z - normal: Initializing project /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1
+2018-07-13T02:36:06.528Z - normal: Loading packages
+2018-07-13T02:36:06.533Z - normal: Watching packages
+2018-07-13T02:36:06.547Z - normal: Run Application
+2018-07-13T02:36:13.951Z - success: preview server running at http://localhost:7458
+2018-07-13T02:36:25.435Z - normal: 1.9.1
+2018-07-13T02:40:15.286Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build",
+  "debug": false,
+  "dest": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "CCSpriteDistortion",
+    "LabelOutline",
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "EditorBox",
+    "WebView",
+    "RichText",
+    "MotionStreak",
+    "DragonBones",
+    "Physics",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.tetris2048",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "6f8dcfa9-06eb-4663-8e0a-16f3c794744b"
+  ],
+  "sourceMaps": false,
+  "startScene": "6f8dcfa9-06eb-4663-8e0a-16f3c794744b",
+  "template": "link",
+  "title": "Tetris2048",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wxb5bbc7baaf5460c3",
+    "orientation": "portrait",
+    "subContext": "openDataContext"
+  },
+  "xxteaKey": "7d34e7b7-4193-49",
+  "zipCompressJs": true,
+  "project": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1",
+  "projectName": "Tetris2048",
+  "debugBuildWorker": false
+}
+2018-07-13T02:40:15.293Z - normal: Building /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1
+2018-07-13T02:40:15.293Z - normal: Destination /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame
+2018-07-13T02:40:15.749Z - normal: Delete /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame/**/*
+2018-07-13T02:41:06.900Z - normal: Compiled project javascript file successfully
+2018-07-13T02:41:06.902Z - normal: Start building assets
+2018-07-13T02:41:06.902Z - normal: Start spawn build-worker
+2018-07-13T02:41:07.992Z - normal: Finish spawn build-worker
+2018-07-13T02:41:07.992Z - normal: Start init build-worker
+2018-07-13T02:41:11.094Z - normal: 1.9.1
+2018-07-13T02:41:11.516Z - normal: Finish init build-worker
+2018-07-13T02:41:11.516Z - normal: Start build-assets in worker
+2018-07-13T02:41:11.925Z - warn: Can not find particle texture in /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/assets/resources/particle/demo10.png, plist: /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/assets/resources/particle/bomb.plist
+2018-07-13T02:41:15.245Z - normal: Finish build-assets in worker
+2018-07-13T02:41:15.252Z - normal: Finish building assets
+2018-07-13T02:41:15.326Z - normal: Start building raw assets
+2018-07-13T02:41:15.328Z - normal: Start building plugin scripts
+2018-07-13T02:41:16.067Z - normal: Finish building plugin scripts
+2018-07-13T02:41:16.147Z - normal: Finish building raw assets
+2018-07-13T02:41:16.158Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-07-13T02:41:16.600Z - normal: Built to "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame" successfully
+2018-07-13T06:25:53.980Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build",
+  "debug": false,
+  "dest": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "CCSpriteDistortion",
+    "LabelOutline",
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "EditorBox",
+    "WebView",
+    "RichText",
+    "MotionStreak",
+    "DragonBones",
+    "Physics",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.tetris2048",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "6f8dcfa9-06eb-4663-8e0a-16f3c794744b"
+  ],
+  "sourceMaps": false,
+  "startScene": "6f8dcfa9-06eb-4663-8e0a-16f3c794744b",
+  "template": "link",
+  "title": "Tetris2048",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wxb5bbc7baaf5460c3",
+    "orientation": "portrait",
+    "subContext": "openDataContext"
+  },
+  "xxteaKey": "7d34e7b7-4193-49",
+  "zipCompressJs": true,
+  "project": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1",
+  "projectName": "Tetris2048",
+  "debugBuildWorker": false
+}
+2018-07-13T06:25:53.995Z - normal: Building /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1
+2018-07-13T06:25:53.995Z - normal: Destination /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame
+2018-07-13T06:25:54.000Z - normal: Delete /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame/**/*
+2018-07-13T06:26:08.195Z - normal: Compiled project javascript file successfully
+2018-07-13T06:26:08.196Z - normal: Start building assets
+2018-07-13T06:26:08.196Z - normal: Start spawn build-worker
+2018-07-13T06:26:09.029Z - normal: Finish spawn build-worker
+2018-07-13T06:26:09.029Z - normal: Start init build-worker
+2018-07-13T06:26:11.531Z - normal: 1.9.1
+2018-07-13T06:26:11.790Z - normal: Finish init build-worker
+2018-07-13T06:26:11.791Z - normal: Start build-assets in worker
+2018-07-13T06:26:12.038Z - warn: Can not find particle texture in /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/assets/resources/particle/demo10.png, plist: /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/assets/resources/particle/bomb.plist
+2018-07-13T06:26:14.129Z - normal: Finish build-assets in worker
+2018-07-13T06:26:14.141Z - normal: Finish building assets
+2018-07-13T06:26:14.185Z - normal: Start building raw assets
+2018-07-13T06:26:14.186Z - normal: Start building plugin scripts
+2018-07-13T06:26:14.690Z - normal: Finish building plugin scripts
+2018-07-13T06:26:14.743Z - normal: Finish building raw assets
+2018-07-13T06:26:14.758Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-07-13T06:26:15.148Z - normal: Built to "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame" successfully
+2018-07-13T08:56:24.104Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build",
+  "debug": false,
+  "dest": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "CCSpriteDistortion",
+    "LabelOutline",
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "EditorBox",
+    "WebView",
+    "RichText",
+    "MotionStreak",
+    "DragonBones",
+    "Physics",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.tetris2048",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "6f8dcfa9-06eb-4663-8e0a-16f3c794744b"
+  ],
+  "sourceMaps": false,
+  "startScene": "6f8dcfa9-06eb-4663-8e0a-16f3c794744b",
+  "template": "link",
+  "title": "Tetris2048",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wxb5bbc7baaf5460c3",
+    "orientation": "portrait",
+    "subContext": "openDataContext"
+  },
+  "xxteaKey": "7d34e7b7-4193-49",
+  "zipCompressJs": true,
+  "project": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1",
+  "projectName": "Tetris2048",
+  "debugBuildWorker": false
+}
+2018-07-13T08:56:24.164Z - normal: Building /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1
+2018-07-13T08:56:24.164Z - normal: Destination /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame
+2018-07-13T08:56:24.165Z - normal: Delete /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame/**/*
+2018-07-13T08:56:43.013Z - normal: Compiled project javascript file successfully
+2018-07-13T08:56:43.013Z - normal: Start building assets
+2018-07-13T08:56:43.014Z - normal: Start spawn build-worker
+2018-07-13T08:56:43.922Z - normal: Finish spawn build-worker
+2018-07-13T08:56:43.922Z - normal: Start init build-worker
+2018-07-13T08:56:46.434Z - normal: 1.9.1
+2018-07-13T08:56:46.698Z - normal: Finish init build-worker
+2018-07-13T08:56:46.698Z - normal: Start build-assets in worker
+2018-07-13T08:56:46.972Z - warn: Can not find particle texture in /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/assets/resources/particle/demo10.png, plist: /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/assets/resources/particle/bomb.plist
+2018-07-13T08:56:50.149Z - normal: Finish build-assets in worker
+2018-07-13T08:56:50.155Z - normal: Finish building assets
+2018-07-13T08:56:50.208Z - normal: Start building raw assets
+2018-07-13T08:56:50.209Z - normal: Start building plugin scripts
+2018-07-13T08:56:51.004Z - normal: Finish building plugin scripts
+2018-07-13T08:56:51.056Z - normal: Finish building raw assets
+2018-07-13T08:56:51.062Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-07-13T08:56:51.174Z - normal: Built to "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame" successfully
+2018-07-13T09:18:59.700Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build",
+  "debug": false,
+  "dest": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "CCSpriteDistortion",
+    "LabelOutline",
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "EditorBox",
+    "WebView",
+    "RichText",
+    "MotionStreak",
+    "DragonBones",
+    "Physics",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.tetris2048",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "6f8dcfa9-06eb-4663-8e0a-16f3c794744b"
+  ],
+  "sourceMaps": false,
+  "startScene": "6f8dcfa9-06eb-4663-8e0a-16f3c794744b",
+  "template": "link",
+  "title": "Tetris2048",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wxb5bbc7baaf5460c3",
+    "orientation": "portrait",
+    "subContext": "openDataContext"
+  },
+  "xxteaKey": "7d34e7b7-4193-49",
+  "zipCompressJs": true,
+  "project": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1",
+  "projectName": "Tetris2048",
+  "debugBuildWorker": false
+}
+2018-07-13T09:18:59.722Z - normal: Building /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1
+2018-07-13T09:18:59.722Z - normal: Destination /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame
+2018-07-13T09:18:59.723Z - normal: Delete /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame/**/*
+2018-07-13T09:19:23.018Z - normal: Compiled project javascript file successfully
+2018-07-13T09:19:23.020Z - normal: Start building assets
+2018-07-13T09:19:23.020Z - normal: Start spawn build-worker
+2018-07-13T09:19:24.145Z - normal: Finish spawn build-worker
+2018-07-13T09:19:24.145Z - normal: Start init build-worker
+2018-07-13T09:19:27.187Z - normal: 1.9.1
+2018-07-13T09:19:27.527Z - normal: Finish init build-worker
+2018-07-13T09:19:27.527Z - normal: Start build-assets in worker
+2018-07-13T09:19:27.879Z - warn: Can not find particle texture in /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/assets/resources/particle/demo10.png, plist: /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/assets/resources/particle/bomb.plist
+2018-07-13T09:19:31.528Z - normal: Finish build-assets in worker
+2018-07-13T09:19:31.556Z - normal: Finish building assets
+2018-07-13T09:19:31.610Z - normal: Start building raw assets
+2018-07-13T09:19:31.612Z - normal: Start building plugin scripts
+2018-07-13T09:19:32.291Z - normal: Finish building plugin scripts
+2018-07-13T09:19:32.336Z - normal: Finish building raw assets
+2018-07-13T09:19:32.346Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-07-13T09:19:32.451Z - normal: Built to "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame" successfully
+2018-07-13T09:56:08.225Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build",
+  "debug": false,
+  "dest": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "CCSpriteDistortion",
+    "LabelOutline",
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "EditorBox",
+    "WebView",
+    "RichText",
+    "MotionStreak",
+    "DragonBones",
+    "Physics",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.tetris2048",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "6f8dcfa9-06eb-4663-8e0a-16f3c794744b"
+  ],
+  "sourceMaps": false,
+  "startScene": "6f8dcfa9-06eb-4663-8e0a-16f3c794744b",
+  "template": "link",
+  "title": "Tetris2048",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wxb5bbc7baaf5460c3",
+    "orientation": "portrait",
+    "subContext": "openDataContext"
+  },
+  "xxteaKey": "7d34e7b7-4193-49",
+  "zipCompressJs": true,
+  "project": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1",
+  "projectName": "Tetris2048",
+  "debugBuildWorker": false
+}
+2018-07-13T09:56:08.337Z - normal: Building /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1
+2018-07-13T09:56:08.337Z - normal: Destination /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame
+2018-07-13T09:56:08.339Z - normal: Delete /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame/**/*
+2018-07-13T09:56:30.922Z - normal: Compiled project javascript file successfully
+2018-07-13T09:56:30.922Z - normal: Start building assets
+2018-07-13T09:56:30.923Z - normal: Start spawn build-worker
+2018-07-13T09:56:32.280Z - normal: Finish spawn build-worker
+2018-07-13T09:56:32.281Z - normal: Start init build-worker
+2018-07-13T09:56:35.501Z - normal: 1.9.1
+2018-07-13T09:56:35.873Z - normal: Finish init build-worker
+2018-07-13T09:56:35.873Z - normal: Start build-assets in worker
+2018-07-13T09:56:36.373Z - warn: Can not find particle texture in /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/assets/resources/particle/demo10.png, plist: /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/assets/resources/particle/bomb.plist
+2018-07-13T09:56:40.652Z - normal: Finish build-assets in worker
+2018-07-13T09:56:40.683Z - normal: Finish building assets
+2018-07-13T09:56:40.735Z - normal: Start building raw assets
+2018-07-13T09:56:40.736Z - normal: Start building plugin scripts
+2018-07-13T09:56:41.698Z - normal: Finish building plugin scripts
+2018-07-13T09:56:41.875Z - normal: Finish building raw assets
+2018-07-13T09:56:41.883Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-07-13T09:56:42.604Z - normal: Built to "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame" successfully
+2018-07-13T09:57:55.646Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build",
+  "debug": false,
+  "dest": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "CCSpriteDistortion",
+    "LabelOutline",
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "EditorBox",
+    "WebView",
+    "RichText",
+    "MotionStreak",
+    "DragonBones",
+    "Physics",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.tetris2048",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "6f8dcfa9-06eb-4663-8e0a-16f3c794744b"
+  ],
+  "sourceMaps": false,
+  "startScene": "6f8dcfa9-06eb-4663-8e0a-16f3c794744b",
+  "template": "link",
+  "title": "Tetris2048",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wxb5bbc7baaf5460c3",
+    "orientation": "portrait",
+    "subContext": "openDataContext"
+  },
+  "xxteaKey": "7d34e7b7-4193-49",
+  "zipCompressJs": true,
+  "project": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1",
+  "projectName": "Tetris2048",
+  "debugBuildWorker": false
+}
+2018-07-13T09:57:55.673Z - normal: Building /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1
+2018-07-13T09:57:55.674Z - normal: Destination /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame
+2018-07-13T09:57:55.675Z - normal: Delete /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame/**/*
+2018-07-13T09:58:15.738Z - normal: Compiled project javascript file successfully
+2018-07-13T09:58:15.740Z - normal: Start building assets
+2018-07-13T09:58:15.740Z - normal: Start spawn build-worker
+2018-07-13T09:58:16.833Z - normal: Finish spawn build-worker
+2018-07-13T09:58:16.833Z - normal: Start init build-worker
+2018-07-13T09:58:19.737Z - normal: 1.9.1
+2018-07-13T09:58:20.235Z - normal: Finish init build-worker
+2018-07-13T09:58:20.235Z - normal: Start build-assets in worker
+2018-07-13T09:58:20.790Z - warn: Can not find particle texture in /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/assets/resources/particle/demo10.png, plist: /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/assets/resources/particle/bomb.plist
+2018-07-13T09:58:24.299Z - normal: Finish build-assets in worker
+2018-07-13T09:58:24.320Z - normal: Finish building assets
+2018-07-13T09:58:24.371Z - normal: Start building raw assets
+2018-07-13T09:58:24.373Z - normal: Start building plugin scripts
+2018-07-13T09:58:25.049Z - normal: Finish building plugin scripts
+2018-07-13T09:58:25.105Z - normal: Finish building raw assets
+2018-07-13T09:58:25.126Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-07-13T09:58:25.732Z - normal: Built to "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame" successfully
+2018-07-13T10:08:19.555Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build",
+  "debug": false,
+  "dest": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "CCSpriteDistortion",
+    "LabelOutline",
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "EditorBox",
+    "WebView",
+    "RichText",
+    "MotionStreak",
+    "DragonBones",
+    "Physics",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.tetris2048",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "6f8dcfa9-06eb-4663-8e0a-16f3c794744b"
+  ],
+  "sourceMaps": false,
+  "startScene": "6f8dcfa9-06eb-4663-8e0a-16f3c794744b",
+  "template": "link",
+  "title": "Tetris2048",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wxb5bbc7baaf5460c3",
+    "orientation": "portrait",
+    "subContext": "openDataContext"
+  },
+  "xxteaKey": "7d34e7b7-4193-49",
+  "zipCompressJs": true,
+  "project": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1",
+  "projectName": "Tetris2048",
+  "debugBuildWorker": false
+}
+2018-07-13T10:08:19.590Z - normal: Building /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1
+2018-07-13T10:08:19.590Z - normal: Destination /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame
+2018-07-13T10:08:19.591Z - normal: Delete /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame/**/*
+2018-07-13T10:08:44.562Z - normal: Compiled project javascript file successfully
+2018-07-13T10:08:44.563Z - normal: Start building assets
+2018-07-13T10:08:44.563Z - normal: Start spawn build-worker
+2018-07-13T10:08:45.704Z - normal: Finish spawn build-worker
+2018-07-13T10:08:45.705Z - normal: Start init build-worker
+2018-07-13T10:08:49.604Z - normal: 1.9.1
+2018-07-13T10:08:50.075Z - normal: Finish init build-worker
+2018-07-13T10:08:50.075Z - normal: Start build-assets in worker
+2018-07-13T10:08:50.524Z - warn: Can not find particle texture in /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/assets/resources/particle/demo10.png, plist: /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/assets/resources/particle/bomb.plist
+2018-07-13T10:08:55.259Z - normal: Finish build-assets in worker
+2018-07-13T10:08:55.276Z - normal: Finish building assets
+2018-07-13T10:08:55.335Z - normal: Start building raw assets
+2018-07-13T10:08:55.337Z - normal: Start building plugin scripts
+2018-07-13T10:08:56.243Z - normal: Finish building plugin scripts
+2018-07-13T10:08:56.330Z - normal: Finish building raw assets
+2018-07-13T10:08:56.336Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-07-13T10:08:56.471Z - normal: Built to "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame" successfully
+2018-07-13T10:26:26.800Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build",
+  "debug": false,
+  "dest": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "CCSpriteDistortion",
+    "LabelOutline",
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "EditorBox",
+    "WebView",
+    "RichText",
+    "MotionStreak",
+    "DragonBones",
+    "Physics",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.tetris2048",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "6f8dcfa9-06eb-4663-8e0a-16f3c794744b"
+  ],
+  "sourceMaps": false,
+  "startScene": "6f8dcfa9-06eb-4663-8e0a-16f3c794744b",
+  "template": "link",
+  "title": "Tetris2048",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wxb5bbc7baaf5460c3",
+    "orientation": "portrait",
+    "subContext": "openDataContext"
+  },
+  "xxteaKey": "7d34e7b7-4193-49",
+  "zipCompressJs": true,
+  "project": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1",
+  "projectName": "Tetris2048",
+  "debugBuildWorker": false
+}
+2018-07-13T10:26:26.874Z - normal: Building /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1
+2018-07-13T10:26:26.874Z - normal: Destination /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame
+2018-07-13T10:26:26.876Z - normal: Delete /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame/**/*
+2018-07-13T10:26:51.598Z - normal: Compiled project javascript file successfully
+2018-07-13T10:26:51.598Z - normal: Start building assets
+2018-07-13T10:26:51.599Z - normal: Start spawn build-worker
+2018-07-13T10:26:53.224Z - normal: Finish spawn build-worker
+2018-07-13T10:26:53.224Z - normal: Start init build-worker
+2018-07-13T10:26:57.217Z - normal: 1.9.1
+2018-07-13T10:26:57.850Z - normal: Finish init build-worker
+2018-07-13T10:26:57.850Z - normal: Start build-assets in worker
+2018-07-13T10:26:58.562Z - warn: Can not find particle texture in /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/assets/resources/particle/demo10.png, plist: /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/assets/resources/particle/bomb.plist
+2018-07-13T10:27:02.669Z - normal: Finish build-assets in worker
+2018-07-13T10:27:02.699Z - normal: Finish building assets
+2018-07-13T10:27:02.759Z - normal: Start building raw assets
+2018-07-13T10:27:02.760Z - normal: Start building plugin scripts
+2018-07-13T10:27:03.713Z - normal: Finish building plugin scripts
+2018-07-13T10:27:03.765Z - normal: Finish building raw assets
+2018-07-13T10:27:03.782Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-07-13T10:27:03.959Z - normal: Built to "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame" successfully
+2018-07-13T10:29:16.603Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build",
+  "debug": false,
+  "dest": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "CCSpriteDistortion",
+    "LabelOutline",
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "EditorBox",
+    "WebView",
+    "RichText",
+    "MotionStreak",
+    "DragonBones",
+    "Physics",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.tetris2048",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "6f8dcfa9-06eb-4663-8e0a-16f3c794744b"
+  ],
+  "sourceMaps": false,
+  "startScene": "6f8dcfa9-06eb-4663-8e0a-16f3c794744b",
+  "template": "link",
+  "title": "Tetris2048",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wxb5bbc7baaf5460c3",
+    "orientation": "portrait",
+    "subContext": "openDataContext"
+  },
+  "xxteaKey": "7d34e7b7-4193-49",
+  "zipCompressJs": true,
+  "project": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1",
+  "projectName": "Tetris2048",
+  "debugBuildWorker": false
+}
+2018-07-13T10:29:16.675Z - normal: Building /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1
+2018-07-13T10:29:16.675Z - normal: Destination /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame
+2018-07-13T10:29:16.690Z - normal: Delete /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame/**/*
+2018-07-13T10:29:43.159Z - normal: Compiled project javascript file successfully
+2018-07-13T10:29:43.160Z - normal: Start building assets
+2018-07-13T10:29:43.160Z - normal: Start spawn build-worker
+2018-07-13T10:29:44.473Z - normal: Finish spawn build-worker
+2018-07-13T10:29:44.473Z - normal: Start init build-worker
+2018-07-13T10:29:48.307Z - normal: 1.9.1
+2018-07-13T10:29:48.743Z - normal: Finish init build-worker
+2018-07-13T10:29:48.743Z - normal: Start build-assets in worker
+2018-07-13T10:29:49.108Z - warn: Can not find particle texture in /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/assets/resources/particle/demo10.png, plist: /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/assets/resources/particle/bomb.plist
+2018-07-13T10:29:53.676Z - normal: Finish build-assets in worker
+2018-07-13T10:29:53.687Z - normal: Finish building assets
+2018-07-13T10:29:53.746Z - normal: Start building raw assets
+2018-07-13T10:29:53.746Z - normal: Start building plugin scripts
+2018-07-13T10:29:54.542Z - normal: Finish building plugin scripts
+2018-07-13T10:29:54.589Z - normal: Finish building raw assets
+2018-07-13T10:29:54.593Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-07-13T10:29:54.762Z - normal: Built to "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame" successfully
+2018-07-14T02:03:42.593Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build",
+  "debug": false,
+  "dest": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "CCSpriteDistortion",
+    "LabelOutline",
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "EditorBox",
+    "WebView",
+    "RichText",
+    "MotionStreak",
+    "DragonBones",
+    "Physics",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.tetris2048",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "6f8dcfa9-06eb-4663-8e0a-16f3c794744b"
+  ],
+  "sourceMaps": false,
+  "startScene": "6f8dcfa9-06eb-4663-8e0a-16f3c794744b",
+  "template": "link",
+  "title": "Tetris2048",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wxb5bbc7baaf5460c3",
+    "orientation": "portrait",
+    "subContext": "openDataContext"
+  },
+  "xxteaKey": "7d34e7b7-4193-49",
+  "zipCompressJs": true,
+  "project": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1",
+  "projectName": "Tetris2048",
+  "debugBuildWorker": false
+}
+2018-07-14T02:03:42.626Z - normal: Building /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1
+2018-07-14T02:03:42.626Z - normal: Destination /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame
+2018-07-14T02:03:42.627Z - normal: Delete /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame/**/*
+2018-07-14T02:04:40.354Z - normal: Compiled project javascript file successfully
+2018-07-14T02:04:40.358Z - normal: Start building assets
+2018-07-14T02:04:40.358Z - normal: Start spawn build-worker
+2018-07-14T02:04:41.580Z - normal: Finish spawn build-worker
+2018-07-14T02:04:41.580Z - normal: Start init build-worker
+2018-07-14T02:04:44.994Z - normal: 1.9.1
+2018-07-14T02:04:45.378Z - normal: Finish init build-worker
+2018-07-14T02:04:45.378Z - normal: Start build-assets in worker
+2018-07-14T02:04:45.717Z - warn: Can not find particle texture in /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/assets/resources/particle/demo10.png, plist: /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/assets/resources/particle/bomb.plist
+2018-07-14T02:04:49.762Z - normal: Finish build-assets in worker
+2018-07-14T02:04:49.778Z - normal: Finish building assets
+2018-07-14T02:04:49.835Z - normal: Start building raw assets
+2018-07-14T02:04:49.837Z - normal: Start building plugin scripts
+2018-07-14T02:04:50.904Z - normal: Finish building plugin scripts
+2018-07-14T02:04:51.066Z - normal: Finish building raw assets
+2018-07-14T02:04:51.071Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-07-14T02:04:51.310Z - normal: Built to "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame" successfully
+2018-07-14T02:50:10.518Z - warn: The Asset used by component "cc.Sprite" in prefab "battleRoot.prefab" is missing. Detailed information:
+Node path: "battleRoot/bg"
+Asset url: "db://assets/Prefabs/battleRoot.prefab"
+Missing uuid: "cfb24fdb-ddb3-4ce9-9426-bcefe6db7045"
+
+2018-07-14T02:50:10.520Z - warn: The Asset used by component "cc.Sprite" in prefab "battleRoot.prefab" is missing. Detailed information:
+Node path: "battleRoot/bg"
+Asset url: "db://assets/Prefabs/battleRoot.prefab"
+Missing uuid: "cfb24fdb-ddb3-4ce9-9426-bcefe6db7045"
+
+2018-07-14T02:59:27.681Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:1275600
+2018-07-14T03:03:57.466Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:1281825
+2018-07-14T06:43:00.624Z - warn: The Asset used by component "cc.Sprite" in prefab "battleRoot.prefab" is missing. Detailed information:
+Node path: "battleRoot/bg"
+Asset url: "db://assets/Prefabs/battleRoot.prefab"
+Missing uuid: "cfb24fdb-ddb3-4ce9-9426-bcefe6db7045"
+
+2018-07-14T06:43:00.627Z - warn: The Asset used by component "cc.Sprite" in prefab "battleRoot.prefab" is missing. Detailed information:
+Node path: "battleRoot/bg"
+Asset url: "db://assets/Prefabs/battleRoot.prefab"
+Missing uuid: "cfb24fdb-ddb3-4ce9-9426-bcefe6db7045"
+
+2018-07-14T06:43:23.542Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build",
+  "debug": false,
+  "dest": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "CCSpriteDistortion",
+    "LabelOutline",
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "EditorBox",
+    "WebView",
+    "RichText",
+    "MotionStreak",
+    "DragonBones",
+    "Physics",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.tetris2048",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "6f8dcfa9-06eb-4663-8e0a-16f3c794744b"
+  ],
+  "sourceMaps": false,
+  "startScene": "6f8dcfa9-06eb-4663-8e0a-16f3c794744b",
+  "template": "link",
+  "title": "Tetris2048",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wxb5bbc7baaf5460c3",
+    "orientation": "portrait",
+    "subContext": "openDataContext"
+  },
+  "xxteaKey": "7d34e7b7-4193-49",
+  "zipCompressJs": true,
+  "project": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1",
+  "projectName": "Tetris2048",
+  "debugBuildWorker": false
+}
+2018-07-14T06:43:23.556Z - normal: Building /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1
+2018-07-14T06:43:23.556Z - normal: Destination /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame
+2018-07-14T06:43:23.558Z - normal: Delete /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame/**/*
+2018-07-14T06:43:38.855Z - normal: Compiled project javascript file successfully
+2018-07-14T06:43:38.856Z - normal: Start building assets
+2018-07-14T06:43:38.856Z - normal: Start spawn build-worker
+2018-07-14T06:43:39.719Z - normal: Finish spawn build-worker
+2018-07-14T06:43:39.719Z - normal: Start init build-worker
+2018-07-14T06:43:42.038Z - normal: 1.9.1
+2018-07-14T06:43:42.439Z - normal: Finish init build-worker
+2018-07-14T06:43:42.439Z - normal: Start build-assets in worker
+2018-07-14T06:43:42.796Z - warn: Can not find particle texture in /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/assets/resources/particle/demo10.png, plist: /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/assets/resources/particle/bomb.plist
+2018-07-14T06:43:45.358Z - normal: Finish build-assets in worker
+2018-07-14T06:43:45.366Z - normal: Finish building assets
+2018-07-14T06:43:45.420Z - normal: Start building raw assets
+2018-07-14T06:43:45.421Z - normal: Start building plugin scripts
+2018-07-14T06:43:45.949Z - normal: Finish building plugin scripts
+2018-07-14T06:43:45.999Z - normal: Finish building raw assets
+2018-07-14T06:43:46.007Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-07-14T06:43:46.095Z - normal: Built to "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame" successfully
+2018-07-14T06:55:48.128Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build",
+  "debug": false,
+  "dest": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "CCSpriteDistortion",
+    "LabelOutline",
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "EditorBox",
+    "WebView",
+    "RichText",
+    "MotionStreak",
+    "DragonBones",
+    "Physics",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.tetris2048",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "6f8dcfa9-06eb-4663-8e0a-16f3c794744b"
+  ],
+  "sourceMaps": false,
+  "startScene": "6f8dcfa9-06eb-4663-8e0a-16f3c794744b",
+  "template": "link",
+  "title": "Tetris2048",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wxb5bbc7baaf5460c3",
+    "orientation": "portrait",
+    "subContext": "openDataContext"
+  },
+  "xxteaKey": "7d34e7b7-4193-49",
+  "zipCompressJs": true,
+  "project": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1",
+  "projectName": "Tetris2048",
+  "debugBuildWorker": false
+}
+2018-07-14T06:55:48.143Z - normal: Building /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1
+2018-07-14T06:55:48.143Z - normal: Destination /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame
+2018-07-14T06:55:48.145Z - normal: Delete /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame/**/*
+2018-07-14T06:56:03.521Z - normal: Compiled project javascript file successfully
+2018-07-14T06:56:03.521Z - normal: Start building assets
+2018-07-14T06:56:03.521Z - normal: Start spawn build-worker
+2018-07-14T06:56:04.359Z - normal: Finish spawn build-worker
+2018-07-14T06:56:04.359Z - normal: Start init build-worker
+2018-07-14T06:56:07.223Z - normal: 1.9.1
+2018-07-14T06:56:07.573Z - normal: Finish init build-worker
+2018-07-14T06:56:07.574Z - normal: Start build-assets in worker
+2018-07-14T06:56:07.874Z - warn: Can not find particle texture in /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/assets/resources/particle/demo10.png, plist: /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/assets/resources/particle/bomb.plist
+2018-07-14T06:56:10.673Z - normal: Finish build-assets in worker
+2018-07-14T06:56:10.678Z - normal: Finish building assets
+2018-07-14T06:56:10.732Z - normal: Start building raw assets
+2018-07-14T06:56:10.733Z - normal: Start building plugin scripts
+2018-07-14T06:56:11.287Z - normal: Finish building plugin scripts
+2018-07-14T06:56:11.321Z - normal: Finish building raw assets
+2018-07-14T06:56:11.328Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-07-14T06:56:11.413Z - normal: Built to "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame" successfully
+2018-07-14T07:09:47.207Z - warn: The Asset used by component "cc.Sprite" in prefab "battleRoot.prefab" is missing. Detailed information:
+Node path: "battleRoot/bg"
+Asset url: "db://assets/Prefabs/battleRoot.prefab"
+Missing uuid: "cfb24fdb-ddb3-4ce9-9426-bcefe6db7045"
+
+2018-07-14T07:09:47.212Z - warn: The Asset used by component "cc.Sprite" in prefab "battleRoot.prefab" is missing. Detailed information:
+Node path: "battleRoot/bg"
+Asset url: "db://assets/Prefabs/battleRoot.prefab"
+Missing uuid: "cfb24fdb-ddb3-4ce9-9426-bcefe6db7045"
+
+2018-07-14T07:16:32.846Z - normal: Introduced global variable while editing: i
+2018-07-14T07:16:32.858Z - normal: Introduced global variable while editing: l
+2018-07-14T07:53:10.028Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build",
+  "debug": false,
+  "dest": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "CCSpriteDistortion",
+    "LabelOutline",
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "EditorBox",
+    "WebView",
+    "RichText",
+    "MotionStreak",
+    "DragonBones",
+    "Physics",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.tetris2048",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "6f8dcfa9-06eb-4663-8e0a-16f3c794744b"
+  ],
+  "sourceMaps": false,
+  "startScene": "6f8dcfa9-06eb-4663-8e0a-16f3c794744b",
+  "template": "link",
+  "title": "Tetris2048",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wxb5bbc7baaf5460c3",
+    "orientation": "portrait",
+    "subContext": "openDataContext"
+  },
+  "xxteaKey": "7d34e7b7-4193-49",
+  "zipCompressJs": true,
+  "project": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1",
+  "projectName": "Tetris2048",
+  "debugBuildWorker": false
+}
+2018-07-14T07:53:10.042Z - normal: Building /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1
+2018-07-14T07:53:10.043Z - normal: Destination /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame
+2018-07-14T07:53:10.044Z - normal: Delete /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame/**/*
+2018-07-14T07:53:26.376Z - normal: Compiled project javascript file successfully
+2018-07-14T07:53:26.376Z - normal: Start building assets
+2018-07-14T07:53:26.376Z - normal: Start spawn build-worker
+2018-07-14T07:53:27.375Z - normal: Finish spawn build-worker
+2018-07-14T07:53:27.375Z - normal: Start init build-worker
+2018-07-14T07:53:30.589Z - normal: 1.9.1
+2018-07-14T07:53:30.921Z - normal: Finish init build-worker
+2018-07-14T07:53:30.921Z - normal: Start build-assets in worker
+2018-07-14T07:53:31.274Z - warn: Can not find particle texture in /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/assets/resources/particle/demo10.png, plist: /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/assets/resources/particle/bomb.plist
+2018-07-14T07:53:33.970Z - normal: Finish build-assets in worker
+2018-07-14T07:53:33.974Z - normal: Finish building assets
+2018-07-14T07:53:34.022Z - normal: Start building raw assets
+2018-07-14T07:53:34.023Z - normal: Start building plugin scripts
+2018-07-14T07:53:34.554Z - normal: Finish building plugin scripts
+2018-07-14T07:53:34.587Z - normal: Finish building raw assets
+2018-07-14T07:53:34.597Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-07-14T07:53:34.713Z - normal: Built to "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame" successfully
+2018-07-14T07:57:30.777Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build",
+  "debug": false,
+  "dest": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "CCSpriteDistortion",
+    "LabelOutline",
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "EditorBox",
+    "WebView",
+    "RichText",
+    "MotionStreak",
+    "DragonBones",
+    "Physics",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.tetris2048",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "6f8dcfa9-06eb-4663-8e0a-16f3c794744b"
+  ],
+  "sourceMaps": false,
+  "startScene": "6f8dcfa9-06eb-4663-8e0a-16f3c794744b",
+  "template": "link",
+  "title": "Tetris2048",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wxb5bbc7baaf5460c3",
+    "orientation": "portrait",
+    "subContext": "openDataContext"
+  },
+  "xxteaKey": "7d34e7b7-4193-49",
+  "zipCompressJs": true,
+  "project": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1",
+  "projectName": "Tetris2048",
+  "debugBuildWorker": false
+}
+2018-07-14T07:57:30.801Z - normal: Building /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1
+2018-07-14T07:57:30.801Z - normal: Destination /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame
+2018-07-14T07:57:30.803Z - normal: Delete /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame/**/*
+2018-07-14T07:58:31.362Z - normal: Compiled project javascript file successfully
+2018-07-14T07:58:31.364Z - normal: Start building assets
+2018-07-14T07:58:31.364Z - normal: Start spawn build-worker
+2018-07-14T07:58:34.259Z - normal: Finish spawn build-worker
+2018-07-14T07:58:34.259Z - normal: Start init build-worker
+2018-07-14T07:58:42.507Z - normal: 1.9.1
+2018-07-14T07:58:43.386Z - normal: Finish init build-worker
+2018-07-14T07:58:43.387Z - normal: Start build-assets in worker
+2018-07-14T07:58:44.054Z - warn: Can not find particle texture in /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/assets/resources/particle/demo10.png, plist: /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/assets/resources/particle/bomb.plist
+2018-07-14T07:58:50.160Z - normal: Finish build-assets in worker
+2018-07-14T07:58:50.171Z - normal: Finish building assets
+2018-07-14T07:58:50.234Z - normal: Start building raw assets
+2018-07-14T07:58:50.235Z - normal: Start building plugin scripts
+2018-07-14T07:58:51.320Z - normal: Finish building plugin scripts
+2018-07-14T07:58:51.413Z - normal: Finish building raw assets
+2018-07-14T07:58:51.417Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-07-14T07:58:51.535Z - normal: Built to "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame" successfully
+2018-07-14T08:02:14.117Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build",
+  "debug": false,
+  "dest": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "CCSpriteDistortion",
+    "LabelOutline",
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "EditorBox",
+    "WebView",
+    "RichText",
+    "MotionStreak",
+    "DragonBones",
+    "Physics",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.tetris2048",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "6f8dcfa9-06eb-4663-8e0a-16f3c794744b"
+  ],
+  "sourceMaps": false,
+  "startScene": "6f8dcfa9-06eb-4663-8e0a-16f3c794744b",
+  "template": "link",
+  "title": "Tetris2048",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wxb5bbc7baaf5460c3",
+    "orientation": "portrait",
+    "subContext": "openDataContext"
+  },
+  "xxteaKey": "7d34e7b7-4193-49",
+  "zipCompressJs": true,
+  "project": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1",
+  "projectName": "Tetris2048",
+  "debugBuildWorker": false
+}
+2018-07-14T08:02:14.140Z - normal: Building /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1
+2018-07-14T08:02:14.140Z - normal: Destination /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame
+2018-07-14T08:02:14.142Z - normal: Delete /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame/**/*
+2018-07-14T08:02:42.512Z - normal: Compiled project javascript file successfully
+2018-07-14T08:02:42.513Z - normal: Start building assets
+2018-07-14T08:02:42.513Z - normal: Start spawn build-worker
+2018-07-14T08:02:44.477Z - normal: Finish spawn build-worker
+2018-07-14T08:02:44.478Z - normal: Start init build-worker
+2018-07-14T08:02:49.316Z - normal: 1.9.1
+2018-07-14T08:02:49.888Z - normal: Finish init build-worker
+2018-07-14T08:02:49.888Z - normal: Start build-assets in worker
+2018-07-14T08:02:50.378Z - warn: Can not find particle texture in /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/assets/resources/particle/demo10.png, plist: /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/assets/resources/particle/bomb.plist
+2018-07-14T08:02:54.164Z - normal: Finish build-assets in worker
+2018-07-14T08:02:54.181Z - normal: Finish building assets
+2018-07-14T08:02:54.250Z - normal: Start building raw assets
+2018-07-14T08:02:54.253Z - normal: Start building plugin scripts
+2018-07-14T08:02:54.958Z - normal: Finish building plugin scripts
+2018-07-14T08:02:55.048Z - normal: Finish building raw assets
+2018-07-14T08:02:55.056Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-07-14T08:02:55.161Z - normal: Built to "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame" successfully
+2018-07-14T08:03:37.727Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build",
+  "debug": false,
+  "dest": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "CCSpriteDistortion",
+    "LabelOutline",
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "EditorBox",
+    "WebView",
+    "RichText",
+    "MotionStreak",
+    "DragonBones",
+    "Physics",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.tetris2048",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "6f8dcfa9-06eb-4663-8e0a-16f3c794744b"
+  ],
+  "sourceMaps": false,
+  "startScene": "6f8dcfa9-06eb-4663-8e0a-16f3c794744b",
+  "template": "link",
+  "title": "Tetris2048",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wxb5bbc7baaf5460c3",
+    "orientation": "portrait",
+    "subContext": "openDataContext"
+  },
+  "xxteaKey": "7d34e7b7-4193-49",
+  "zipCompressJs": true,
+  "project": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1",
+  "projectName": "Tetris2048",
+  "debugBuildWorker": false
+}
+2018-07-14T08:03:37.765Z - normal: Building /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1
+2018-07-14T08:03:37.765Z - normal: Destination /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame
+2018-07-14T08:03:37.767Z - normal: Delete /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame/**/*
+2018-07-14T08:04:23.260Z - normal: Compiled project javascript file successfully
+2018-07-14T08:04:23.260Z - normal: Start building assets
+2018-07-14T08:04:23.260Z - normal: Start spawn build-worker
+2018-07-14T08:04:29.093Z - normal: Finish spawn build-worker
+2018-07-14T08:04:29.093Z - normal: Start init build-worker
+2018-07-14T08:04:37.210Z - normal: 1.9.1
+2018-07-14T08:04:37.893Z - normal: Finish init build-worker
+2018-07-14T08:04:37.893Z - normal: Start build-assets in worker
+2018-07-14T08:04:38.475Z - warn: Can not find particle texture in /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/assets/resources/particle/demo10.png, plist: /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/assets/resources/particle/bomb.plist
+2018-07-14T08:04:43.735Z - normal: Finish build-assets in worker
+2018-07-14T08:04:43.754Z - normal: Finish building assets
+2018-07-14T08:04:43.809Z - normal: Start building raw assets
+2018-07-14T08:04:43.810Z - normal: Start building plugin scripts
+2018-07-14T08:04:44.826Z - normal: Finish building plugin scripts
+2018-07-14T08:04:44.911Z - normal: Finish building raw assets
+2018-07-14T08:04:44.915Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-07-14T08:04:45.072Z - normal: Built to "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame" successfully
+2018-07-14T08:12:13.097Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build",
+  "debug": false,
+  "dest": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "CCSpriteDistortion",
+    "LabelOutline",
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "EditorBox",
+    "WebView",
+    "RichText",
+    "MotionStreak",
+    "DragonBones",
+    "Physics",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.tetris2048",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "6f8dcfa9-06eb-4663-8e0a-16f3c794744b"
+  ],
+  "sourceMaps": false,
+  "startScene": "6f8dcfa9-06eb-4663-8e0a-16f3c794744b",
+  "template": "link",
+  "title": "Tetris2048",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wxb5bbc7baaf5460c3",
+    "orientation": "portrait",
+    "subContext": "openDataContext"
+  },
+  "xxteaKey": "7d34e7b7-4193-49",
+  "zipCompressJs": true,
+  "project": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1",
+  "projectName": "Tetris2048",
+  "debugBuildWorker": false
+}
+2018-07-14T08:12:13.119Z - normal: Building /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1
+2018-07-14T08:12:13.119Z - normal: Destination /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame
+2018-07-14T08:12:13.121Z - normal: Delete /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame/**/*
+2018-07-14T08:12:34.494Z - normal: Compiled project javascript file successfully
+2018-07-14T08:12:34.495Z - normal: Start building assets
+2018-07-14T08:12:34.495Z - normal: Start spawn build-worker
+2018-07-14T08:12:35.871Z - normal: Finish spawn build-worker
+2018-07-14T08:12:35.872Z - normal: Start init build-worker
+2018-07-14T08:12:39.126Z - normal: 1.9.1
+2018-07-14T08:12:39.470Z - normal: Finish init build-worker
+2018-07-14T08:12:39.471Z - normal: Start build-assets in worker
+2018-07-14T08:12:39.834Z - warn: Can not find particle texture in /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/assets/resources/particle/demo10.png, plist: /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/assets/resources/particle/bomb.plist
+2018-07-14T08:12:44.122Z - normal: Finish build-assets in worker
+2018-07-14T08:12:44.141Z - normal: Finish building assets
+2018-07-14T08:12:44.200Z - normal: Start building raw assets
+2018-07-14T08:12:44.202Z - normal: Start building plugin scripts
+2018-07-14T08:12:45.057Z - normal: Finish building plugin scripts
+2018-07-14T08:12:45.118Z - normal: Finish building raw assets
+2018-07-14T08:12:45.142Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-07-14T08:12:45.241Z - normal: Built to "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame" successfully
+2018-07-14T08:26:33.260Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build",
+  "debug": false,
+  "dest": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "CCSpriteDistortion",
+    "LabelOutline",
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "EditorBox",
+    "WebView",
+    "RichText",
+    "MotionStreak",
+    "DragonBones",
+    "Physics",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.tetris2048",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "6f8dcfa9-06eb-4663-8e0a-16f3c794744b"
+  ],
+  "sourceMaps": false,
+  "startScene": "6f8dcfa9-06eb-4663-8e0a-16f3c794744b",
+  "template": "link",
+  "title": "Tetris2048",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wxb5bbc7baaf5460c3",
+    "orientation": "portrait",
+    "subContext": "openDataContext"
+  },
+  "xxteaKey": "7d34e7b7-4193-49",
+  "zipCompressJs": true,
+  "project": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1",
+  "projectName": "Tetris2048",
+  "debugBuildWorker": false
+}
+2018-07-14T08:26:33.463Z - normal: Building /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1
+2018-07-14T08:26:33.463Z - normal: Destination /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame
+2018-07-14T08:26:33.468Z - normal: Delete /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame/**/*
+2018-07-14T08:27:18.281Z - normal: Compiled project javascript file successfully
+2018-07-14T08:27:18.281Z - normal: Start building assets
+2018-07-14T08:27:18.282Z - normal: Start spawn build-worker
+2018-07-14T08:27:20.968Z - normal: Finish spawn build-worker
+2018-07-14T08:27:20.968Z - normal: Start init build-worker
+2018-07-14T08:27:30.296Z - normal: 1.9.1
+2018-07-14T08:27:31.475Z - normal: Finish init build-worker
+2018-07-14T08:27:31.475Z - normal: Start build-assets in worker
+2018-07-14T08:27:32.130Z - warn: Can not find particle texture in /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/assets/resources/particle/demo10.png, plist: /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/assets/resources/particle/bomb.plist
+2018-07-14T08:27:38.471Z - normal: Finish build-assets in worker
+2018-07-14T08:27:38.481Z - normal: Finish building assets
+2018-07-14T08:27:38.561Z - normal: Start building raw assets
+2018-07-14T08:27:38.562Z - normal: Start building plugin scripts
+2018-07-14T08:27:39.595Z - normal: Finish building plugin scripts
+2018-07-14T08:27:39.644Z - normal: Finish building raw assets
+2018-07-14T08:27:39.651Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-07-14T08:27:39.844Z - normal: Built to "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame" successfully
+2018-07-14T08:28:49.756Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build",
+  "debug": false,
+  "dest": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "CCSpriteDistortion",
+    "LabelOutline",
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "EditorBox",
+    "WebView",
+    "RichText",
+    "MotionStreak",
+    "DragonBones",
+    "Physics",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.tetris2048",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "6f8dcfa9-06eb-4663-8e0a-16f3c794744b"
+  ],
+  "sourceMaps": false,
+  "startScene": "6f8dcfa9-06eb-4663-8e0a-16f3c794744b",
+  "template": "link",
+  "title": "Tetris2048",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wxb5bbc7baaf5460c3",
+    "orientation": "portrait",
+    "subContext": "openDataContext"
+  },
+  "xxteaKey": "7d34e7b7-4193-49",
+  "zipCompressJs": true,
+  "project": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1",
+  "projectName": "Tetris2048",
+  "debugBuildWorker": false
+}
+2018-07-14T08:28:49.762Z - normal: Building /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1
+2018-07-14T08:28:49.762Z - normal: Destination /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame
+2018-07-14T08:28:49.763Z - normal: Delete /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame/**/*
+2018-07-14T08:29:26.900Z - normal: Compiled project javascript file successfully
+2018-07-14T08:29:26.900Z - normal: Start building assets
+2018-07-14T08:29:26.900Z - normal: Start spawn build-worker
+2018-07-14T08:29:29.616Z - normal: Finish spawn build-worker
+2018-07-14T08:29:29.617Z - normal: Start init build-worker
+2018-07-14T08:29:36.078Z - normal: 1.9.1
+2018-07-14T08:29:36.782Z - normal: Finish init build-worker
+2018-07-14T08:29:36.783Z - normal: Start build-assets in worker
+2018-07-14T08:29:37.431Z - warn: Can not find particle texture in /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/assets/resources/particle/demo10.png, plist: /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/assets/resources/particle/bomb.plist
+2018-07-14T08:29:43.335Z - normal: Finish build-assets in worker
+2018-07-14T08:29:43.344Z - normal: Finish building assets
+2018-07-14T08:29:43.412Z - normal: Start building raw assets
+2018-07-14T08:29:43.414Z - normal: Start building plugin scripts
+2018-07-14T08:29:44.448Z - normal: Finish building plugin scripts
+2018-07-14T08:29:44.626Z - normal: Finish building raw assets
+2018-07-14T08:29:44.631Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-07-14T08:29:44.765Z - normal: Built to "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame" successfully
+2018-07-14T08:31:14.133Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build",
+  "debug": false,
+  "dest": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "CCSpriteDistortion",
+    "LabelOutline",
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "EditorBox",
+    "WebView",
+    "RichText",
+    "MotionStreak",
+    "DragonBones",
+    "Physics",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.tetris2048",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "6f8dcfa9-06eb-4663-8e0a-16f3c794744b"
+  ],
+  "sourceMaps": false,
+  "startScene": "6f8dcfa9-06eb-4663-8e0a-16f3c794744b",
+  "template": "link",
+  "title": "Tetris2048",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wxb5bbc7baaf5460c3",
+    "orientation": "portrait",
+    "subContext": "openDataContext"
+  },
+  "xxteaKey": "7d34e7b7-4193-49",
+  "zipCompressJs": true,
+  "project": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1",
+  "projectName": "Tetris2048",
+  "debugBuildWorker": false
+}
+2018-07-14T08:31:14.175Z - normal: Building /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1
+2018-07-14T08:31:14.176Z - normal: Destination /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame
+2018-07-14T08:31:14.177Z - normal: Delete /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame/**/*
+2018-07-14T08:31:56.993Z - normal: Compiled project javascript file successfully
+2018-07-14T08:31:56.994Z - normal: Start building assets
+2018-07-14T08:31:56.994Z - normal: Start spawn build-worker
+2018-07-14T08:31:58.583Z - normal: Finish spawn build-worker
+2018-07-14T08:31:58.584Z - normal: Start init build-worker
+2018-07-14T08:32:02.762Z - normal: 1.9.1
+2018-07-14T08:32:03.279Z - normal: Finish init build-worker
+2018-07-14T08:32:03.279Z - normal: Start build-assets in worker
+2018-07-14T08:32:03.860Z - warn: Can not find particle texture in /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/assets/resources/particle/demo10.png, plist: /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/assets/resources/particle/bomb.plist
+2018-07-14T08:32:07.909Z - normal: Finish build-assets in worker
+2018-07-14T08:32:07.928Z - normal: Finish building assets
+2018-07-14T08:32:07.983Z - normal: Start building raw assets
+2018-07-14T08:32:07.985Z - normal: Start building plugin scripts
+2018-07-14T08:32:08.648Z - normal: Finish building plugin scripts
+2018-07-14T08:32:08.677Z - normal: Finish building raw assets
+2018-07-14T08:32:08.680Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-07-14T08:32:08.890Z - normal: Built to "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame" successfully
+2018-07-14T08:34:25.538Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build",
+  "debug": false,
+  "dest": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "CCSpriteDistortion",
+    "LabelOutline",
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "EditorBox",
+    "WebView",
+    "RichText",
+    "MotionStreak",
+    "DragonBones",
+    "Physics",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.tetris2048",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "6f8dcfa9-06eb-4663-8e0a-16f3c794744b"
+  ],
+  "sourceMaps": false,
+  "startScene": "6f8dcfa9-06eb-4663-8e0a-16f3c794744b",
+  "template": "link",
+  "title": "Tetris2048",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wxb5bbc7baaf5460c3",
+    "orientation": "portrait",
+    "subContext": "openDataContext"
+  },
+  "xxteaKey": "7d34e7b7-4193-49",
+  "zipCompressJs": true,
+  "project": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1",
+  "projectName": "Tetris2048",
+  "debugBuildWorker": false
+}
+2018-07-14T08:34:25.584Z - normal: Building /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1
+2018-07-14T08:34:25.585Z - normal: Destination /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame
+2018-07-14T08:34:25.587Z - normal: Delete /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame/**/*
+2018-07-14T08:34:58.560Z - normal: Compiled project javascript file successfully
+2018-07-14T08:34:58.561Z - normal: Start building assets
+2018-07-14T08:34:58.561Z - normal: Start spawn build-worker
+2018-07-14T08:35:00.048Z - normal: Finish spawn build-worker
+2018-07-14T08:35:00.048Z - normal: Start init build-worker
+2018-07-14T08:35:05.539Z - normal: 1.9.1
+2018-07-14T08:35:06.004Z - normal: Finish init build-worker
+2018-07-14T08:35:06.004Z - normal: Start build-assets in worker
+2018-07-14T08:35:06.461Z - warn: Can not find particle texture in /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/assets/resources/particle/demo10.png, plist: /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/assets/resources/particle/bomb.plist
+2018-07-14T08:35:10.576Z - normal: Finish build-assets in worker
+2018-07-14T08:35:10.587Z - normal: Finish building assets
+2018-07-14T08:35:10.640Z - normal: Start building raw assets
+2018-07-14T08:35:10.642Z - normal: Start building plugin scripts
+2018-07-14T08:35:11.336Z - normal: Finish building plugin scripts
+2018-07-14T08:35:11.365Z - normal: Finish building raw assets
+2018-07-14T08:35:11.369Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-07-14T08:35:11.587Z - normal: Built to "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame" successfully
+2018-07-14T09:03:13.258Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:1690775
+2018-07-14T09:03:46.177Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build",
+  "debug": false,
+  "dest": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "CCSpriteDistortion",
+    "LabelOutline",
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "EditorBox",
+    "WebView",
+    "RichText",
+    "MotionStreak",
+    "DragonBones",
+    "Physics",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.tetris2048",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "6f8dcfa9-06eb-4663-8e0a-16f3c794744b"
+  ],
+  "sourceMaps": false,
+  "startScene": "6f8dcfa9-06eb-4663-8e0a-16f3c794744b",
+  "template": "link",
+  "title": "Tetris2048",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wxb5bbc7baaf5460c3",
+    "orientation": "portrait",
+    "subContext": "openDataContext"
+  },
+  "xxteaKey": "7d34e7b7-4193-49",
+  "zipCompressJs": true,
+  "project": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1",
+  "projectName": "Tetris2048",
+  "debugBuildWorker": false
+}
+2018-07-14T09:03:46.197Z - normal: Building /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1
+2018-07-14T09:03:46.197Z - normal: Destination /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame
+2018-07-14T09:03:46.199Z - normal: Delete /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame/**/*
+2018-07-14T09:04:27.453Z - normal: Compiled project javascript file successfully
+2018-07-14T09:04:27.453Z - normal: Start building assets
+2018-07-14T09:04:27.453Z - normal: Start spawn build-worker
+2018-07-14T09:04:30.064Z - normal: Finish spawn build-worker
+2018-07-14T09:04:30.064Z - normal: Start init build-worker
+2018-07-14T09:04:38.450Z - normal: 1.9.1
+2018-07-14T09:04:39.134Z - normal: Finish init build-worker
+2018-07-14T09:04:39.134Z - normal: Start build-assets in worker
+2018-07-14T09:04:39.724Z - warn: Can not find particle texture in /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/assets/resources/particle/demo10.png, plist: /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/assets/resources/particle/bomb.plist
+2018-07-14T09:04:44.640Z - normal: Finish build-assets in worker
+2018-07-14T09:04:44.680Z - normal: Finish building assets
+2018-07-14T09:04:44.749Z - normal: Start building raw assets
+2018-07-14T09:04:44.750Z - normal: Start building plugin scripts
+2018-07-14T09:04:46.018Z - normal: Finish building plugin scripts
+2018-07-14T09:04:46.158Z - normal: Finish building raw assets
+2018-07-14T09:04:46.162Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-07-14T09:04:46.325Z - normal: Built to "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame" successfully
+2018-07-14T09:06:33.949Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build",
+  "debug": false,
+  "dest": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "CCSpriteDistortion",
+    "LabelOutline",
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "EditorBox",
+    "WebView",
+    "RichText",
+    "MotionStreak",
+    "DragonBones",
+    "Physics",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.tetris2048",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "6f8dcfa9-06eb-4663-8e0a-16f3c794744b"
+  ],
+  "sourceMaps": false,
+  "startScene": "6f8dcfa9-06eb-4663-8e0a-16f3c794744b",
+  "template": "link",
+  "title": "Tetris2048",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wxb5bbc7baaf5460c3",
+    "orientation": "portrait",
+    "subContext": "openDataContext"
+  },
+  "xxteaKey": "7d34e7b7-4193-49",
+  "zipCompressJs": true,
+  "project": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1",
+  "projectName": "Tetris2048",
+  "debugBuildWorker": false
+}
+2018-07-14T09:06:33.968Z - normal: Building /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1
+2018-07-14T09:06:33.968Z - normal: Destination /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame
+2018-07-14T09:06:33.969Z - normal: Delete /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame/**/*
+2018-07-14T09:06:57.856Z - normal: Compiled project javascript file successfully
+2018-07-14T09:06:57.856Z - normal: Start building assets
+2018-07-14T09:06:57.856Z - normal: Start spawn build-worker
+2018-07-14T09:06:59.321Z - normal: Finish spawn build-worker
+2018-07-14T09:06:59.321Z - normal: Start init build-worker
+2018-07-14T09:07:02.569Z - normal: 1.9.1
+2018-07-14T09:07:02.889Z - normal: Finish init build-worker
+2018-07-14T09:07:02.890Z - normal: Start build-assets in worker
+2018-07-14T09:07:03.227Z - warn: Can not find particle texture in /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/assets/resources/particle/demo10.png, plist: /Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/assets/resources/particle/bomb.plist
+2018-07-14T09:07:04.505Z - warn: The referenced asset used in "db://assets/resources/prefab/rankUI.prefab" is not found, it may have been deleted. Detailed information:
+Node path: "rankUI/bg"
+Used in Component: "cc.Sprite"
+uuid: "44b0cc71-da97-4714-b021-489f8683fd21"
+2018-07-14T09:07:06.255Z - normal: Finish build-assets in worker
+2018-07-14T09:07:06.264Z - normal: Finish building assets
+2018-07-14T09:07:06.353Z - normal: Start building raw assets
+2018-07-14T09:07:06.354Z - normal: Start building plugin scripts
+2018-07-14T09:07:06.985Z - normal: Finish building plugin scripts
+2018-07-14T09:07:07.013Z - normal: Finish building raw assets
+2018-07-14T09:07:07.031Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-07-14T09:07:07.453Z - normal: Built to "/Users/guojianlei/Work/SVN/games/Tetris2048/client/my2048_1/build/wechatgame" successfully
+2018-07-14T09:11:26.199Z - warn: The Asset used by component "cc.Sprite" in prefab "UIRoot.prefab" is missing. Detailed information:
+Node path: "UIRoot/shareUI/bg"
+Asset url: "db://assets/resources/prefab/UIRoot.prefab"
+Missing uuid: "44b0cc71-da97-4714-b021-489f8683fd21"
+

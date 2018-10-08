@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "avatar_rank_jiantou",
+    "texture": "3b59f717-43b6-48b8-b09a-09d91ef84b52",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      36,
+      31
+    ],
+    "offset": [
+      0.5,
+      -0.5
+    ],
+    "originalSize": [
+      37,
+      32
+    ]
+  }
+}

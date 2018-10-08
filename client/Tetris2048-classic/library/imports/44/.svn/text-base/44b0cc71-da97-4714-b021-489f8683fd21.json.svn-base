@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "buttonBoard",
+    "texture": "d48714f3-bdc1-4fc6-beef-2f9e346362cd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      640,
+      566
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      640,
+      566
+    ]
+  }
+}

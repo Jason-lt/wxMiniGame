@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "seq_guide_hand",
+    "texture": "bd8611c0-cb4e-4098-a181-4a522a0d9e90",
+    "atlas": "1686e810-6542-42d2-bafa-58f1494fd81d",
+    "rect": [
+      562,
+      434,
+      115,
+      115
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      115,
+      115
+    ]
+  }
+}

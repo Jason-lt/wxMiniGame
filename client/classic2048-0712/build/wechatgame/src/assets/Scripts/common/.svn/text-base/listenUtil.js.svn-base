@@ -1,0 +1,1 @@
+listenUtil={eventCtrl:{events:{},addListen:function(e,t){this.events[e]=this.events[e]||[],this.events[e].push(t)},removeListen:function(e,t){if(this.events[e]){var n=this.events[e].indexOf(t);this.events[e].splice(n,1)}},trigger:function(e,t){var n=this.events[e];if(n)for(var s=0;s<n.length;s++)(0,n[s])(t)}}};

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "signin_select",
+    "texture": "2248e457-e701-4618-9ef7-28e6df085dd3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      36,
+      32
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      36,
+      32
+    ]
+  }
+}

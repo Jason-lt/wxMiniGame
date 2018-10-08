@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 213
+/newsvn/Match3/!svn/ver/970/games/Tetris2048/client/my2048_1/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/cocos2dxandroid_static/jni
+END
+JniHelper.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 227
+/newsvn/Match3/!svn/ver/970/games/Tetris2048/client/my2048_1/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/cocos2dxandroid_static/jni/JniHelper.o.d
+END
+Java_org_cocos2dx_lib_Cocos2dxAccelerometer.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 261
+/newsvn/Match3/!svn/ver/970/games/Tetris2048/client/my2048_1/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/cocos2dxandroid_static/jni/Java_org_cocos2dx_lib_Cocos2dxAccelerometer.o.d
+END
+Java_org_cocos2dx_lib_Cocos2dxBitmap.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 254
+/newsvn/Match3/!svn/ver/970/games/Tetris2048/client/my2048_1/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/cocos2dxandroid_static/jni/Java_org_cocos2dx_lib_Cocos2dxBitmap.o.d
+END
+Java_org_cocos2dx_lib_Cocos2dxHelper.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 254
+/newsvn/Match3/!svn/ver/970/games/Tetris2048/client/my2048_1/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/cocos2dxandroid_static/jni/Java_org_cocos2dx_lib_Cocos2dxHelper.o.d
+END
+TouchesJni.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 228
+/newsvn/Match3/!svn/ver/970/games/Tetris2048/client/my2048_1/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/cocos2dxandroid_static/jni/TouchesJni.o.d
+END
+Java_org_cocos2dx_lib_Cocos2dxRenderer.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 256
+/newsvn/Match3/!svn/ver/970/games/Tetris2048/client/my2048_1/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/cocos2dxandroid_static/jni/Java_org_cocos2dx_lib_Cocos2dxRenderer.o.d
+END

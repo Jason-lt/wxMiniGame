@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "game_lose2",
+    "texture": "46503e62-d817-4b95-beb9-e7cc1eec33aa",
+    "atlas": "042c12b6-33c1-4755-8259-430661e1faab",
+    "rect": [
+      118,
+      446,
+      40,
+      25
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      40,
+      25
+    ],
+    "rotated": 1
+  }
+}

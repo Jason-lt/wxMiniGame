@@ -1,0 +1,1 @@
+{"version":3,"sources":["gameEvent.js"],"names":["tcpManager","gameEvent","BIND_USER_SUCCESS"],"mappings":";;;;;;AAAAA,WAAWC,SAAX,GAAuB;AACnBC,uBAAmB,mBADA,CACqB;;AADrB,CAAvB","file":"gameEvent.js","sourceRoot":"../../../../../assets/Scripts/common","sourcesContent":["tcpManager.gameEvent = {\n    BIND_USER_SUCCESS: 'BIND_USER_SUCCESS', //hall5绑定成功\n    \n}"]}

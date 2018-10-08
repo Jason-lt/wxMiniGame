@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "a59756bd-43fb-4df9-a23c-dc329b93dd7d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "button_revivecoinUI": {
+      "ver": "1.0.3",
+      "uuid": "b36c6dfb-d023-4d74-ba48-30280aead1c5",
+      "rawTextureUuid": "a59756bd-43fb-4df9-a23c-dc329b93dd7d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 112,
+      "height": 143,
+      "rawWidth": 112,
+      "rawHeight": 143,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

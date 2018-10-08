@@ -1,0 +1,38 @@
+{
+    "cdnGameConfig": {
+        "totalSwith": true,
+        "startScoreSwith": false,
+        "startScoreLimit": 800,
+        "reviveScoreSwith": true,
+        "reviveScoreLimit": 500,
+        "shareScoreSwith": true,
+        "shareScoreLimit": 1000,
+        "popPropTotalTimes": 0,
+        "weightRate": 0.5,
+        "markScoreEquals": [256, 1024],
+        "scoreEquals": [512, 2048, 4096],
+        "newUserPropCd": 60000,
+        "newUserScore": 0,
+        "newUserEquals": [64],
+        "validTime": 3600000,
+        "bombShareTimes": 3,
+        "bombDoubleRate": 3,
+        "createGridNumForClear": 5,
+        "createGridNumForSuper": 10,
+        "histroyMaxScore": 200,
+        "dailyStartTime": 1531187498000,
+        "version": "v.1.3.0"
+    },
+    "bannerAdConfig": {
+        "swith": true,
+        "showHeight": 110,
+        "interval": 35000
+    },
+    "reviveConfig": {
+        "clearVNum": 3,
+        "costNum": 50
+    },
+    "startConfig": {
+        "addStone": 5
+    }
+}

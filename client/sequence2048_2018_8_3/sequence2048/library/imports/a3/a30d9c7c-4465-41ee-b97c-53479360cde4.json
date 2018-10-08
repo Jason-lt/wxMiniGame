@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "2048kp_tx_bz_03",
+    "texture": "50ec6628-9af3-4a02-a1e4-e0a77317c017",
+    "atlas": "858d83f6-4162-45af-9cfb-58f17c8d6a3d",
+    "rect": [
+      498,
+      1730,
+      131,
+      105
+    ],
+    "offset": [
+      1,
+      1
+    ],
+    "originalSize": [
+      137,
+      107
+    ],
+    "rotated": 1
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "2048_huode2",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 4,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "glow_huang": {
+        "props": {}
+      },
+      "fangsheguang": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 180
+            },
+            {
+              "frame": 2,
+              "value": 360
+            },
+            {
+              "frame": 4,
+              "value": 540
+            }
+          ]
+        }
+      }
+    },
+    "props": {
+      "scaleX": [
+        {
+          "frame": 0,
+          "value": 1
+        }
+      ],
+      "scaleY": [
+        {
+          "frame": 0,
+          "value": 1
+        }
+      ]
+    }
+  },
+  "events": []
+}

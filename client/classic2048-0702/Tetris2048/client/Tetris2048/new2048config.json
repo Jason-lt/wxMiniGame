@@ -1,0 +1,28 @@
+{
+    "cdnGameConfig": {
+        "totalSwith": false,
+        "startScoreSwith": false,
+        "startScoreLimit": 800,
+        "reviveScoreSwith": true,
+        "reviveScoreLimit": 500,
+        "shareScoreSwith": true,
+        "shareScoreLimit": 1000,
+        "popPropCd": 300000,
+        "scoreEquals": [2048, 4096],
+        "newUserPropCd": 60000,
+        "newUserScore": 0,
+        "newUserEquals": [64]
+    },
+    "bannerAdConfig": {
+        "swith": true,
+        "showHeight": 100,
+        "interval": 35000
+    },
+    "reviveConfig": {
+        "clearVNum": 3,
+        "costNum": 50
+    },
+    "startConfig": {
+        "addStone": 5
+    }
+}

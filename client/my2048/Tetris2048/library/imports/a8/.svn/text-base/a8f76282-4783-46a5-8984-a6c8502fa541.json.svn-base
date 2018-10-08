@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "super_spr",
+    "texture": "338fb245-7851-4004-a87a-c49af4e07330",
+    "atlas": "",
+    "rect": [
+      11,
+      15,
+      94,
+      99
+    ],
+    "offset": [
+      1,
+      -7.5
+    ],
+    "originalSize": [
+      114,
+      114
+    ]
+  }
+}

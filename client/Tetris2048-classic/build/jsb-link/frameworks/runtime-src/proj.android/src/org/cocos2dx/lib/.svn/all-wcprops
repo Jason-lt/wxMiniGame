@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/newsvn/Match3/!svn/ver/876/games/Tetris2048/client/Tetris2048-classic/build/jsb-link/frameworks/runtime-src/proj.android/src/org/cocos2dx/lib
+END
+Cocos2dxReflectionHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/newsvn/Match3/!svn/ver/876/games/Tetris2048/client/Tetris2048-classic/build/jsb-link/frameworks/runtime-src/proj.android/src/org/cocos2dx/lib/Cocos2dxReflectionHelper.java
+END
+ResizeLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/newsvn/Match3/!svn/ver/876/games/Tetris2048/client/Tetris2048-classic/build/jsb-link/frameworks/runtime-src/proj.android/src/org/cocos2dx/lib/ResizeLayout.java
+END
+Cocos2dxAudioFocusManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/newsvn/Match3/!svn/ver/876/games/Tetris2048/client/Tetris2048-classic/build/jsb-link/frameworks/runtime-src/proj.android/src/org/cocos2dx/lib/Cocos2dxAudioFocusManager.java
+END
+Cocos2dxActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/newsvn/Match3/!svn/ver/876/games/Tetris2048/client/Tetris2048-classic/build/jsb-link/frameworks/runtime-src/proj.android/src/org/cocos2dx/lib/Cocos2dxActivity.java
+END
+Cocos2dxEditBoxHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/newsvn/Match3/!svn/ver/876/games/Tetris2048/client/Tetris2048-classic/build/jsb-link/frameworks/runtime-src/proj.android/src/org/cocos2dx/lib/Cocos2dxEditBoxHelper.java
+END
+Cocos2dxEditBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/newsvn/Match3/!svn/ver/876/games/Tetris2048/client/Tetris2048-classic/build/jsb-link/frameworks/runtime-src/proj.android/src/org/cocos2dx/lib/Cocos2dxEditBox.java
+END
+Cocos2dxDownloader.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/newsvn/Match3/!svn/ver/876/games/Tetris2048/client/Tetris2048-classic/build/jsb-link/frameworks/runtime-src/proj.android/src/org/cocos2dx/lib/Cocos2dxDownloader.java
+END
+CAAgentWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/newsvn/Match3/!svn/ver/876/games/Tetris2048/client/Tetris2048-classic/build/jsb-link/frameworks/runtime-src/proj.android/src/org/cocos2dx/lib/CAAgentWrapper.java
+END
+Cocos2dxVideoView.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/newsvn/Match3/!svn/ver/876/games/Tetris2048/client/Tetris2048-classic/build/jsb-link/frameworks/runtime-src/proj.android/src/org/cocos2dx/lib/Cocos2dxVideoView.java
+END
+GameControllerDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/newsvn/Match3/!svn/ver/876/games/Tetris2048/client/Tetris2048-classic/build/jsb-link/frameworks/runtime-src/proj.android/src/org/cocos2dx/lib/GameControllerDelegate.java
+END
+Cocos2dxTextInputWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/newsvn/Match3/!svn/ver/876/games/Tetris2048/client/Tetris2048-classic/build/jsb-link/frameworks/runtime-src/proj.android/src/org/cocos2dx/lib/Cocos2dxTextInputWrapper.java
+END
+Cocos2dxGLSurfaceView.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/newsvn/Match3/!svn/ver/876/games/Tetris2048/client/Tetris2048-classic/build/jsb-link/frameworks/runtime-src/proj.android/src/org/cocos2dx/lib/Cocos2dxGLSurfaceView.java
+END
+Cocos2dxRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/newsvn/Match3/!svn/ver/876/games/Tetris2048/client/Tetris2048-classic/build/jsb-link/frameworks/runtime-src/proj.android/src/org/cocos2dx/lib/Cocos2dxRenderer.java
+END
+Cocos2dxVideoHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/newsvn/Match3/!svn/ver/876/games/Tetris2048/client/Tetris2048-classic/build/jsb-link/frameworks/runtime-src/proj.android/src/org/cocos2dx/lib/Cocos2dxVideoHelper.java
+END
+Cocos2dxWebView.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/newsvn/Match3/!svn/ver/876/games/Tetris2048/client/Tetris2048-classic/build/jsb-link/frameworks/runtime-src/proj.android/src/org/cocos2dx/lib/Cocos2dxWebView.java
+END
+Cocos2dxWebViewHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/newsvn/Match3/!svn/ver/876/games/Tetris2048/client/Tetris2048-classic/build/jsb-link/frameworks/runtime-src/proj.android/src/org/cocos2dx/lib/Cocos2dxWebViewHelper.java
+END
+GameControllerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/newsvn/Match3/!svn/ver/876/games/Tetris2048/client/Tetris2048-classic/build/jsb-link/frameworks/runtime-src/proj.android/src/org/cocos2dx/lib/GameControllerAdapter.java
+END
+Cocos2dxAccelerometer.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/newsvn/Match3/!svn/ver/876/games/Tetris2048/client/Tetris2048-classic/build/jsb-link/frameworks/runtime-src/proj.android/src/org/cocos2dx/lib/Cocos2dxAccelerometer.java
+END
+Cocos2dxBitmap.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/newsvn/Match3/!svn/ver/876/games/Tetris2048/client/Tetris2048-classic/build/jsb-link/frameworks/runtime-src/proj.android/src/org/cocos2dx/lib/Cocos2dxBitmap.java
+END
+Cocos2dxHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/newsvn/Match3/!svn/ver/876/games/Tetris2048/client/Tetris2048-classic/build/jsb-link/frameworks/runtime-src/proj.android/src/org/cocos2dx/lib/Cocos2dxHandler.java
+END
+Cocos2dxLocalStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/newsvn/Match3/!svn/ver/876/games/Tetris2048/client/Tetris2048-classic/build/jsb-link/frameworks/runtime-src/proj.android/src/org/cocos2dx/lib/Cocos2dxLocalStorage.java
+END
+Cocos2dxHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/newsvn/Match3/!svn/ver/876/games/Tetris2048/client/Tetris2048-classic/build/jsb-link/frameworks/runtime-src/proj.android/src/org/cocos2dx/lib/Cocos2dxHelper.java
+END
+Cocos2dxMusic.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/newsvn/Match3/!svn/ver/876/games/Tetris2048/client/Tetris2048-classic/build/jsb-link/frameworks/runtime-src/proj.android/src/org/cocos2dx/lib/Cocos2dxMusic.java
+END
+Cocos2dxHttpURLConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/newsvn/Match3/!svn/ver/876/games/Tetris2048/client/Tetris2048-classic/build/jsb-link/frameworks/runtime-src/proj.android/src/org/cocos2dx/lib/Cocos2dxHttpURLConnection.java
+END
+Cocos2dxTypefaces.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/newsvn/Match3/!svn/ver/876/games/Tetris2048/client/Tetris2048-classic/build/jsb-link/frameworks/runtime-src/proj.android/src/org/cocos2dx/lib/Cocos2dxTypefaces.java
+END
+Cocos2dxJavascriptJavaBridge.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/newsvn/Match3/!svn/ver/876/games/Tetris2048/client/Tetris2048-classic/build/jsb-link/frameworks/runtime-src/proj.android/src/org/cocos2dx/lib/Cocos2dxJavascriptJavaBridge.java
+END
+Cocos2dxSound.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/newsvn/Match3/!svn/ver/876/games/Tetris2048/client/Tetris2048-classic/build/jsb-link/frameworks/runtime-src/proj.android/src/org/cocos2dx/lib/Cocos2dxSound.java
+END
+GameControllerUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/newsvn/Match3/!svn/ver/876/games/Tetris2048/client/Tetris2048-classic/build/jsb-link/frameworks/runtime-src/proj.android/src/org/cocos2dx/lib/GameControllerUtils.java
+END

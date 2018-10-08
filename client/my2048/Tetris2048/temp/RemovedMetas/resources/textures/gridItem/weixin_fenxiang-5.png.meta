@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "708f9620-2e07-4dab-b585-aa89c4a9e113",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "weixin_fenxiang-5": {
+      "ver": "1.0.3",
+      "uuid": "9cce4c65-e471-449d-b068-c324ad6e3f46",
+      "rawTextureUuid": "708f9620-2e07-4dab-b585-aa89c4a9e113",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 500,
+      "height": 400,
+      "rawWidth": 500,
+      "rawHeight": 400,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,413 @@
+"use strict";
+cc._RF.push(module, '6f9cba8rABMZK9/iVftCw/h', 'dataStatistics');
+// Scripts/sdk_readygo/lib/dataStatistics.js
+
+"use strict";
+function _interopRequireDefault(e) {
+  return e && e.__esModule ? e : { default: e };
+}function _defineProperty(e, t, n) {
+  return t in e ? Object.defineProperty(e, t, { value: n, enumerable: !0, configurable: !0, writable: !0 }) : e[t] = n, e;
+}function _classCallCheck(e, t) {
+  if (!(e instanceof t)) throw new TypeError("Cannot call a class as a function");
+}function request(e) {
+  if (myLog(e), isOpenUserLog) {
+    var t = 0;!function n() {
+      wx.request({ url: "https://h5game-log.kuaiyugo.com/dataAnalysis/saveUserBehaviorLogV2", data: e, method: "POST", header: { "content-type": "application/json" }, success: function success(e) {}, fail: function fail(a) {
+          t < 2 && (t++, e.retryTimes = t, n());
+        } });
+    }();
+  }
+}function _getShareInfo(e) {
+  var t = arguments.length > 1 && void 0 !== arguments[1] ? arguments[1] : "",
+      n = arguments.length > 2 && void 0 !== arguments[2] ? arguments[2] : "",
+      a = arguments.length > 3 && void 0 !== arguments[3] ? arguments[3] : "",
+      o = arguments.length > 4 && void 0 !== arguments[4] ? arguments[4] : "",
+      r = arguments.length > 5 && void 0 !== arguments[5] ? arguments[5] : "",
+      c = "";try {
+    c = wx.getStorageSync("uid");
+  } catch (e) {}return new Promise(function (i, g) {
+    wx.request({ url: _config2.default.api + "backendManager/getMaterialInfoByAppkey?channelPrefix=" + e + "&appKey=" + _config2.default.appKey + "&userId=" + c + "&materialSuffix=" + t + "&name=" + n + "&point=" + a + "&other=" + o + "&channelCode=" + r, method: "GET", header: { "content-type": "application/json" }, success: function success(t) {
+        if (myLog({ name: "服务器返回分享信息", res: t }), t.data.data.channel_code) {
+          var n = t.data.data.channel_code;if (e == _EChannelPrefix2.default.regular) try {
+            wx.setStorageSync("passivechannelcode", n);
+          } catch (e) {
+            wx.setStorageSync("passivechannelcode", n);
+          } else wx.setStorageSync("channelCode", n);
+        }i(t);
+      }, fail: function fail(e) {
+        g(e);
+      } });
+  });
+}function http(e, t, n) {
+  try {
+    return new Promise(function (a, o) {
+      wx.request({ url: _config2.default.api + n, data: e, method: t, header: { "content-type": "application/json" }, success: function success(e) {
+          0 == e.data.code ? a(e) : o(e);
+        }, fail: function fail(e) {
+          o(e);
+        } });
+    });
+  } catch (e) {
+    myLog(e);
+  }
+}function HandleGoto(e) {
+  try {
+    var t = "";if (e.query.goto ? t = e.query.goto : e.referrerInfo && e.referrerInfo.extraData && e.referrerInfo.extraData.goto && (t = e.referrerInfo.extraData.goto), "" == t || void 0 == t || null == t) return;http("", "GET", "game/getGotoConfig?id=" + t).then(function (e) {
+      myLog(e);var t = e.data.data,
+          n = t.is_open;if (myLog(n), n) {
+        var a = t.appid,
+            o = t.next_id;wx.navigateToMiniProgram({ appId: a, envVersion: "release", extraData: { goto: o }, success: function success(e) {
+            myLog(e);
+          } });
+      }
+    }).catch(function (e) {
+      myLog(e);
+    });
+  } catch (e) {
+    myLog(e);
+  }
+}function getErrData(e) {
+  return myLog(e), { code: -10110, data: e, msg: "request fail" };
+}function getErrParamsData(e) {
+  return myLog(e), { code: -10111, data: "", msg: e };
+}function login(e, t, n) {
+  try {
+    wx.showLoading({ title: "登录中...", mask: !0, success: function success() {
+        wxLogin(e, t, n);
+      }, fail: function fail() {
+        login(e, t, n);
+      } });
+  } catch (e) {
+    myLog(e);
+  }
+}function wxLogin(e, t, n) {
+  try {
+    wx.login({ success: function success(a) {
+        var o = a.code,
+            r = { appId: _config2.default.appId, code: o };if (1 == CheckParams(r)) http(r, "POST", "user/standAloneLogin").then(function (a) {
+          if (console.log(a, "res"), myLog({ name: "登录信息", res: a }), 0 == a.data.code) {
+            isDebug = a.data.debug;try {
+              var o = a.data.data.openId;myLog("获取" + o), wx.setStorageSync("uid", o), wx.setStorageSync("sessionId", a.data.data.sessionId), onLoginInfo(e, t, n, a.data);
+            } catch (a) {
+              console.log(a), retryLogin(e, t, n, a, "str");
+            }
+          } else retryLogin(e, t, n, a, "obj");
+        }).catch(function (a) {
+          retryLogin(e, t, n, a, "obj");
+        });else {
+          var c = "前端检查参数不正确" + JSON.stringify(r),
+              i = getErrParamsData(c);n(i);
+        }
+      }, fail: function fail(a) {
+        myLog("微信Login失败"), retryLogin(e, t, n, a, "obj");
+      } });
+  } catch (e) {
+    myLog(e), wx.hideLoading();
+  }
+}function retryLogin(e, t, n, a, o) {
+  try {
+    var r = "网络异常，是否重新登录";"str" == o ? r += " " + a : "obj" == o && (a.data ? r += " " + JSON.stringify(a.data.msg) : r += " " + JSON.stringify(a)), console.log(r), wx.hideLoading(), wx.showModal({ title: "提示", content: r, showCancel: !1, success: function success(a) {
+        if (a.confirm) try {
+          wx.showLoading({ title: "登录中...", mask: !1 }), wxLogin(e, t, n);
+        } catch (a) {
+          wx.showLoading({ title: "登录中...", mask: !1 }), wxLogin(e, t, n);
+        }
+      }, fail: function fail() {
+        wxLogin(e, t, n);
+      } });
+  } catch (e) {
+    myLog(e);
+  }
+}function onLoginInfo(e, t, n, a) {
+  console.log(e);try {
+    var o = getObject("login_in");wx.setStorageSync("lastlogintime", new Date().getTime()), e.scene && (o.ext.scene = e.scene), HandleGoto(e), e.query.channelCode ? o.ext.ccode = e.query.channelCode : e.referrerInfo && e.referrerInfo.extraData && e.referrerInfo.extraData.channelCode && (o.ext.ccode = e.referrerInfo.extraData.channelCode);try {
+      wx.setStorageSync("channelCode", o.ext.ccode);
+    } catch (e) {
+      wx.setStorageSync("channelCode", o.ext.ccode);
+    }e.query.sid && (o.ext.sid = e.query.sid);try {
+      wx.setStorageSync("sid", o.ext.sid);
+    } catch (e) {
+      wx.setStorageSync("sid", o.ext.sid);
+    }t(a), wx.hideLoading(), _filterObj(o.ext);request({ userLog: o });
+  } catch (e) {
+    wx.hideLoading(), myLog(e);
+  }
+}function dataRetry(e, t, n, a, o) {
+  try {
+    var r = "网络异常，请稍后重试";isDebug && (r += JSON.stringify(o)), wx.showModal({ title: "提示", content: r, showCancel: !1, success: function success(o) {
+        "get" == e ? dataStatistics.getKVUserData(n, a) : "set" == e && dataStatistics.setKVUserData(t, n, a);
+      }, fail: function fail(o) {
+        dataRetry(e, t, n, a, o);
+      } });
+  } catch (e) {
+    myLog(e);
+  }
+}function CheckParams(e) {
+  myLog(e);for (var t in e) {
+    if (null == e[t] || "" == e[t] || "undefined" == e[t]) return -1;
+  }return 1;
+}function myLog(e) {
+  logStatus && console.log(e);
+}function getObject(e) {
+  try {
+    var t = wx.getSystemInfoSync(),
+        n = {};return n.v = sdkVersion, n.ext = { ak: _config2.default.appKey, ccode: wx.getStorageSync("channelCode") || "", sid: wx.getStorageSync("sid") || "", type: e, uid: wx.getStorageSync("uid"), scene: wx.getStorageSync("scene") || "" }, n.device = t, getUserLocation && (n.location = locationInfo), n;
+  } catch (e) {
+    myLog(e);
+  }
+}function _filterObj(e) {
+  for (var t in e) {
+    "" != e[t] && null != e[t] && void 0 != e[t] && "{}" != JSON.stringify(e[t]) || delete e[t];
+  }return e;
+}Object.defineProperty(exports, "__esModule", { value: !0 });var _createClass = function () {
+  function e(e, t) {
+    for (var n = 0; n < t.length; n++) {
+      var a = t[n];a.enumerable = a.enumerable || !1, a.configurable = !0, "value" in a && (a.writable = !0), Object.defineProperty(e, a.key, a);
+    }
+  }return function (t, n, a) {
+    return n && e(t.prototype, n), a && e(t, a), t;
+  };
+}(),
+    _config = require("./config.js"),
+    _config2 = _interopRequireDefault(_config),
+    _EChannelPrefix = require("./EChannelPrefix"),
+    _EChannelPrefix2 = _interopRequireDefault(_EChannelPrefix),
+    sdkVersion = "1.0.6",
+    logStatus = !0,
+    isDebug = !1,
+    isOpenUserLog = !0,
+    getUserLocation = !1,
+    locationInfo = {};getUserLocation && wx.getLocation({ success: function success(e) {
+    locationInfo = e;
+  } });var dataStatistics = function () {
+  function e() {
+    _classCallCheck(this, e);
+  }return _createClass(e, null, [{ key: "saveLog", value: function value(e) {
+      try {
+        var t = wx.getStorageSync("channelCode") || "",
+            n = wx.getStorageSync("scene") || "",
+            a = wx.getStorageSync("sid") || "";"" == t && e.query.channelCode ? t = e.query.channelCode : "" == t && e.referrerInfo && e.referrerInfo.extraData && e.referrerInfo.extraData.channelCode && (t = e.referrerInfo.extraData.channelCode), "" == a && e.query.sid && (a = e.query.sid), "" == n && e.scene && (n = e.scene), wx.setStorageSync("channelCode", t), wx.setStorageSync("sid", a), wx.setStorageSync("scene", n);
+      } catch (e) {
+        console.log(e);
+      }
+    } }, { key: "shareAppMsg", value: function value(e) {
+      try {
+        var t = getObject("share");t.ext.sid = t.ext.uid, e.query && "" != e.query ? e.query += "&sid=" + t.ext.sid + "&channelCode=" + t.ext.ccode : e.query = "sid=" + t.ext.sid + "&channelCode=" + t.ext.ccode, myLog({ name: "options", options: e }), wx.shareAppMessage(e), t.ext = _filterObj(t.ext);request({ userLog: t });
+      } catch (e) {
+        myLog(e);
+      }
+    } }, { key: "onShareAppMsg", value: function value(e) {
+      try {
+        var t = getObject("share");t.ext.sid = t.ext.uid, t.ext.ccode = wx.getStorageSync("passivechannelcode"), e.query && "" != e.query ? e.query += "&sid=" + t.ext.sid + "&channelCode=" + t.ext.ccode : e.query = "sid=" + t.ext.sid + "&channelCode=" + t.ext.ccode, t.ext = _filterObj(t.ext);return request({ userLog: t }), myLog({ name: "options", options: e }), e;
+      } catch (e) {
+        myLog(e);
+      }
+    } }, { key: "shareSuccess", value: function value(e) {
+      try {
+        var t = getObject("sharesuccess");if ("initiative" == e) try {
+          t.ext.ccode = wx.getStorageSync("channelCode");
+        } catch (e) {
+          t.ext.ccode = wx.getStorageSync("channelCode");
+        } else try {
+          t.ext.ccode = wx.getStorageSync("passivechannelcode");
+        } catch (e) {
+          t.ext.ccode = wx.getStorageSync("passivechannelcode");
+        }t.ext.sid = t.ext.uid, t.ext = _filterObj(t.ext);request({ userLog: t });
+      } catch (e) {
+        myLog(e);
+      }
+    } }, { key: "onShowInfo", value: function value(e, t, n) {
+      myLog("sdk_config.version" + sdkVersion);var a = t || function () {},
+          o = n || function () {};try {
+        if ("" == wx.getStorageSync("uid") || null == wx.getStorageSync("uid")) login(e, a, o);else {
+          onLoginInfo(e, a, o, { code: 0, data: { openId: wx.getStorageSync("uid") }, msg: "" });
+        }
+      } catch (e) {
+        myLog(e);
+      }
+    } }, { key: "onHideInfo", value: function value() {
+      try {
+        var e = getObject("login_out");e.ext.preLogin = wx.getStorageSync("lastlogintime"), e.ext = _filterObj(e.ext);request({ userLog: e });
+      } catch (e) {
+        myLog(e);
+      }
+    } }, { key: "getShareInfo", value: function value(e, t, n) {
+      var a = arguments.length > 3 && void 0 !== arguments[3] ? arguments[3] : "",
+          o = arguments.length > 4 && void 0 !== arguments[4] ? arguments[4] : "",
+          r = arguments.length > 5 && void 0 !== arguments[5] ? arguments[5] : "",
+          c = arguments.length > 6 && void 0 !== arguments[6] ? arguments[6] : "",
+          i = arguments.length > 7 && void 0 !== arguments[7] ? arguments[7] : "";try {
+        var g = t || function () {},
+            f = n || function () {},
+            s = { channelPrefix: e, appKey: _config2.default.appKey };if (1 == CheckParams(s)) _getShareInfo(e, a, o, r, c, i).then(function (e) {
+          "function" == typeof g && g(e);
+        }).catch(function (e) {
+          var t = getErrData(e);"function" == typeof f && f(t);
+        });else {
+          var u = "前端检查参数不正确" + JSON.stringify(s),
+              d = getErrParamsData(u);f(d);
+        }
+      } catch (e) {
+        myLog(e);
+      }
+    } }, { key: "setKVUserData", value: function value(e, t, n) {
+      try {
+        var a = { appKey: _config2.default.appKey, user: wx.getStorageSync("uid"), value: e },
+            o = t || function () {},
+            r = n || function () {};if (1 == CheckParams(a)) http(a, "POST", "game/setKVUserData").then(function (e) {
+          myLog(e), "function" == typeof o && o(e);
+        }).catch(function (t) {
+          myLog(t);var n = getErrData(t);"function" == typeof r && r(n), dataRetry("set", e, o, r, t);
+        });else {
+          var c = "前端检查参数不正确" + JSON.stringify(a),
+              i = getErrParamsData(c);r(i);
+        }
+      } catch (e) {
+        myLog(e);
+      }
+    } }, { key: "getKVUserData", value: function value(e, t) {
+      try {
+        var n = e || function () {},
+            a = t || function () {},
+            o = wx.getStorageSync("uid"),
+            r = { appKey: _config2.default.appKey, user: o };if (1 == CheckParams(r)) http("", "GET", "game/getKVUserData?appKey=" + _config2.default.appKey + "&user=" + o).then(function (e) {
+          myLog(e), "function" == typeof n && n(e);
+        }).catch(function (e) {
+          var t = getErrData(e);"function" == typeof a && a(t), dataRetry("get", "", n, a, e);
+        });else {
+          var c = "前端检查参数不正确" + JSON.stringify(r),
+              i = getErrParamsData(c);a(i);
+        }
+      } catch (e) {
+        myLog(e);
+      }
+    } }, { key: "getServerTime", value: function value(e, t) {
+      try {
+        http("", "GET", "user/getServerTime").then(function (t) {
+          e(t);
+        }).catch(function (e) {
+          t(e);
+        });
+      } catch (e) {
+        myLog(e);
+      }
+    } }, { key: "getGameConfigByAppkey", value: function value(e, t) {
+      try {
+        var n = e || function () {},
+            a = t || function () {};if ("" == _config2.default.appKey || null == _config2.default.appKey) {
+          var o = "前端检查参数不正确appkey=" + _config2.default.appKey,
+              r = getErrParamsData(o);a(r);
+        } else http("", "GET", "game/getGameConfigByAppkey?appKey=" + _config2.default.appKey).then(function (e) {
+          myLog(e), "function" == typeof n && n(e);
+        }).catch(function (e) {
+          var t = getErrData(e);"function" == typeof a && a(t);
+        });
+      } catch (e) {
+        myLog(e);
+      }
+    } }, { key: "withDraw", value: function value() {
+      var e = arguments.length > 0 && void 0 !== arguments[0] ? arguments[0] : "",
+          t = arguments[1],
+          n = arguments[2];try {
+        var a = { codeBody: JSON.stringify({ openid: wx.getStorageSync("uid"), appKey: _config2.default.appKey, appid: _config2.default.appId, param: e }), pageType: "red_packet" };this.gameHttp(_config2.default.api + "gamepay/createWXACode", a, "POST").then(function (e) {
+          console.log(e);var a = e.data;wx.previewImage({ current: a, urls: [a], success: function success(e) {
+              console.log(e), t({ code: 0, data: "", msg: "获取二维码成功" });
+            }, fail: function fail(e) {
+              n(e);
+            } });
+        }, function (e) {
+          n(e);
+        });
+      } catch (e) {
+        n(e);
+      }
+    } }, { key: "createPFCode", value: function value(e, t) {
+      try {
+        var n = { codeBody: JSON.stringify({ openid: wx.getStorageSync("uid"), appKey: _config2.default.appKey, appid: _config2.default.appId, channelCode: "moregame" }), pageType: "more_games" };this.gameHttp(_config2.default.api + "gamepay/createWXACode", n, "POST").then(function (n) {
+          console.log(n);var a = n.data;wx.previewImage({ current: a, urls: [a], success: function success(t) {
+              console.log(t), e({ code: 0, data: "", msg: "获取二维码成功" });
+            }, fail: function fail(e) {
+              t(e);
+            } });
+        }, function (e) {
+          t(e);
+        });
+      } catch (e) {
+        t(e);
+      }
+    } }, { key: "mysteryCode", value: function value(e, t, n) {
+      try {
+        var a = { codeBody: JSON.stringify({ openid: wx.getStorageSync("uid"), appKey: _config2.default.appKey, appid: _config2.default.appId, gameName: e, channelCode: "coinpackage" }), pageType: "mystical_reward" };this.gameHttp(_config2.default.api + "gamepay/createWXACode", a, "POST").then(function (e) {
+          console.log(e);var a = e.data;wx.previewImage({ current: a, urls: [a], success: function success(e) {
+              console.log(e), t({ code: 0, data: "", msg: "获取二维码成功" });
+            }, fail: function fail(e) {
+              n(e);
+            } });
+        }, function (e) {
+          n(e);
+        });
+      } catch (e) {
+        n(e);
+      }
+    } }, { key: "taskGoldMap", value: function value(e, t, n, a) {
+      try {
+        var o = wx.getStorageSync("gameUserInfo"),
+            r = {};if ("string" == typeof o && o.length > 5) {
+          var c;o = JSON.parse(o);var i = o.nickName,
+              g = o.avatarUrl;r.codeBody = JSON.stringify((c = { openid: wx.getStorageSync("uid"), appKey: _config2.default.appKey, appid: _config2.default.appId, channelCode: "coincheck", gold: t, gameName: e, gameCoin: t }, _defineProperty(c, "gameCoin", t), _defineProperty(c, "nickName", i), _defineProperty(c, "avatarUrl", g), c)), r.pageType = "receive_gift";
+        } else {
+          var f;r.codeBody = JSON.stringify((f = { openid: wx.getStorageSync("uid"), appKey: _config2.default.appKey, appid: _config2.default.appId, channelCode: "coincheck", gold: t, gameName: e, gameCoin: t }, _defineProperty(f, "gameCoin", t), _defineProperty(f, "nickName", ""), _defineProperty(f, "avatarUrl", ""), f)), r.pageType = "receive_gift";
+        }this.gameHttp(_config2.default.api + "gamepay/createWXACode", r, "POST").then(function (e) {
+          console.log(e);var t = e.data;wx.previewImage({ current: t, urls: [t], success: function success(e) {
+              console.log(e), n({ code: 0, data: "", msg: "获取二维码成功" });
+            }, fail: function fail(e) {
+              a(e);
+            } });
+        }, function (e) {
+          a(e);
+        });
+      } catch (e) {
+        a(e);
+      }
+    } }, { key: "goldMap", value: function value(e, t, n, a) {
+      try {
+        var o = wx.getStorageSync("gameUserInfo"),
+            r = {};if ("string" == typeof o && o.length > 5) {
+          var c;o = JSON.parse(o);var i = o.nickName,
+              g = o.avatarUrl;r.codeBody = JSON.stringify((c = { openid: wx.getStorageSync("uid"), appKey: _config2.default.appKey, appid: _config2.default.appId, channelCode: "morecoin", gold: t, gameName: e, gameCoin: t }, _defineProperty(c, "gameCoin", t), _defineProperty(c, "nickName", i), _defineProperty(c, "avatarUrl", g), c)), r.pageType = "gold_merge";
+        } else {
+          var f;r.codeBody = JSON.stringify((f = { openid: wx.getStorageSync("uid"), appKey: _config2.default.appKey, appid: _config2.default.appId, channelCode: "morecoin", gold: t, gameName: e, gameCoin: t }, _defineProperty(f, "gameCoin", t), _defineProperty(f, "nickName", ""), _defineProperty(f, "avatarUrl", ""), f)), r.pageType = "gold_merge";
+        }this.gameHttp(_config2.default.api + "gamepay/createWXACode", r, "POST").then(function (e) {
+          console.log(e);var t = e.data;wx.previewImage({ current: t, urls: [t], success: function success(e) {
+              console.log(e), n({ code: 0, data: "", msg: "获取二维码成功" });
+            }, fail: function fail(e) {
+              a(e);
+            } });
+        }, function (e) {
+          a(e);
+        });
+      } catch (e) {
+        a(e);
+      }
+    } }, { key: "gameHttp", value: function value(e, t, n) {
+      try {
+        return "GET" == n && (e = this.stringify(e, t), t = ""), new Promise(function (a, o) {
+          var r = wx.getStorageSync("sessionId") || "";wx.request({ url: e, data: t, method: n, header: { "content-type": "application/json", "session-id": r }, success: function success(e) {
+              a(e.data);
+            }, fail: function fail(e) {
+              o(e);
+            } });
+        });
+      } catch (e) {
+        myLog(e);
+      }
+    } }, { key: "stringify", value: function value(e, t) {
+      var n = 0;for (var a in t) {
+        0 == n ? (e = e + "?" + a + "=" + t[a], n++) : e = e + "&" + a + "=" + t[a];
+      }return e;
+    } }, { key: "goldCount", value: function value(e, t) {
+      var n = getObject("changeGold");n.ext.goldValue = e, n.ext.goldAccount = t, n.ext = _filterObj(n.ext), request(n);
+    } }]), e;
+}();exports.default = dataStatistics;
+
+cc._RF.pop();

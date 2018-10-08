@@ -1,0 +1,221 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "skins.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "skin1_0": {
+      "__uuid__": "981c6c80-b541-4929-bc3d-8d4d49341b77"
+    },
+    "skin1_1": {
+      "__uuid__": "a5d9b9fc-e1cc-437f-94a8-ba6651de84f3"
+    },
+    "skin1_2": {
+      "__uuid__": "ad7a7b4e-7d9b-4df2-bb2d-8cce66ebe9cf"
+    },
+    "skin1_3": {
+      "__uuid__": "f6143c6c-ebe8-4c97-b322-21b69214fa6d"
+    },
+    "skin1_4": {
+      "__uuid__": "98c431c2-ce5a-422d-ab53-8e700c4c314e"
+    },
+    "skin1_5": {
+      "__uuid__": "1f21aaee-1fc5-4c82-b179-a758945e4b2e"
+    },
+    "skin1_6": {
+      "__uuid__": "0c6dce83-018a-46bf-a365-8d28e4783986"
+    },
+    "skin1_7": {
+      "__uuid__": "e451033a-a1ba-48a9-929b-a80eb8f2746b"
+    },
+    "skin1_8": {
+      "__uuid__": "c5ebee32-3490-41c7-8ebe-4041fc4e0711"
+    },
+    "skin1_9": {
+      "__uuid__": "470b4ad5-5480-4b67-a61a-73cc6a181522"
+    },
+    "skin6_1024": {
+      "__uuid__": "7232d296-fd08-437e-a04e-494a7b5c3c3f"
+    },
+    "skin6_128": {
+      "__uuid__": "f017336c-141a-4e8b-8df2-29c0ca1abdc6"
+    },
+    "skin6_16": {
+      "__uuid__": "48909026-c16d-41eb-af75-9988a2081db7"
+    },
+    "skin6_2": {
+      "__uuid__": "9695fa03-93a0-4dd2-b0dc-530259a511d0"
+    },
+    "skin6_2048": {
+      "__uuid__": "4b16d488-bd4d-4407-bbe0-3f226c1f9382"
+    },
+    "skin6_256": {
+      "__uuid__": "9f61a32b-4281-4795-94d0-94018fe4b7f0"
+    },
+    "skin6_32": {
+      "__uuid__": "318ebdd9-b142-43ed-8f87-9e3e2baeb84e"
+    },
+    "skin6_4": {
+      "__uuid__": "98e2a8dd-48cb-49e8-97c6-5d12e7a29233"
+    },
+    "skin6_4096": {
+      "__uuid__": "aadeee23-e62b-476b-8a5d-f340b2e58a0f"
+    },
+    "skin6_512": {
+      "__uuid__": "4c308a5a-fd25-48b5-9e41-5b42d9b98195"
+    },
+    "skin6_64": {
+      "__uuid__": "75665677-4a34-4997-920d-e9baddbd5e5d"
+    },
+    "skin6_8": {
+      "__uuid__": "befcf52c-00f3-4447-a233-9ff41574bd5e"
+    },
+    "skin2_1024": {
+      "__uuid__": "859873db-a4c5-4ca4-9f1c-40cf39bf4ed2"
+    },
+    "skin2_128": {
+      "__uuid__": "f9bf186a-3b4e-46aa-ba31-9abbff5e1ccd"
+    },
+    "skin2_16": {
+      "__uuid__": "9fbc20b1-8a07-4efd-a479-66dca84ebfbc"
+    },
+    "skin2_2": {
+      "__uuid__": "e2d5d62c-740c-41e3-a942-ac72f9215edd"
+    },
+    "skin2_2048": {
+      "__uuid__": "0a3a0aea-2d4f-429b-9442-862301b465c4"
+    },
+    "skin2_256": {
+      "__uuid__": "f9445f97-e488-4a91-9e45-5ced721ad5c4"
+    },
+    "skin2_32": {
+      "__uuid__": "47b8ea67-9fbd-4a6e-ae6b-2ed779447878"
+    },
+    "skin2_4": {
+      "__uuid__": "6e567055-51b7-451c-b24b-edef85794b3d"
+    },
+    "skin2_4096": {
+      "__uuid__": "2a4bfdd5-a216-4a61-857f-690b32c9e402"
+    },
+    "skin2_512": {
+      "__uuid__": "08d1baa8-9e89-4d25-84a7-5a56e2c873c4"
+    },
+    "skin2_64": {
+      "__uuid__": "c3d135ba-4d40-4043-ba1b-d90ff12f2532"
+    },
+    "skin2_8": {
+      "__uuid__": "1b4af6fc-e5de-4e98-837f-8edd5b51120d"
+    },
+    "skin3_1024": {
+      "__uuid__": "b091d63c-8f97-4eb6-9cf2-b55f2a16d574"
+    },
+    "skin3_128": {
+      "__uuid__": "13f14fd1-9336-44bd-8bf2-df967e23c884"
+    },
+    "skin3_16": {
+      "__uuid__": "36831646-9f44-4166-b0c6-1e809499d243"
+    },
+    "skin3_2": {
+      "__uuid__": "8b1f700e-cf71-4620-ac88-6ecbd7200c2a"
+    },
+    "skin3_2048": {
+      "__uuid__": "4d800fe8-8b4a-4a87-ac82-44cf68a2ab13"
+    },
+    "skin3_256": {
+      "__uuid__": "e88d41ef-c280-4e05-8c22-12769a063fb7"
+    },
+    "skin3_32": {
+      "__uuid__": "a09e1cb3-4c46-44ec-b99d-fa75c4e4eabc"
+    },
+    "skin3_4": {
+      "__uuid__": "99bde0fe-8758-4a0c-9e8f-7f53f71d830c"
+    },
+    "skin3_4096": {
+      "__uuid__": "cfaebfb7-45f6-49d2-ae02-f3abcd6bcde1"
+    },
+    "skin3_512": {
+      "__uuid__": "897d1417-853e-4f69-b2fc-98036032216f"
+    },
+    "skin3_64": {
+      "__uuid__": "66d4c17d-7716-4220-ae9b-331638adfff7"
+    },
+    "skin3_8": {
+      "__uuid__": "1a1d0d01-ef7b-46ed-b05f-37ec9fcff999"
+    },
+    "skin4_1024": {
+      "__uuid__": "b40895c7-5fa7-42ac-826d-f93b28bd4f02"
+    },
+    "skin4_128": {
+      "__uuid__": "c996cb9a-487e-404f-acae-1c2998d47cce"
+    },
+    "skin4_16": {
+      "__uuid__": "2f227f8e-b8a9-4c9a-92ad-001a98ed6bb3"
+    },
+    "skin4_2": {
+      "__uuid__": "dc43bedd-c824-4782-9fb0-c07262d3bc92"
+    },
+    "skin4_2048": {
+      "__uuid__": "7733f2f1-2852-4e77-be7a-74640c5a9705"
+    },
+    "skin4_256": {
+      "__uuid__": "a52d0975-bf55-4102-82e2-3c1e6b76ef44"
+    },
+    "skin4_32": {
+      "__uuid__": "f0832459-f41f-4ee0-94ae-8309953df7b1"
+    },
+    "skin4_4": {
+      "__uuid__": "6ff0ba2c-ed29-4429-bf4c-c70bf21d3fa1"
+    },
+    "skin4_4096": {
+      "__uuid__": "a4252961-3f16-4c2c-874d-e5475e408b72"
+    },
+    "skin4_512": {
+      "__uuid__": "e92f7d4a-ee9c-4a9a-ab0a-799b931e109e"
+    },
+    "skin4_64": {
+      "__uuid__": "b6e36d1d-2a74-47a6-8851-c24e30908eb8"
+    },
+    "skin4_8": {
+      "__uuid__": "f557ed67-8695-49d9-90dd-bcb547b7102f"
+    },
+    "skin5": {
+      "__uuid__": "3737fd61-1d5b-45b4-bf1a-231abf324c2f"
+    },
+    "skin5_1024": {
+      "__uuid__": "f22350fd-4427-42a6-a1c9-b441207dd632"
+    },
+    "skin5_128": {
+      "__uuid__": "56cc9772-ad37-4bc7-ac7f-e462b8fcf206"
+    },
+    "skin5_16": {
+      "__uuid__": "629a8297-462a-4c43-8795-57d2f17d5db9"
+    },
+    "skin5_2": {
+      "__uuid__": "acbfde4c-fbb5-475d-94f3-f63eccfac6d4"
+    },
+    "skin5_2048": {
+      "__uuid__": "08f2a74b-41c8-4457-9850-e0043770d777"
+    },
+    "skin5_256": {
+      "__uuid__": "3f4c10ee-f16e-4ae3-9a57-34da64904982"
+    },
+    "skin5_32": {
+      "__uuid__": "706868a8-2314-40da-bc65-fa7019ff8dfd"
+    },
+    "skin5_4": {
+      "__uuid__": "d1d86db7-a60c-4ed0-a57f-7abf02e17abb"
+    },
+    "skin5_4096": {
+      "__uuid__": "f725df22-d7a3-4357-85c0-f89c445cf965"
+    },
+    "skin5_512": {
+      "__uuid__": "053cf23b-2219-4eeb-909e-1cbc75f2bba1"
+    },
+    "skin5_64": {
+      "__uuid__": "3bfb5464-164a-4d05-8d62-8c7dde4cfb8a"
+    },
+    "skin5_8": {
+      "__uuid__": "59454b4f-3aad-4aa3-b355-17af0ad27221"
+    }
+  }
+}

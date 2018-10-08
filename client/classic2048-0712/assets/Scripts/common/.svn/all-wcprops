@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/newsvn/Match3/!svn/ver/965/games/Tetris2048/client/classic2048-0712/assets/Scripts/common
+END
+cmdType.js
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/newsvn/Match3/!svn/ver/965/games/Tetris2048/client/classic2048-0712/assets/Scripts/common/cmdType.js
+END
+fbAPI.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/newsvn/Match3/!svn/ver/965/games/Tetris2048/client/classic2048-0712/assets/Scripts/common/fbAPI.js.meta
+END
+tcpManager.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/newsvn/Match3/!svn/ver/965/games/Tetris2048/client/classic2048-0712/assets/Scripts/common/tcpManager.js.meta
+END
+myUtil.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/newsvn/Match3/!svn/ver/965/games/Tetris2048/client/classic2048-0712/assets/Scripts/common/myUtil.js.meta
+END
+sendCmd.js
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/newsvn/Match3/!svn/ver/965/games/Tetris2048/client/classic2048-0712/assets/Scripts/common/sendCmd.js
+END
+GrayEffect.ts.meta
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/newsvn/Match3/!svn/ver/965/games/Tetris2048/client/classic2048-0712/assets/Scripts/common/GrayEffect.ts.meta
+END
+listenUtil.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/newsvn/Match3/!svn/ver/965/games/Tetris2048/client/classic2048-0712/assets/Scripts/common/listenUtil.js.meta
+END
+LinkImages.js
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/newsvn/Match3/!svn/ver/965/games/Tetris2048/client/classic2048-0712/assets/Scripts/common/LinkImages.js
+END
+biManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/newsvn/Match3/!svn/ver/965/games/Tetris2048/client/classic2048-0712/assets/Scripts/common/biManager.js
+END
+LoadAtlas.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/newsvn/Match3/!svn/ver/965/games/Tetris2048/client/classic2048-0712/assets/Scripts/common/LoadAtlas.js.meta
+END
+ThirdApi.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/newsvn/Match3/!svn/ver/965/games/Tetris2048/client/classic2048-0712/assets/Scripts/common/ThirdApi.js.meta
+END
+wxBannerAd.js
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/newsvn/Match3/!svn/ver/965/games/Tetris2048/client/classic2048-0712/assets/Scripts/common/wxBannerAd.js
+END
+cmdType.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/newsvn/Match3/!svn/ver/965/games/Tetris2048/client/classic2048-0712/assets/Scripts/common/cmdType.js.meta
+END
+receiveCmd.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/newsvn/Match3/!svn/ver/965/games/Tetris2048/client/classic2048-0712/assets/Scripts/common/receiveCmd.js.meta
+END
+listenUtil.js
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/newsvn/Match3/!svn/ver/965/games/Tetris2048/client/classic2048-0712/assets/Scripts/common/listenUtil.js
+END
+shareManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/newsvn/Match3/!svn/ver/965/games/Tetris2048/client/classic2048-0712/assets/Scripts/common/shareManager.js
+END
+wxRewardVideoAd.js
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/newsvn/Match3/!svn/ver/965/games/Tetris2048/client/classic2048-0712/assets/Scripts/common/wxRewardVideoAd.js
+END
+GrayFrag.ts.meta
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/newsvn/Match3/!svn/ver/965/games/Tetris2048/client/classic2048-0712/assets/Scripts/common/GrayFrag.ts.meta
+END
+sendCmd.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/newsvn/Match3/!svn/ver/965/games/Tetris2048/client/classic2048-0712/assets/Scripts/common/sendCmd.js.meta
+END
+LoadAtlas.js
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/newsvn/Match3/!svn/ver/965/games/Tetris2048/client/classic2048-0712/assets/Scripts/common/LoadAtlas.js
+END
+ThirdApi.js
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/newsvn/Match3/!svn/ver/965/games/Tetris2048/client/classic2048-0712/assets/Scripts/common/ThirdApi.js
+END
+receiveCmd.js
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/newsvn/Match3/!svn/ver/965/games/Tetris2048/client/classic2048-0712/assets/Scripts/common/receiveCmd.js
+END
+LinkImages.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/newsvn/Match3/!svn/ver/965/games/Tetris2048/client/classic2048-0712/assets/Scripts/common/LinkImages.js.meta
+END
+biManager.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/newsvn/Match3/!svn/ver/965/games/Tetris2048/client/classic2048-0712/assets/Scripts/common/biManager.js.meta
+END
+requestHttps.js
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/newsvn/Match3/!svn/ver/965/games/Tetris2048/client/classic2048-0712/assets/Scripts/common/requestHttps.js
+END
+gameEvent.js
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/newsvn/Match3/!svn/ver/965/games/Tetris2048/client/classic2048-0712/assets/Scripts/common/gameEvent.js
+END
+GrayFrag.ts
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/newsvn/Match3/!svn/ver/965/games/Tetris2048/client/classic2048-0712/assets/Scripts/common/GrayFrag.ts
+END
+wxAPI.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/newsvn/Match3/!svn/ver/965/games/Tetris2048/client/classic2048-0712/assets/Scripts/common/wxAPI.js.meta
+END
+wxBannerAd.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/newsvn/Match3/!svn/ver/965/games/Tetris2048/client/classic2048-0712/assets/Scripts/common/wxBannerAd.js.meta
+END
+fbAPI.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/newsvn/Match3/!svn/ver/965/games/Tetris2048/client/classic2048-0712/assets/Scripts/common/fbAPI.js
+END
+tcpManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/newsvn/Match3/!svn/ver/965/games/Tetris2048/client/classic2048-0712/assets/Scripts/common/tcpManager.js
+END
+shareManager.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/newsvn/Match3/!svn/ver/965/games/Tetris2048/client/classic2048-0712/assets/Scripts/common/shareManager.js.meta
+END
+myUtil.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/newsvn/Match3/!svn/ver/965/games/Tetris2048/client/classic2048-0712/assets/Scripts/common/myUtil.js
+END
+wxRewardVideoAd.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/newsvn/Match3/!svn/ver/965/games/Tetris2048/client/classic2048-0712/assets/Scripts/common/wxRewardVideoAd.js.meta
+END
+httpUtils.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/newsvn/Match3/!svn/ver/965/games/Tetris2048/client/classic2048-0712/assets/Scripts/common/httpUtils.js.meta
+END
+wxAPI.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/newsvn/Match3/!svn/ver/965/games/Tetris2048/client/classic2048-0712/assets/Scripts/common/wxAPI.js
+END
+GrayEffect.ts
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/newsvn/Match3/!svn/ver/965/games/Tetris2048/client/classic2048-0712/assets/Scripts/common/GrayEffect.ts
+END
+requestHttps.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/newsvn/Match3/!svn/ver/965/games/Tetris2048/client/classic2048-0712/assets/Scripts/common/requestHttps.js.meta
+END
+httpUtils.js
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/newsvn/Match3/!svn/ver/965/games/Tetris2048/client/classic2048-0712/assets/Scripts/common/httpUtils.js
+END
+gameEvent.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/newsvn/Match3/!svn/ver/965/games/Tetris2048/client/classic2048-0712/assets/Scripts/common/gameEvent.js.meta
+END

@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "set_shock_off",
+    "texture": "bd8611c0-cb4e-4098-a181-4a522a0d9e90",
+    "atlas": "1686e810-6542-42d2-bafa-58f1494fd81d",
+    "rect": [
+      968,
+      393,
+      68,
+      45
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      68,
+      45
+    ],
+    "rotated": 1
+  }
+}

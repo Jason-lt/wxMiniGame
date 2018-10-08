@@ -1,0 +1,77 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "seq_ani.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "2048kp_tx_bz_01": {
+      "__uuid__": "ab1e2663-d564-40c3-bdf2-990ea6b17134"
+    },
+    "2048kp_tx_bz_02": {
+      "__uuid__": "cbb14b0d-8a78-43c6-89a3-f2ae222f6210"
+    },
+    "2048kp_tx_bz_03": {
+      "__uuid__": "a30d9c7c-4465-41ee-b97c-53479360cde4"
+    },
+    "2048kp_tx_bz_04": {
+      "__uuid__": "0a601439-3f39-44f3-a7b6-6fbe18f01549"
+    },
+    "2048kp_tx_bz_05": {
+      "__uuid__": "9f8c4ff6-b084-4b24-b373-4a6b4d21a9be"
+    },
+    "2048kp_tx_bz_06": {
+      "__uuid__": "d0525d3f-4c07-4077-86c4-d2e2b20abb3b"
+    },
+    "2048kp_tx_fangsheguang": {
+      "__uuid__": "265feda4-578d-4094-b86a-87f3f915b01e"
+    },
+    "2048kp_tx_glow_hong": {
+      "__uuid__": "63fa5d91-509c-4712-978e-9057d01b4200"
+    },
+    "2048kp_tx_glow_huang": {
+      "__uuid__": "635850db-066c-4457-835a-a861963f0ab0"
+    },
+    "2048kp_tx_guang": {
+      "__uuid__": "85a90aa1-d389-4f3f-85b8-1ecc02f8c2a3"
+    },
+    "2048kp_tx_lizi_yuan": {
+      "__uuid__": "b64a18ae-7e3d-4304-ab60-de39d578a2ff"
+    },
+    "2048kp_tx_qiubai": {
+      "__uuid__": "57317993-f5c5-4c08-ad99-080975594da9"
+    },
+    "2048kp_tx_quan": {
+      "__uuid__": "a9dad8ba-b1f4-4a70-939c-e316b50e052f"
+    },
+    "2048kp_tx_yan_01": {
+      "__uuid__": "f2fd3ab7-1f01-4946-b13e-daba4230cbf7"
+    },
+    "2048kp_tx_yan_02": {
+      "__uuid__": "fbbb4ac4-d32c-4593-baa4-d5609f3d021d"
+    },
+    "2048kp_tx_yan_03": {
+      "__uuid__": "bc0bfb3e-5d0b-459c-b42d-5c0ea871b2d3"
+    },
+    "2048kp_tx_yan_04": {
+      "__uuid__": "8c7b8980-79d1-47d4-afca-dea330e9231e"
+    },
+    "2048kp_tx_yan_05": {
+      "__uuid__": "e85d4495-97bf-4daa-8e0b-a2a7fdd61f7b"
+    },
+    "2048kp_tx_yan_06": {
+      "__uuid__": "e52272a9-73c2-442a-a93b-fd1036bfcf28"
+    },
+    "2048kp_tx_yan_07": {
+      "__uuid__": "e23fcf35-bfed-4dab-b638-ca8199fa3a91"
+    },
+    "2048kp_tx_yan_08": {
+      "__uuid__": "a06f17a9-c98d-4fec-887d-3ec451e44064"
+    },
+    "fangkuai": {
+      "__uuid__": "99aa33ba-3591-453f-a71f-d63719dee1f8"
+    },
+    "huangjin": {
+      "__uuid__": "e35d95b6-1306-4404-b4c3-0b12a6e39800"
+    }
+  }
+}

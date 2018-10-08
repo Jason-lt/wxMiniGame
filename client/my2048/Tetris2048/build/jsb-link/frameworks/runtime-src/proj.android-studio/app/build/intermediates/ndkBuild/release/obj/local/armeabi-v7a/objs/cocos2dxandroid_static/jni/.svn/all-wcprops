@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 222
+/newsvn/Match3/!svn/ver/874/games/Tetris2048/client/my2048/Tetris2048/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/cocos2dxandroid_static/jni
+END
+JniHelper.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 236
+/newsvn/Match3/!svn/ver/874/games/Tetris2048/client/my2048/Tetris2048/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/cocos2dxandroid_static/jni/JniHelper.o.d
+END
+Java_org_cocos2dx_lib_Cocos2dxAccelerometer.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 270
+/newsvn/Match3/!svn/ver/874/games/Tetris2048/client/my2048/Tetris2048/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/cocos2dxandroid_static/jni/Java_org_cocos2dx_lib_Cocos2dxAccelerometer.o.d
+END
+Java_org_cocos2dx_lib_Cocos2dxBitmap.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 263
+/newsvn/Match3/!svn/ver/874/games/Tetris2048/client/my2048/Tetris2048/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/cocos2dxandroid_static/jni/Java_org_cocos2dx_lib_Cocos2dxBitmap.o.d
+END
+Java_org_cocos2dx_lib_Cocos2dxHelper.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 263
+/newsvn/Match3/!svn/ver/874/games/Tetris2048/client/my2048/Tetris2048/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/cocos2dxandroid_static/jni/Java_org_cocos2dx_lib_Cocos2dxHelper.o.d
+END
+TouchesJni.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 237
+/newsvn/Match3/!svn/ver/874/games/Tetris2048/client/my2048/Tetris2048/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/cocos2dxandroid_static/jni/TouchesJni.o.d
+END
+Java_org_cocos2dx_lib_Cocos2dxRenderer.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 265
+/newsvn/Match3/!svn/ver/874/games/Tetris2048/client/my2048/Tetris2048/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/cocos2dxandroid_static/jni/Java_org_cocos2dx_lib_Cocos2dxRenderer.o.d
+END

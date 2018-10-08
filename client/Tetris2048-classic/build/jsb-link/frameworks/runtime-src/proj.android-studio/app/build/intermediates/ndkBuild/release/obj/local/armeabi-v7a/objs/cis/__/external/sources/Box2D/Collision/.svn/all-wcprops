@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 236
+/newsvn/Match3/!svn/ver/876/games/Tetris2048/client/Tetris2048-classic/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/cis/__/external/sources/Box2D/Collision
+END
+b2CollideCircle.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 256
+/newsvn/Match3/!svn/ver/876/games/Tetris2048/client/Tetris2048-classic/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/cis/__/external/sources/Box2D/Collision/b2CollideCircle.o.d
+END
+b2CollideEdge.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 254
+/newsvn/Match3/!svn/ver/876/games/Tetris2048/client/Tetris2048-classic/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/cis/__/external/sources/Box2D/Collision/b2CollideEdge.o.d
+END
+b2TimeOfImpact.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 255
+/newsvn/Match3/!svn/ver/876/games/Tetris2048/client/Tetris2048-classic/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/cis/__/external/sources/Box2D/Collision/b2TimeOfImpact.o.d
+END
+b2CollidePolygon.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 257
+/newsvn/Match3/!svn/ver/876/games/Tetris2048/client/Tetris2048-classic/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/cis/__/external/sources/Box2D/Collision/b2CollidePolygon.o.d
+END
+b2DynamicTree.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 254
+/newsvn/Match3/!svn/ver/876/games/Tetris2048/client/Tetris2048-classic/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/cis/__/external/sources/Box2D/Collision/b2DynamicTree.o.d
+END
+b2BroadPhase.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 253
+/newsvn/Match3/!svn/ver/876/games/Tetris2048/client/Tetris2048-classic/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/cis/__/external/sources/Box2D/Collision/b2BroadPhase.o.d
+END
+b2Distance.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 251
+/newsvn/Match3/!svn/ver/876/games/Tetris2048/client/Tetris2048-classic/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/cis/__/external/sources/Box2D/Collision/b2Distance.o.d
+END
+b2Collision.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 252
+/newsvn/Match3/!svn/ver/876/games/Tetris2048/client/Tetris2048-classic/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/cis/__/external/sources/Box2D/Collision/b2Collision.o.d
+END

@@ -1,0 +1,38 @@
+{
+  "appKey": "",
+  "appSecret": "",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.tetris2048",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "startScene": "6f8dcfa9-06eb-4663-8e0a-16f3c794744b",
+  "title": "Tetris2048",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wx593aa8f720971bfe",
+    "orientation": "portrait",
+    "subContext": "openDataContext"
+  },
+  "xxteaKey": "7d34e7b7-4193-49",
+  "zipCompressJs": true
+}

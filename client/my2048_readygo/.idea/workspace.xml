@@ -1,0 +1,926 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="03ccc595-9d1f-40a0-904e-6c09abda4fe1" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/05/055b997b-31f1-4fcb-86e8-32570d1ee034.js.map" afterPath="$PROJECT_DIR$/library/imports/05/055b997b-31f1-4fcb-86e8-32570d1ee034.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/70/706f335f-38b0-476f-b09f-ad7c40e1eccf.js.map" afterPath="$PROJECT_DIR$/library/imports/70/706f335f-38b0-476f-b09f-ad7c40e1eccf.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/wechatgame/cocos2d-js-min.js" afterPath="$PROJECT_DIR$/build/wechatgame/cocos2d-js-min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/wechatgame/game.js" afterPath="$PROJECT_DIR$/build/wechatgame/game.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/wechatgame/main.js" afterPath="$PROJECT_DIR$/build/wechatgame/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/01/0131e93d-f987-4263-b703-afe6dba80b2a.js" afterPath="$PROJECT_DIR$/library/imports/01/0131e93d-f987-4263-b703-afe6dba80b2a.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/01/0131e93d-f987-4263-b703-afe6dba80b2a.js.map" afterPath="$PROJECT_DIR$/library/imports/01/0131e93d-f987-4263-b703-afe6dba80b2a.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/01/01c4498a-596d-4d1a-856a-0a0efef1eba3.js" afterPath="$PROJECT_DIR$/library/imports/01/01c4498a-596d-4d1a-856a-0a0efef1eba3.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/01/01c4498a-596d-4d1a-856a-0a0efef1eba3.js.map" afterPath="$PROJECT_DIR$/library/imports/01/01c4498a-596d-4d1a-856a-0a0efef1eba3.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/02/023dc794-68d2-4e28-96a1-7d75872f053c.json" afterPath="$PROJECT_DIR$/library/imports/02/023dc794-68d2-4e28-96a1-7d75872f053c.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/02/02f0eca4-1d35-4495-ac8d-7c79cdc04c55.js" afterPath="$PROJECT_DIR$/library/imports/02/02f0eca4-1d35-4495-ac8d-7c79cdc04c55.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/02/02f0eca4-1d35-4495-ac8d-7c79cdc04c55.js.map" afterPath="$PROJECT_DIR$/library/imports/02/02f0eca4-1d35-4495-ac8d-7c79cdc04c55.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/05/055b997b-31f1-4fcb-86e8-32570d1ee034.js" afterPath="$PROJECT_DIR$/library/imports/05/055b997b-31f1-4fcb-86e8-32570d1ee034.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/06/065bfa17-f7a7-4eb2-ad5d-903097811f45.json" afterPath="$PROJECT_DIR$/library/imports/06/065bfa17-f7a7-4eb2-ad5d-903097811f45.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/08/08d0c36b-06b9-4833-a6b1-9b3cda7384c2.json" afterPath="$PROJECT_DIR$/library/imports/08/08d0c36b-06b9-4833-a6b1-9b3cda7384c2.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/12/124cfd57-fb63-4640-99d3-32f4faa62390.js" afterPath="$PROJECT_DIR$/library/imports/12/124cfd57-fb63-4640-99d3-32f4faa62390.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/12/124cfd57-fb63-4640-99d3-32f4faa62390.js.map" afterPath="$PROJECT_DIR$/library/imports/12/124cfd57-fb63-4640-99d3-32f4faa62390.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/12/125ab390-bd39-4406-976a-8d8de7765179.js" afterPath="$PROJECT_DIR$/library/imports/12/125ab390-bd39-4406-976a-8d8de7765179.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/12/125ab390-bd39-4406-976a-8d8de7765179.js.map" afterPath="$PROJECT_DIR$/library/imports/12/125ab390-bd39-4406-976a-8d8de7765179.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/12/125f8935-fa61-4bc7-84b6-996c25f5cc7c.json" afterPath="$PROJECT_DIR$/library/imports/12/125f8935-fa61-4bc7-84b6-996c25f5cc7c.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/12/12ffdc07-a8d2-4a5d-bccc-f2c0b45d0f7c.js.map" afterPath="$PROJECT_DIR$/library/imports/12/12ffdc07-a8d2-4a5d-bccc-f2c0b45d0f7c.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/19/19d3a727-ccaa-4e5c-9c36-cc55458f4fd9.json" afterPath="$PROJECT_DIR$/library/imports/19/19d3a727-ccaa-4e5c-9c36-cc55458f4fd9.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/1b/1b6a1dbf-d7ad-41b6-b9f0-5a20af19169f.json" afterPath="$PROJECT_DIR$/library/imports/1b/1b6a1dbf-d7ad-41b6-b9f0-5a20af19169f.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/1b/1ba55dfb-51da-4dff-8a51-905a04c723e6.js" afterPath="$PROJECT_DIR$/library/imports/1b/1ba55dfb-51da-4dff-8a51-905a04c723e6.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/1b/1ba55dfb-51da-4dff-8a51-905a04c723e6.js.map" afterPath="$PROJECT_DIR$/library/imports/1b/1ba55dfb-51da-4dff-8a51-905a04c723e6.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/1d/1d6d4ffc-4cb2-4dc1-a217-115668071561.json" afterPath="$PROJECT_DIR$/library/imports/1d/1d6d4ffc-4cb2-4dc1-a217-115668071561.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/23/23401f47-a58a-484c-b8b8-431047f49c31.json" afterPath="$PROJECT_DIR$/library/imports/23/23401f47-a58a-484c-b8b8-431047f49c31.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/27/27e992c3-16c4-4797-b5c7-8c811908204a.json" afterPath="$PROJECT_DIR$/library/imports/27/27e992c3-16c4-4797-b5c7-8c811908204a.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/2c/2c68b9d0-859e-46fc-9420-40cef1b6dd40.json" afterPath="$PROJECT_DIR$/library/imports/2c/2c68b9d0-859e-46fc-9420-40cef1b6dd40.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/2f/2f9353d3-d44f-4936-aa45-af3897b5628a.js" afterPath="$PROJECT_DIR$/library/imports/2f/2f9353d3-d44f-4936-aa45-af3897b5628a.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/2f/2f9353d3-d44f-4936-aa45-af3897b5628a.js.map" afterPath="$PROJECT_DIR$/library/imports/2f/2f9353d3-d44f-4936-aa45-af3897b5628a.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/31/3170a29a-1cba-49a8-939d-ba158e293d28.json" afterPath="$PROJECT_DIR$/library/imports/31/3170a29a-1cba-49a8-939d-ba158e293d28.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/31/31fc80a0-6bb4-43cb-89a4-81e710fc7b17.json" afterPath="$PROJECT_DIR$/library/imports/31/31fc80a0-6bb4-43cb-89a4-81e710fc7b17.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/36/36d643c9-8a77-4d12-bca8-824a30d131bf.js" afterPath="$PROJECT_DIR$/library/imports/36/36d643c9-8a77-4d12-bca8-824a30d131bf.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/36/36d643c9-8a77-4d12-bca8-824a30d131bf.js.map" afterPath="$PROJECT_DIR$/library/imports/36/36d643c9-8a77-4d12-bca8-824a30d131bf.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/38/383bd721-461e-430f-bc41-b786fdb2ccdb.json" afterPath="$PROJECT_DIR$/library/imports/38/383bd721-461e-430f-bc41-b786fdb2ccdb.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/38/38b1fe40-5dce-4c38-a6c0-151cf408a1b7.json" afterPath="$PROJECT_DIR$/library/imports/38/38b1fe40-5dce-4c38-a6c0-151cf408a1b7.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/38/38ff8013-17bd-4cc6-83f8-817063c051fe.json" afterPath="$PROJECT_DIR$/library/imports/38/38ff8013-17bd-4cc6-83f8-817063c051fe.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/3f/3fa7ed60-b28c-4dd2-90a2-fabf58064f0f.js.map" afterPath="$PROJECT_DIR$/library/imports/3f/3fa7ed60-b28c-4dd2-90a2-fabf58064f0f.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/4a/4adb9a13-0990-45ca-a125-e45fa2e38571.json" afterPath="$PROJECT_DIR$/library/imports/4a/4adb9a13-0990-45ca-a125-e45fa2e38571.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/56/56459a51-de6e-4afa-9aad-7440badc3294.json" afterPath="$PROJECT_DIR$/library/imports/56/56459a51-de6e-4afa-9aad-7440badc3294.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/57/573b9148-9d97-456d-87e6-a0d3d8db9f69.json" afterPath="$PROJECT_DIR$/library/imports/57/573b9148-9d97-456d-87e6-a0d3d8db9f69.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/57/57b3e695-f040-4649-912c-3fb874c6eddc.json" afterPath="$PROJECT_DIR$/library/imports/57/57b3e695-f040-4649-912c-3fb874c6eddc.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/5c/5c3eb08a-9b9d-48dc-8fcc-b4bde11aed3c.json" afterPath="$PROJECT_DIR$/library/imports/5c/5c3eb08a-9b9d-48dc-8fcc-b4bde11aed3c.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/5c/5cbef0f7-3c05-4552-9c71-a4ff09f782e4.json" afterPath="$PROJECT_DIR$/library/imports/5c/5cbef0f7-3c05-4552-9c71-a4ff09f782e4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/5f/5f7b369e-891a-4174-ab1a-cec958d151bc.json" afterPath="$PROJECT_DIR$/library/imports/5f/5f7b369e-891a-4174-ab1a-cec958d151bc.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/60/60e89bb2-3fbd-4e3d-b235-1c6f0a2bc0d5.js" afterPath="$PROJECT_DIR$/library/imports/60/60e89bb2-3fbd-4e3d-b235-1c6f0a2bc0d5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/60/60e89bb2-3fbd-4e3d-b235-1c6f0a2bc0d5.js.map" afterPath="$PROJECT_DIR$/library/imports/60/60e89bb2-3fbd-4e3d-b235-1c6f0a2bc0d5.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/64/64811160-6c71-4a7c-875f-4e8aff962290.json" afterPath="$PROJECT_DIR$/library/imports/64/64811160-6c71-4a7c-875f-4e8aff962290.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/64/64d7ac60-6297-4477-8e04-a29279dea07b.js" afterPath="$PROJECT_DIR$/library/imports/64/64d7ac60-6297-4477-8e04-a29279dea07b.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/64/64d7ac60-6297-4477-8e04-a29279dea07b.js.map" afterPath="$PROJECT_DIR$/library/imports/64/64d7ac60-6297-4477-8e04-a29279dea07b.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/67/67a0ebd1-0078-4338-96cb-84ba8928e273.json" afterPath="$PROJECT_DIR$/library/imports/67/67a0ebd1-0078-4338-96cb-84ba8928e273.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/67/67e1e008-4dc3-4ed6-8c97-9013fa8c04c7.json" afterPath="$PROJECT_DIR$/library/imports/67/67e1e008-4dc3-4ed6-8c97-9013fa8c04c7.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/6c/6c46cfd9-970a-4b2b-bcac-edc94ff343ec.js" afterPath="$PROJECT_DIR$/library/imports/6c/6c46cfd9-970a-4b2b-bcac-edc94ff343ec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/6c/6c46cfd9-970a-4b2b-bcac-edc94ff343ec.js.map" afterPath="$PROJECT_DIR$/library/imports/6c/6c46cfd9-970a-4b2b-bcac-edc94ff343ec.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/6c/6c86683e-8383-4885-b93f-47a31aa2d1bc.json" afterPath="$PROJECT_DIR$/library/imports/6c/6c86683e-8383-4885-b93f-47a31aa2d1bc.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/6f/6f9cb6bc-ac00-4c64-af7f-8957ed0b0fe1.js" afterPath="$PROJECT_DIR$/library/imports/6f/6f9cb6bc-ac00-4c64-af7f-8957ed0b0fe1.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/6f/6f9cb6bc-ac00-4c64-af7f-8957ed0b0fe1.js.map" afterPath="$PROJECT_DIR$/library/imports/6f/6f9cb6bc-ac00-4c64-af7f-8957ed0b0fe1.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/6f/6fdc97a3-5a04-461b-b1ae-e0985a3c2f49.json" afterPath="$PROJECT_DIR$/library/imports/6f/6fdc97a3-5a04-461b-b1ae-e0985a3c2f49.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/70/706f335f-38b0-476f-b09f-ad7c40e1eccf.js" afterPath="$PROJECT_DIR$/library/imports/70/706f335f-38b0-476f-b09f-ad7c40e1eccf.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/70/70f062b2-c5fd-4649-9ffe-cd471cbd7eb9.json" afterPath="$PROJECT_DIR$/library/imports/70/70f062b2-c5fd-4649-9ffe-cd471cbd7eb9.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/73/73af1a4b-3f83-44ae-a43b-beb02ad09c99.json" afterPath="$PROJECT_DIR$/library/imports/73/73af1a4b-3f83-44ae-a43b-beb02ad09c99.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/73/73f7cf40-d298-4a8e-b6e8-76c6b05fa71b.json" afterPath="$PROJECT_DIR$/library/imports/73/73f7cf40-d298-4a8e-b6e8-76c6b05fa71b.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/75/75b5a056-45ce-448e-83b8-e28e3d7de703.js" afterPath="$PROJECT_DIR$/library/imports/75/75b5a056-45ce-448e-83b8-e28e3d7de703.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/75/75b5a056-45ce-448e-83b8-e28e3d7de703.js.map" afterPath="$PROJECT_DIR$/library/imports/75/75b5a056-45ce-448e-83b8-e28e3d7de703.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/79/7963681e-3ebf-458d-85e1-2b8a5b135b5c.json" afterPath="$PROJECT_DIR$/library/imports/79/7963681e-3ebf-458d-85e1-2b8a5b135b5c.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/7c/7c19a9b3-b983-4335-88ef-fa00d74f2a9d.json" afterPath="$PROJECT_DIR$/library/imports/7c/7c19a9b3-b983-4335-88ef-fa00d74f2a9d.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/7c/7c4f6226-f84f-423c-b82a-dcb203a94cf0.js" afterPath="$PROJECT_DIR$/library/imports/7c/7c4f6226-f84f-423c-b82a-dcb203a94cf0.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/7c/7c4f6226-f84f-423c-b82a-dcb203a94cf0.js.map" afterPath="$PROJECT_DIR$/library/imports/7c/7c4f6226-f84f-423c-b82a-dcb203a94cf0.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/7c/7c5879eb-51b5-423b-ab82-a456c697f5b6.json" afterPath="$PROJECT_DIR$/library/imports/7c/7c5879eb-51b5-423b-ab82-a456c697f5b6.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/82/82a3b221-f1a3-45ea-b6d5-4d8f16f8fcbc.js" afterPath="$PROJECT_DIR$/library/imports/82/82a3b221-f1a3-45ea-b6d5-4d8f16f8fcbc.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/82/82a3b221-f1a3-45ea-b6d5-4d8f16f8fcbc.js.map" afterPath="$PROJECT_DIR$/library/imports/82/82a3b221-f1a3-45ea-b6d5-4d8f16f8fcbc.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/84/84c412ec-adf1-4fb2-b8a8-acdbfcfa1771.js" afterPath="$PROJECT_DIR$/library/imports/84/84c412ec-adf1-4fb2-b8a8-acdbfcfa1771.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/84/84c412ec-adf1-4fb2-b8a8-acdbfcfa1771.js.map" afterPath="$PROJECT_DIR$/library/imports/84/84c412ec-adf1-4fb2-b8a8-acdbfcfa1771.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/88/8897e769-7a61-4557-9ff0-cd04e4c1c508.js" afterPath="$PROJECT_DIR$/library/imports/88/8897e769-7a61-4557-9ff0-cd04e4c1c508.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/88/8897e769-7a61-4557-9ff0-cd04e4c1c508.js.map" afterPath="$PROJECT_DIR$/library/imports/88/8897e769-7a61-4557-9ff0-cd04e4c1c508.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/90/90017c1f-ac11-4375-92c4-51c84e52dcdf.js" afterPath="$PROJECT_DIR$/library/imports/90/90017c1f-ac11-4375-92c4-51c84e52dcdf.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/90/90017c1f-ac11-4375-92c4-51c84e52dcdf.js.map" afterPath="$PROJECT_DIR$/library/imports/90/90017c1f-ac11-4375-92c4-51c84e52dcdf.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/90/900e2c2f-ce89-4c71-94c6-6b771a879ee4.json" afterPath="$PROJECT_DIR$/library/imports/90/900e2c2f-ce89-4c71-94c6-6b771a879ee4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/90/907ddc15-adc3-4c16-85f5-02ea400dc323.js" afterPath="$PROJECT_DIR$/library/imports/90/907ddc15-adc3-4c16-85f5-02ea400dc323.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/90/907ddc15-adc3-4c16-85f5-02ea400dc323.js.map" afterPath="$PROJECT_DIR$/library/imports/90/907ddc15-adc3-4c16-85f5-02ea400dc323.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/95/955967db-4272-46ac-8f9d-2fe0273a2237.json" afterPath="$PROJECT_DIR$/library/imports/95/955967db-4272-46ac-8f9d-2fe0273a2237.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/95/95dfbc50-4b70-4114-9b1a-e226ea1cb219.json" afterPath="$PROJECT_DIR$/library/imports/95/95dfbc50-4b70-4114-9b1a-e226ea1cb219.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/96/96eab486-961a-4806-9443-b06ecd047e4d.js" afterPath="$PROJECT_DIR$/library/imports/96/96eab486-961a-4806-9443-b06ecd047e4d.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/96/96eab486-961a-4806-9443-b06ecd047e4d.js.map" afterPath="$PROJECT_DIR$/library/imports/96/96eab486-961a-4806-9443-b06ecd047e4d.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/97/9747c0bd-0de6-49e2-a8f1-50d3536306dc.json" afterPath="$PROJECT_DIR$/library/imports/97/9747c0bd-0de6-49e2-a8f1-50d3536306dc.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/97/9784a9a2-9b94-4d90-8c33-c89c60a5c730.json" afterPath="$PROJECT_DIR$/library/imports/97/9784a9a2-9b94-4d90-8c33-c89c60a5c730.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/98/98967eac-bb65-44de-811d-127c908ac9ef.json" afterPath="$PROJECT_DIR$/library/imports/98/98967eac-bb65-44de-811d-127c908ac9ef.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/9a/9a2e3d4a-e9e2-49a9-9d31-fbb9321a3eec.js" afterPath="$PROJECT_DIR$/library/imports/9a/9a2e3d4a-e9e2-49a9-9d31-fbb9321a3eec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/9a/9a2e3d4a-e9e2-49a9-9d31-fbb9321a3eec.js.map" afterPath="$PROJECT_DIR$/library/imports/9a/9a2e3d4a-e9e2-49a9-9d31-fbb9321a3eec.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/9a/9a4c4cd1-c1ab-4c36-a4e9-169f8ae0029c.json" afterPath="$PROJECT_DIR$/library/imports/9a/9a4c4cd1-c1ab-4c36-a4e9-169f8ae0029c.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/9b/9b085086-8d2a-4abf-81d5-be2bac6f9db3.js.map" afterPath="$PROJECT_DIR$/library/imports/9b/9b085086-8d2a-4abf-81d5-be2bac6f9db3.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/a2/a2ce6304-3f9a-4f97-9f01-c2d2f464518b.json" afterPath="$PROJECT_DIR$/library/imports/a2/a2ce6304-3f9a-4f97-9f01-c2d2f464518b.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/a4/a4c473ea-1398-428c-8722-c21981731aef.js.map" afterPath="$PROJECT_DIR$/library/imports/a4/a4c473ea-1398-428c-8722-c21981731aef.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/aa/aae5a860-3a46-460f-9b26-7cfb2ab05c96.json" afterPath="$PROJECT_DIR$/library/imports/aa/aae5a860-3a46-460f-9b26-7cfb2ab05c96.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/ab/ab640f32-e228-46be-9a36-f6e3ceda6e04.js" afterPath="$PROJECT_DIR$/library/imports/ab/ab640f32-e228-46be-9a36-f6e3ceda6e04.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/ab/ab640f32-e228-46be-9a36-f6e3ceda6e04.js.map" afterPath="$PROJECT_DIR$/library/imports/ab/ab640f32-e228-46be-9a36-f6e3ceda6e04.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/b0/b099f0c9-58d6-4e14-86e6-66dc6692bd33.json" afterPath="$PROJECT_DIR$/library/imports/b0/b099f0c9-58d6-4e14-86e6-66dc6692bd33.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/b0/b0a2f555-05f1-4ff9-be3a-f1d37a869f5a.json" afterPath="$PROJECT_DIR$/library/imports/b0/b0a2f555-05f1-4ff9-be3a-f1d37a869f5a.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/b2/b208452f-fd4f-49e8-82cf-f3e4008b5115.js.map" afterPath="$PROJECT_DIR$/library/imports/b2/b208452f-fd4f-49e8-82cf-f3e4008b5115.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/b6/b624faa5-0176-4d83-b624-24a6705aedb2.json" afterPath="$PROJECT_DIR$/library/imports/b6/b624faa5-0176-4d83-b624-24a6705aedb2.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/b6/b6e07a45-7a50-46d8-a3e6-9d06449c72a0.json" afterPath="$PROJECT_DIR$/library/imports/b6/b6e07a45-7a50-46d8-a3e6-9d06449c72a0.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/bc/bc4c9e22-8388-48d0-9f56-70ce625ea72e.js" afterPath="$PROJECT_DIR$/library/imports/bc/bc4c9e22-8388-48d0-9f56-70ce625ea72e.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/bc/bc4c9e22-8388-48d0-9f56-70ce625ea72e.js.map" afterPath="$PROJECT_DIR$/library/imports/bc/bc4c9e22-8388-48d0-9f56-70ce625ea72e.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/bc/bca9a5c2-379f-4b35-96f5-d8dc54e943b5.js" afterPath="$PROJECT_DIR$/library/imports/bc/bca9a5c2-379f-4b35-96f5-d8dc54e943b5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/bc/bca9a5c2-379f-4b35-96f5-d8dc54e943b5.js.map" afterPath="$PROJECT_DIR$/library/imports/bc/bca9a5c2-379f-4b35-96f5-d8dc54e943b5.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/bd/bdd91f38-7b00-4f44-97a4-287ca79a7cb7.js.map" afterPath="$PROJECT_DIR$/library/imports/bd/bdd91f38-7b00-4f44-97a4-287ca79a7cb7.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/c5/c53af900-04a7-4a22-bf4f-65ff9e8f8288.json" afterPath="$PROJECT_DIR$/library/imports/c5/c53af900-04a7-4a22-bf4f-65ff9e8f8288.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/c5/c5b8436b-076f-4e9c-93d6-7c35952d7da0.json" afterPath="$PROJECT_DIR$/library/imports/c5/c5b8436b-076f-4e9c-93d6-7c35952d7da0.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/ca/cac97068-8f9b-405a-bd96-1886b25d1f28.js.map" afterPath="$PROJECT_DIR$/library/imports/ca/cac97068-8f9b-405a-bd96-1886b25d1f28.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/cb/cba32ccc-13b9-4cfe-8f7d-44e8e64b353a.json" afterPath="$PROJECT_DIR$/library/imports/cb/cba32ccc-13b9-4cfe-8f7d-44e8e64b353a.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/cf/cfabf981-a6b8-4b4c-b8c6-0b26c9b3516d.js" afterPath="$PROJECT_DIR$/library/imports/cf/cfabf981-a6b8-4b4c-b8c6-0b26c9b3516d.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/cf/cfabf981-a6b8-4b4c-b8c6-0b26c9b3516d.js.map" afterPath="$PROJECT_DIR$/library/imports/cf/cfabf981-a6b8-4b4c-b8c6-0b26c9b3516d.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/d8/d8feb1d7-0931-48b2-a3fd-0933f56f8e13.js.map" afterPath="$PROJECT_DIR$/library/imports/d8/d8feb1d7-0931-48b2-a3fd-0933f56f8e13.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/dc/dc4cd8dc-7c5c-4f6c-b054-ad82f42ca5dd.json" afterPath="$PROJECT_DIR$/library/imports/dc/dc4cd8dc-7c5c-4f6c-b054-ad82f42ca5dd.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/df/df9a7a06-1158-41b5-8866-73e2981b3351.js" afterPath="$PROJECT_DIR$/library/imports/df/df9a7a06-1158-41b5-8866-73e2981b3351.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/df/df9a7a06-1158-41b5-8866-73e2981b3351.js.map" afterPath="$PROJECT_DIR$/library/imports/df/df9a7a06-1158-41b5-8866-73e2981b3351.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/e1/e1592d10-3da9-47b7-98cc-e40dba537894.js" afterPath="$PROJECT_DIR$/library/imports/e1/e1592d10-3da9-47b7-98cc-e40dba537894.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/e1/e1592d10-3da9-47b7-98cc-e40dba537894.js.map" afterPath="$PROJECT_DIR$/library/imports/e1/e1592d10-3da9-47b7-98cc-e40dba537894.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/e1/e1df3e05-76db-4846-b9fd-59d1a0cd7e8d.json" afterPath="$PROJECT_DIR$/library/imports/e1/e1df3e05-76db-4846-b9fd-59d1a0cd7e8d.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/e2/e27a5f08-a645-48e6-acff-7264753f1d75.json" afterPath="$PROJECT_DIR$/library/imports/e2/e27a5f08-a645-48e6-acff-7264753f1d75.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/e2/e2c4b837-45a6-4376-9227-77a51722b880.json" afterPath="$PROJECT_DIR$/library/imports/e2/e2c4b837-45a6-4376-9227-77a51722b880.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/e2/e2f1f344-e8a0-47b1-b08f-12802d20f3fa.json" afterPath="$PROJECT_DIR$/library/imports/e2/e2f1f344-e8a0-47b1-b08f-12802d20f3fa.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/e3/e353b83b-470e-4399-863e-471a8f9c8b09.json" afterPath="$PROJECT_DIR$/library/imports/e3/e353b83b-470e-4399-863e-471a8f9c8b09.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/e5/e535a7dd-6979-4f2e-9ad6-cf45920adb80.json" afterPath="$PROJECT_DIR$/library/imports/e5/e535a7dd-6979-4f2e-9ad6-cf45920adb80.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/e6/e6c9a708-380c-41a7-a2eb-2148e7c89d95.json" afterPath="$PROJECT_DIR$/library/imports/e6/e6c9a708-380c-41a7-a2eb-2148e7c89d95.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/e7/e788f98c-68a8-4fbe-8800-dce38c1711ed.json" afterPath="$PROJECT_DIR$/library/imports/e7/e788f98c-68a8-4fbe-8800-dce38c1711ed.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/e9/e9cc0fa3-77f4-43a8-a5fc-766e585e9b80.json" afterPath="$PROJECT_DIR$/library/imports/e9/e9cc0fa3-77f4-43a8-a5fc-766e585e9b80.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/f0/f0892b82-4c15-4acb-bd0a-42e577f35257.json" afterPath="$PROJECT_DIR$/library/imports/f0/f0892b82-4c15-4acb-bd0a-42e577f35257.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/f2/f20df2b1-8fa5-4adb-aec6-dd909093ea8b.js" afterPath="$PROJECT_DIR$/library/imports/f2/f20df2b1-8fa5-4adb-aec6-dd909093ea8b.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/f2/f20df2b1-8fa5-4adb-aec6-dd909093ea8b.js.map" afterPath="$PROJECT_DIR$/library/imports/f2/f20df2b1-8fa5-4adb-aec6-dd909093ea8b.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/f7/f7a7a8f1-80e4-4860-8440-817f2b0b0902.json" afterPath="$PROJECT_DIR$/library/imports/f7/f7a7a8f1-80e4-4860-8440-817f2b0b0902.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/imports/f8/f8a73ba2-6db2-4694-aae0-406c2ac18ddf.js.map" afterPath="$PROJECT_DIR$/library/imports/f8/f8a73ba2-6db2-4694-aae0-406c2ac18ddf.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/uuid-to-mtime.json" afterPath="$PROJECT_DIR$/library/uuid-to-mtime.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local/assets.json" afterPath="$PROJECT_DIR$/local/assets.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local/console.json" afterPath="$PROJECT_DIR$/local/console.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local/hierarchy.json" afterPath="$PROJECT_DIR$/local/hierarchy.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local/layout.windows.json" afterPath="$PROJECT_DIR$/local/layout.windows.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local/logs/project.log" afterPath="$PROJECT_DIR$/local/logs/project.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/settings/builder.json" afterPath="$PROJECT_DIR$/settings/builder.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/BackupAssets/assets/Prefabs/item.prefab" afterPath="$PROJECT_DIR$/temp/BackupAssets/assets/Prefabs/item.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/BackupAssets/assets/resources/prefab/UIRoot.prefab" afterPath="$PROJECT_DIR$/temp/BackupAssets/assets/resources/prefab/UIRoot.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/BackupAssets/assets/resources/prefab/addPropInfo.prefab" afterPath="$PROJECT_DIR$/temp/BackupAssets/assets/resources/prefab/addPropInfo.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/BackupAssets/assets/resources/prefab/gridRoot.prefab" afterPath="$PROJECT_DIR$/temp/BackupAssets/assets/resources/prefab/gridRoot.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/BackupAssets/assets/resources/prefab/propInfo.prefab" afterPath="$PROJECT_DIR$/temp/BackupAssets/assets/resources/prefab/propInfo.prefab" />
+    </list>
+    <ignored path="my2048_1.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="my2048_1" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ThirdAPI.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/Scripts/common/ThirdAPI.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7875">
+              <caret line="525" column="9" selection-start-line="525" selection-start-column="9" selection-end-line="525" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="singinNode.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/Scripts/view/singinNode.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="41" column="4" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dayNode.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/Scripts/view/dayNode.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1050">
+              <caret line="78" column="22" selection-start-line="78" selection-start-column="22" selection-end-line="78" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gridController.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/Scripts/controller/gridController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19125">
+              <caret line="1275" column="40" selection-start-line="1275" selection-start-column="32" selection-end-line="1275" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gridView.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/Scripts/view/gridView.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2655">
+              <caret line="179" column="62" selection-start-line="179" selection-start-column="62" selection-end-line="179" selection-end-column="62" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Game.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/Scripts/Game.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8070">
+              <caret line="546" column="4" selection-start-line="546" selection-start-column="4" selection-end-line="546" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Global.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/Scripts/Global.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="60" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="addPropInfo.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/Scripts/ui/addPropInfo.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2685">
+              <caret line="187" column="27" selection-start-line="187" selection-start-column="27" selection-end-line="187" selection-end-column="27" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="itemView.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/Scripts/view/itemView.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="317" column="47" selection-start-line="317" selection-start-column="47" selection-end-line="317" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GlobalFunc.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/Scripts/GlobalFunc.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1845">
+              <caret line="123" column="76" selection-start-line="123" selection-start-column="76" selection-end-line="123" selection-end-column="76" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/assets/Scripts/common/ThirdApi.js" />
+        <option value="$PROJECT_DIR$/assets/Scripts/CommonFrame/TuyooSDK.js" />
+        <option value="$PROJECT_DIR$/assets/Scripts/ui/reviveUI.js" />
+        <option value="$PROJECT_DIR$/assets/Scripts/common/httpUtils.js" />
+        <option value="$PROJECT_DIR$/assets/Scripts/ui/shareUI.js" />
+        <option value="$PROJECT_DIR$/assets/Scripts/common/myUtil.js" />
+        <option value="$PROJECT_DIR$/assets/Scripts/ui/UIPropInfo.js" />
+        <option value="$PROJECT_DIR$/assets/Scripts/common/wxAPI.js" />
+        <option value="$PROJECT_DIR$/assets/Scripts/common/receiveCmd.js" />
+        <option value="$PROJECT_DIR$/assets/Scripts/view/gridView.js" />
+        <option value="$PROJECT_DIR$/assets/Scripts/view/itemView.js" />
+        <option value="$PROJECT_DIR$/assets/Scripts/common/wxBannerAd.js" />
+        <option value="$PROJECT_DIR$/assets/Scripts/view/dayNode.js" />
+        <option value="$PROJECT_DIR$/assets/Scripts/Game.js" />
+        <option value="$PROJECT_DIR$/assets/Scripts/common/ThirdAPI.js" />
+        <option value="$PROJECT_DIR$/assets/Scripts/CommonFrame/GlobalInit.js" />
+        <option value="$PROJECT_DIR$/assets/Scripts/ui/startUI.js" />
+        <option value="$PROJECT_DIR$/assets/Scripts/Global.js" />
+        <option value="$PROJECT_DIR$/assets/Scripts/view/singinNode.js" />
+        <option value="$PROJECT_DIR$/assets/Scripts/controller/gridController.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1871" />
+    <option name="y" value="76" />
+    <option name="width" value="1805" />
+    <option name="height" value="898" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my2048_readygo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my2048_readygo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my2048_readygo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my2048_readygo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my2048_readygo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my2048_readygo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my2048_readygo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../h5/tu-weixin-game" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>$USER_HOME$/.subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03ccc595-9d1f-40a0-904e-6c09abda4fe1" name="Default" comment="" />
+      <created>1533085502309</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533085502309</updated>
+      <workItem from="1533085503588" duration="10431000" />
+      <workItem from="1533140927897" duration="16658000" />
+      <workItem from="1533228594690" duration="8114000" />
+      <workItem from="1536705397845" duration="8053000" />
+      <workItem from="1536770330728" duration="6722000" />
+      <workItem from="1536788723872" duration="21157000" />
+      <workItem from="1536858292068" duration="29355000" />
+      <workItem from="1536942977239" duration="2572000" />
+      <workItem from="1536947611884" duration="3880000" />
+      <workItem from="1537914090477" duration="6729000" />
+      <workItem from="1538017537449" duration="2012000" />
+      <workItem from="1538093311734" duration="897000" />
+      <workItem from="1538194931674" duration="1150000" />
+      <workItem from="1538263517511" duration="176000" />
+      <workItem from="1538341823888" duration="1295000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="119201000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1871" y="76" width="1805" height="898" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17264573" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24957556" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/assets/Scripts/common/ThirdAPI.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7065">
+          <caret line="471" column="24" selection-start-line="471" selection-start-column="21" selection-end-line="471" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Scripts/controller/gridController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25875">
+          <caret line="1725" column="37" selection-start-line="1725" selection-start-column="37" selection-end-line="1725" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Scripts/ui/reviveUI.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="78" column="37" selection-start-line="78" selection-start-column="37" selection-end-line="78" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Scripts/CommonFrame/GlobalInit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Scripts/common/listenUtil.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Scripts/view/gridView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Scripts/ui/UIPropInfo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4275">
+          <caret line="293" column="24" selection-start-line="293" selection-start-column="21" selection-end-line="293" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Scripts/common/wxAPI.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4725">
+          <caret line="315" column="27" selection-start-line="315" selection-start-column="27" selection-end-line="315" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Scripts/sdk_readygo/gamesdk.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Scripts/Global.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Scripts/common/httpUtils.js.meta">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="107" column="0" selection-start-line="107" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Scripts/common/listenUtil.js.meta">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Scripts/common/listenUtil.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Scripts/sdk_readygo/gamesdk.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Scripts/common/httpUtils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="72" column="53" selection-start-line="72" selection-start-column="53" selection-end-line="72" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Scripts/ui/reviveUI.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2940">
+          <caret line="204" column="38" selection-start-line="204" selection-start-column="29" selection-end-line="204" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creator.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="3896" column="8" selection-start-line="3896" selection-start-column="8" selection-end-line="3896" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Scripts/view/score.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="63" column="39" selection-start-line="63" selection-start-column="39" selection-end-line="63" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Scripts/common/myUtil.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3555">
+          <caret line="237" column="4" selection-start-line="237" selection-start-column="4" selection-end-line="237" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/DHTML.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="1179" column="0" selection-start-line="1179" selection-start-column="0" selection-end-line="1179" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Scripts/view/getGemStone.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="72" column="42" selection-start-line="72" selection-start-column="42" selection-end-line="72" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Scripts/CommonFrame/TCPClient.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="55" column="36" selection-start-line="55" selection-start-column="36" selection-end-line="55" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Scripts/common/cmdType.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Scripts/common/sendCmd.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="8" column="77" selection-start-line="8" selection-start-column="60" selection-end-line="8" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Scripts/CommonFrame/BiStatLog.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="26" column="61" selection-start-line="26" selection-start-column="54" selection-end-line="26" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Scripts/CommonFrame/ShareInterface.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="62" column="22" selection-start-line="62" selection-start-column="22" selection-end-line="62" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Scripts/ui/UIPropInfo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="291" column="16" selection-start-line="291" selection-start-column="12" selection-end-line="291" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Scripts/TmpOne.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Scripts/common/shareManager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="57" column="29" selection-start-line="57" selection-start-column="28" selection-end-line="57" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Scripts/common/receiveCmd.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="59" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Scripts/ui/TitleItem.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2295">
+          <caret line="153" column="17" selection-start-line="153" selection-start-column="17" selection-end-line="153" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Scripts/common/tcpManager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="57" column="59" selection-start-line="57" selection-start-column="59" selection-end-line="57" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Scripts/view/Untitled-1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="139" column="4" selection-start-line="139" selection-start-column="4" selection-end-line="139" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Scripts/common/wxBannerAd.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="75" column="52" selection-start-line="75" selection-start-column="52" selection-end-line="75" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Scripts/common/fbAPI.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="129" column="4" selection-start-line="129" selection-start-column="4" selection-end-line="129" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Scripts/CommonFrame/TuyooSDK.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2895">
+          <caret line="193" column="55" selection-start-line="193" selection-start-column="55" selection-end-line="193" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Scripts/ui/shareUI.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7545">
+          <caret line="503" column="13" selection-start-line="503" selection-start-column="13" selection-end-line="503" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Scripts/CommonFrame/GlobalInit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Scripts/ui/startUI.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2445">
+          <caret line="163" column="34" selection-start-line="163" selection-start-column="34" selection-end-line="163" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Scripts/common/wxAPI.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13095">
+          <caret line="873" column="8" selection-start-line="873" selection-start-column="4" selection-end-line="873" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Scripts/common/ThirdAPI.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7875">
+          <caret line="525" column="9" selection-start-line="525" selection-start-column="9" selection-end-line="525" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Scripts/view/dayNode.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="78" column="22" selection-start-line="78" selection-start-column="22" selection-end-line="78" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Scripts/Game.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8070">
+          <caret line="546" column="4" selection-start-line="546" selection-start-column="4" selection-end-line="546" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Scripts/GlobalFunc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1845">
+          <caret line="123" column="76" selection-start-line="123" selection-start-column="76" selection-end-line="123" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Scripts/Global.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="60" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Scripts/ui/addPropInfo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2685">
+          <caret line="187" column="27" selection-start-line="187" selection-start-column="27" selection-end-line="187" selection-end-column="27" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Scripts/view/gridView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2655">
+          <caret line="179" column="62" selection-start-line="179" selection-start-column="62" selection-end-line="179" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Scripts/controller/gridController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19125">
+          <caret line="1275" column="40" selection-start-line="1275" selection-start-column="32" selection-end-line="1275" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Scripts/view/singinNode.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="41" column="4" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Scripts/view/itemView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="317" column="47" selection-start-line="317" selection-start-column="47" selection-end-line="317" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

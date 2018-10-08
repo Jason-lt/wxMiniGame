@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 232
+/newsvn/Match3/!svn/ver/970/games/Tetris2048/client/my2048_1/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/cis/__/external/sources/Box2D/Dynamics/Joints
+END
+b2MouseJoint.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 249
+/newsvn/Match3/!svn/ver/970/games/Tetris2048/client/my2048_1/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/cis/__/external/sources/Box2D/Dynamics/Joints/b2MouseJoint.o.d
+END
+b2DistanceJoint.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 252
+/newsvn/Match3/!svn/ver/970/games/Tetris2048/client/my2048_1/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/cis/__/external/sources/Box2D/Dynamics/Joints/b2DistanceJoint.o.d
+END
+b2PulleyJoint.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 250
+/newsvn/Match3/!svn/ver/970/games/Tetris2048/client/my2048_1/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/cis/__/external/sources/Box2D/Dynamics/Joints/b2PulleyJoint.o.d
+END
+b2PrismaticJoint.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 253
+/newsvn/Match3/!svn/ver/970/games/Tetris2048/client/my2048_1/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/cis/__/external/sources/Box2D/Dynamics/Joints/b2PrismaticJoint.o.d
+END
+b2WeldJoint.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 248
+/newsvn/Match3/!svn/ver/970/games/Tetris2048/client/my2048_1/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/cis/__/external/sources/Box2D/Dynamics/Joints/b2WeldJoint.o.d
+END
+b2FrictionJoint.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 252
+/newsvn/Match3/!svn/ver/970/games/Tetris2048/client/my2048_1/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/cis/__/external/sources/Box2D/Dynamics/Joints/b2FrictionJoint.o.d
+END
+b2GearJoint.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 248
+/newsvn/Match3/!svn/ver/970/games/Tetris2048/client/my2048_1/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/cis/__/external/sources/Box2D/Dynamics/Joints/b2GearJoint.o.d
+END
+b2Joint.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 244
+/newsvn/Match3/!svn/ver/970/games/Tetris2048/client/my2048_1/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/cis/__/external/sources/Box2D/Dynamics/Joints/b2Joint.o.d
+END
+b2MotorJoint.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 249
+/newsvn/Match3/!svn/ver/970/games/Tetris2048/client/my2048_1/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/cis/__/external/sources/Box2D/Dynamics/Joints/b2MotorJoint.o.d
+END
+b2WheelJoint.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 249
+/newsvn/Match3/!svn/ver/970/games/Tetris2048/client/my2048_1/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/cis/__/external/sources/Box2D/Dynamics/Joints/b2WheelJoint.o.d
+END
+b2RevoluteJoint.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 252
+/newsvn/Match3/!svn/ver/970/games/Tetris2048/client/my2048_1/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/cis/__/external/sources/Box2D/Dynamics/Joints/b2RevoluteJoint.o.d
+END
+b2RopeJoint.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 248
+/newsvn/Match3/!svn/ver/970/games/Tetris2048/client/my2048_1/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/cis/__/external/sources/Box2D/Dynamics/Joints/b2RopeJoint.o.d
+END

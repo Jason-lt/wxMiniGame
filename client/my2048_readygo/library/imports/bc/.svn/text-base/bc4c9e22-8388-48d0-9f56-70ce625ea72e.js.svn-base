@@ -1,0 +1,17 @@
+"use strict";
+cc._RF.push(module, 'bc4c94ig4hI0J9WcM5iXqcu', 'EChannelPrefix');
+// Scripts/sdk_readygo/lib/EChannelPrefix.js
+
+"use strict";
+
+//分享场景值
+module.exports = {
+    pageshare: "pageshare", //主页和结束页面
+    gift: "gift", //道具
+    resurrection: "resurrection", //复活（复活时分享）
+    activity: "activity", //每日挑战
+    grouprank: "grouprank", //查看群排行
+    regular: "regular" //右上角转发
+};
+
+cc._RF.pop();

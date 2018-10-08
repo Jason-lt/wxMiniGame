@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "serviceIcon",
+    "texture": "718de501-dde7-4590-ac0a-89f03427938d",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      82,
+      117
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      84,
+      118
+    ]
+  }
+}

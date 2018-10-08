@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 243
+/newsvn/Match3/!svn/ver/874/games/Tetris2048/client/my2048/Tetris2048/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/cis/__/external/sources/Box2D/Dynamics/Contacts
+END
+b2CircleContact.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 263
+/newsvn/Match3/!svn/ver/874/games/Tetris2048/client/my2048/Tetris2048/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/cis/__/external/sources/Box2D/Dynamics/Contacts/b2CircleContact.o.d
+END
+b2ChainAndCircleContact.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 271
+/newsvn/Match3/!svn/ver/874/games/Tetris2048/client/my2048/Tetris2048/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/cis/__/external/sources/Box2D/Dynamics/Contacts/b2ChainAndCircleContact.o.d
+END
+b2PolygonContact.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 264
+/newsvn/Match3/!svn/ver/874/games/Tetris2048/client/my2048/Tetris2048/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/cis/__/external/sources/Box2D/Dynamics/Contacts/b2PolygonContact.o.d
+END
+b2EdgeAndCircleContact.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 270
+/newsvn/Match3/!svn/ver/874/games/Tetris2048/client/my2048/Tetris2048/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/cis/__/external/sources/Box2D/Dynamics/Contacts/b2EdgeAndCircleContact.o.d
+END
+b2ContactSolver.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 263
+/newsvn/Match3/!svn/ver/874/games/Tetris2048/client/my2048/Tetris2048/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/cis/__/external/sources/Box2D/Dynamics/Contacts/b2ContactSolver.o.d
+END
+b2PolygonAndCircleContact.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 273
+/newsvn/Match3/!svn/ver/874/games/Tetris2048/client/my2048/Tetris2048/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/cis/__/external/sources/Box2D/Dynamics/Contacts/b2PolygonAndCircleContact.o.d
+END
+b2ChainAndPolygonContact.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 272
+/newsvn/Match3/!svn/ver/874/games/Tetris2048/client/my2048/Tetris2048/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/cis/__/external/sources/Box2D/Dynamics/Contacts/b2ChainAndPolygonContact.o.d
+END
+b2Contact.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 257
+/newsvn/Match3/!svn/ver/874/games/Tetris2048/client/my2048/Tetris2048/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/cis/__/external/sources/Box2D/Dynamics/Contacts/b2Contact.o.d
+END
+b2EdgeAndPolygonContact.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 271
+/newsvn/Match3/!svn/ver/874/games/Tetris2048/client/my2048/Tetris2048/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/cis/__/external/sources/Box2D/Dynamics/Contacts/b2EdgeAndPolygonContact.o.d
+END

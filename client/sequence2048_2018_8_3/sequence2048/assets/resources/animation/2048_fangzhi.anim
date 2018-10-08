@@ -1,0 +1,42 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "2048_fangzhi",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.43333333333333335,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "lastSprite": {
+        "props": {
+          "scaleX": [],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 0.1,
+              "value": 0.9
+            },
+            {
+              "frame": 0.2,
+              "value": 1.1
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 0.95
+            },
+            {
+              "frame": 0.43333333333333335,
+              "value": 1
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

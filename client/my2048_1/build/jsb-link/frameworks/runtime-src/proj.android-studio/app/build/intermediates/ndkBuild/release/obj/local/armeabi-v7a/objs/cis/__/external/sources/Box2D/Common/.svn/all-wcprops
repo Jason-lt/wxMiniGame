@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 223
+/newsvn/Match3/!svn/ver/970/games/Tetris2048/client/my2048_1/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/cis/__/external/sources/Box2D/Common
+END
+b2Draw.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 234
+/newsvn/Match3/!svn/ver/970/games/Tetris2048/client/my2048_1/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/cis/__/external/sources/Box2D/Common/b2Draw.o.d
+END
+b2Settings.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 238
+/newsvn/Match3/!svn/ver/970/games/Tetris2048/client/my2048_1/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/cis/__/external/sources/Box2D/Common/b2Settings.o.d
+END
+b2Timer.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 235
+/newsvn/Match3/!svn/ver/970/games/Tetris2048/client/my2048_1/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/cis/__/external/sources/Box2D/Common/b2Timer.o.d
+END
+b2StackAllocator.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 244
+/newsvn/Match3/!svn/ver/970/games/Tetris2048/client/my2048_1/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/cis/__/external/sources/Box2D/Common/b2StackAllocator.o.d
+END
+b2Math.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 234
+/newsvn/Match3/!svn/ver/970/games/Tetris2048/client/my2048_1/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/cis/__/external/sources/Box2D/Common/b2Math.o.d
+END
+b2BlockAllocator.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 244
+/newsvn/Match3/!svn/ver/970/games/Tetris2048/client/my2048_1/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/cis/__/external/sources/Box2D/Common/b2BlockAllocator.o.d
+END

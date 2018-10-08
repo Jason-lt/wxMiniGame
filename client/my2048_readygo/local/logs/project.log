@@ -1,0 +1,57 @@
+2018-09-27T03:12:32.755Z - normal: Load ~/.CocosCreator/settings.json
+2018-09-27T03:12:32.759Z - normal: checking language setting...
+2018-09-27T03:12:32.759Z - normal: Language: zh
+2018-09-27T03:12:33.467Z - success: protocol editor-framework registered
+2018-09-27T03:12:33.467Z - success: protocol app registered
+2018-09-27T03:12:33.467Z - success: protocol theme registered
+2018-09-27T03:12:33.467Z - success: protocol packages registered
+2018-09-27T03:12:33.468Z - success: protocol unpack registerred
+2018-09-27T03:12:33.468Z - success: protocol disable-commonjs registerred
+2018-09-27T03:12:33.580Z - normal: connected!
+2018-09-27T03:12:33.583Z - normal: Check project /Users/tuyoo/newSvn/Tetris2048/client/my2048_readygo
+2018-09-27T03:12:33.593Z - normal: Initializing Cocos2d
+2018-09-27T03:12:33.788Z - normal: Initializing Asset Database
+2018-09-27T03:12:33.826Z - success: protocol uuid registerred
+2018-09-27T03:12:33.826Z - success: protocol db registerred
+2018-09-27T03:12:33.826Z - success: protocol thumbnail registerred
+2018-09-27T03:12:33.826Z - normal: Loading editor/builtin packages
+2018-09-27T03:12:33.855Z - success: anysdk loaded
+2018-09-27T03:12:33.968Z - success: assets loaded
+2018-09-27T03:12:33.971Z - success: builder loaded
+2018-09-27T03:12:33.973Z - success: cocos-analytics loaded
+2018-09-27T03:12:33.978Z - success: console loaded
+2018-09-27T03:12:34.018Z - success: fb-instant-games loaded
+2018-09-27T03:12:34.023Z - success: hierarchy loaded
+2018-09-27T03:12:34.027Z - success: inspector loaded
+2018-09-27T03:12:34.030Z - success: keystore loaded
+2018-09-27T03:12:34.034Z - success: node-library loaded
+2018-09-27T03:12:34.036Z - success: package-asset loaded
+2018-09-27T03:12:34.038Z - success: preferences loaded
+2018-09-27T03:12:34.041Z - success: project-exporter loaded
+2018-09-27T03:12:34.058Z - success: project-importer loaded
+2018-09-27T03:12:34.061Z - success: project-settings loaded
+2018-09-27T03:12:34.068Z - success: ui-kit loaded
+2018-09-27T03:12:34.073Z - success: ui-grid loaded
+2018-09-27T03:12:34.077Z - success: scene loaded
+2018-09-27T03:12:34.080Z - success: sprite-editor loaded
+2018-09-27T03:12:34.086Z - success: store loaded
+2018-09-27T03:12:34.092Z - success: timeline loaded
+2018-09-27T03:12:34.093Z - normal: Loading builtin packages
+2018-09-27T03:12:34.099Z - success: asset-db-debugger loaded
+2018-09-27T03:12:34.099Z - success: color-picker loaded
+2018-09-27T03:12:34.105Z - success: package-manager loaded
+2018-09-27T03:12:34.106Z - success: qqplay-adapter loaded
+2018-09-27T03:12:34.112Z - success: sdkbox loaded
+2018-09-27T03:12:34.118Z - success: tester loaded
+2018-09-27T03:12:34.122Z - success: ui-kit-preview-extra loaded
+2018-09-27T03:12:34.125Z - success: ui-kit-preview loaded
+2018-09-27T03:12:34.128Z - success: ui-tree loaded
+2018-09-27T03:12:34.130Z - success: weapp-adapter loaded
+2018-09-27T03:12:35.238Z - normal: Initializing project /Users/tuyoo/newSvn/Tetris2048/client/my2048_readygo
+2018-09-27T03:12:35.240Z - normal: Loading packages
+2018-09-27T03:12:35.245Z - normal: Watching packages
+2018-09-27T03:12:35.390Z - normal: Run Application
+2018-09-27T03:12:37.050Z - success: preview server running at http://localhost:7457
+2018-09-27T03:12:47.366Z - normal: 1.9.3
+2018-09-27T03:13:27.551Z - failed: Can not found the asset db://assets/resources/textures/gridItem/items.plist/chest.png
+2018-09-27T03:24:43.739Z - info: shutdown preview server

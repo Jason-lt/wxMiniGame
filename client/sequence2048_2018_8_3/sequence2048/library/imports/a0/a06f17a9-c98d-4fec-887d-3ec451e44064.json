@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "2048kp_tx_yan_08",
+    "texture": "50ec6628-9af3-4a02-a1e4-e0a77317c017",
+    "atlas": "858d83f6-4162-45af-9cfb-58f17c8d6a3d",
+    "rect": [
+      273,
+      1977,
+      64,
+      18
+    ],
+    "offset": [
+      -16,
+      7
+    ],
+    "originalSize": [
+      128,
+      100
+    ],
+    "rotated": 1
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "items.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "0": {
+      "__uuid__": "e535a7dd-6979-4f2e-9ad6-cf45920adb80"
+    },
+    "1": {
+      "__uuid__": "fcf8a9d2-b836-49e6-9ad6-c266abe6e479"
+    },
+    "2": {
+      "__uuid__": "64811160-6c71-4a7c-875f-4e8aff962290"
+    },
+    "3": {
+      "__uuid__": "27e992c3-16c4-4797-b5c7-8c811908204a"
+    },
+    "4": {
+      "__uuid__": "023dc794-68d2-4e28-96a1-7d75872f053c"
+    },
+    "5": {
+      "__uuid__": "b973e7d1-bb13-4f0d-8941-598515481eaf"
+    },
+    "6": {
+      "__uuid__": "98967eac-bb65-44de-811d-127c908ac9ef"
+    },
+    "7": {
+      "__uuid__": "8addafd3-d0b3-4836-8730-0008f538aa30"
+    },
+    "8": {
+      "__uuid__": "b0a2f555-05f1-4ff9-be3a-f1d37a869f5a"
+    },
+    "9": {
+      "__uuid__": "5cbef0f7-3c05-4552-9c71-a4ff09f782e4"
+    },
+    "battle_pause": {
+      "__uuid__": "c04ed6ad-4127-460d-8310-fd49c1a9ae2c"
+    },
+    "button": {
+      "__uuid__": "38b1fe40-5dce-4c38-a6c0-151cf408a1b7"
+    },
+    "button2": {
+      "__uuid__": "2f93fd22-ef85-4c66-8d73-a27984934338"
+    },
+    "button-title1": {
+      "__uuid__": "6f8ac210-2601-40ca-b0d0-3d874c898e7b"
+    },
+    "button-title2": {
+      "__uuid__": "566eb7bc-7d1c-43b6-ba70-7fdc092212f9"
+    },
+    "button-title3": {
+      "__uuid__": "6f79d4dd-aa2c-4d0e-a422-bb1470a4e164"
+    },
+    "check": {
+      "__uuid__": "9784a9a2-9b94-4d90-8c33-c89c60a5c730"
+    },
+    "close": {
+      "__uuid__": "2c68b9d0-859e-46fc-9420-40cef1b6dd40"
+    },
+    "color1_1024": {
+      "__uuid__": "7c5879eb-51b5-423b-ab82-a456c697f5b6"
+    },
+    "color1_128": {
+      "__uuid__": "56459a51-de6e-4afa-9aad-7440badc3294"
+    },
+    "color1_16": {
+      "__uuid__": "cba32ccc-13b9-4cfe-8f7d-44e8e64b353a"
+    },
+    "color1_2": {
+      "__uuid__": "e27a5f08-a645-48e6-acff-7264753f1d75"
+    },
+    "color1_2048": {
+      "__uuid__": "21f77d75-06e5-48d7-ae94-878f263c4b88"
+    },
+    "color1_256": {
+      "__uuid__": "7c19a9b3-b983-4335-88ef-fa00d74f2a9d"
+    },
+    "color1_32": {
+      "__uuid__": "a9f43206-b222-4674-b475-2dbf999b965a"
+    },
+    "color1_4": {
+      "__uuid__": "d0e922b2-adee-47da-b66f-576e5b7ecec3"
+    },
+    "color1_4096": {
+      "__uuid__": "f7a7a8f1-80e4-4860-8440-817f2b0b0902"
+    },
+    "color1_512": {
+      "__uuid__": "a2ce6304-3f9a-4f97-9f01-c2d2f464518b"
+    },
+    "color1_64": {
+      "__uuid__": "1d6d4ffc-4cb2-4dc1-a217-115668071561"
+    },
+    "color1_8": {
+      "__uuid__": "dd826921-1724-42a7-ae41-ca935359669a"
+    },
+    "countdown-bg": {
+      "__uuid__": "383bd721-461e-430f-bc41-b786fdb2ccdb"
+    },
+    "exit": {
+      "__uuid__": "7963681e-3ebf-458d-85e1-2b8a5b135b5c"
+    },
+    "fengxiang": {
+      "__uuid__": "36de19a9-c8c8-4692-a7d0-186e91b2fc0d"
+    },
+    "fm_3": {
+      "__uuid__": "95a416d3-4de6-4c19-a9c7-0e05a0b52362"
+    },
+    "fm_4": {
+      "__uuid__": "5116e920-a23d-4544-be30-ef309371f2f4"
+    },
+    "fm_5": {
+      "__uuid__": "1bb77e51-4485-4ad4-a9dd-1c7725efba79"
+    },
+    "getForFriend": {
+      "__uuid__": "5c3eb08a-9b9d-48dc-8fcc-b4bde11aed3c"
+    },
+    "gotoBattle": {
+      "__uuid__": "e2c4b837-45a6-4376-9227-77a51722b880"
+    },
+    "huangzuan": {
+      "__uuid__": "b33eba72-d0a4-4924-bf42-c5f5afd22110"
+    },
+    "huangzuan1": {
+      "__uuid__": "9a4c4cd1-c1ab-4c36-a4e9-169f8ae0029c"
+    },
+    "label_percent.png": {
+      "__uuid__": "d7b5996a-9002-4b10-97ef-f2523a89f3f1"
+    },
+    "label_score": {
+      "__uuid__": "31fc80a0-6bb4-43cb-89a4-81e710fc7b17"
+    },
+    "line": {
+      "__uuid__": "900e2c2f-ce89-4c71-94c6-6b771a879ee4"
+    },
+    "line1": {
+      "__uuid__": "38ff8013-17bd-4cc6-83f8-817063c051fe"
+    },
+    "paly": {
+      "__uuid__": "58d4a188-2beb-4fac-9495-06c6b62e12d2"
+    },
+    "pause": {
+      "__uuid__": "95dfbc50-4b70-4114-9b1a-e226ea1cb219"
+    },
+    "pause_1": {
+      "__uuid__": "d3c2ebb2-7f40-443f-b499-52b0c0e19c1a"
+    },
+    "pause_2": {
+      "__uuid__": "adb9c92b-dcb9-41a7-a195-e21a03634200"
+    },
+    "pause_background": {
+      "__uuid__": "9c18c8b2-566b-485e-ace4-db9ac64170e4"
+    },
+    "pause_continue": {
+      "__uuid__": "83cabc2a-847b-46db-96ea-f08c12639b47"
+    },
+    "pause_home": {
+      "__uuid__": "8d7ba28f-dbd2-44e2-ba62-eafded987913"
+    },
+    "pause_home1": {
+      "__uuid__": "3e827e8f-e31e-41fc-b9ce-7358ed5943cf"
+    },
+    "pause_home3": {
+      "__uuid__": "9e3a2bd9-65ad-4a07-a67d-3448d49aaac3"
+    },
+    "pause_rank": {
+      "__uuid__": "30fe5bb4-38eb-4b08-af07-266d78599bfa"
+    },
+    "pause_restart": {
+      "__uuid__": "45b9638d-4ba6-4d03-8c80-1cbf2f43b774"
+    },
+    "pause_restart1": {
+      "__uuid__": "1d631d2e-5ce9-4700-9130-84d6b103d70e"
+    },
+    "pause_soundOff": {
+      "__uuid__": "7be4f5a2-5d30-43ce-9a6f-05ddadb99f7d"
+    },
+    "pause_soundOff1": {
+      "__uuid__": "69f52d3e-bc33-482c-af0f-d630201ebf74"
+    },
+    "pause_soundOn": {
+      "__uuid__": "c5b8436b-076f-4e9c-93d6-7c35952d7da0"
+    },
+    "pause_soundOn1": {
+      "__uuid__": "76217254-1e3f-430d-8fd1-2add2bcf5244"
+    },
+    "pause_title": {
+      "__uuid__": "0c71cd12-409a-4649-80eb-3c9ae39ded35"
+    },
+    "play": {
+      "__uuid__": "7cc17c91-c531-46dc-84ce-48b00802f96c"
+    },
+    "prop_status1": {
+      "__uuid__": "5d7176d3-e35a-4dac-91aa-f462e88b291a"
+    },
+    "prop_status2": {
+      "__uuid__": "1e944f2d-9ae4-494a-868e-1154c2de0e24"
+    },
+    "prop_status3": {
+      "__uuid__": "3f717fb8-e649-41bb-a1f0-5bc32076e474"
+    },
+    "rank_1": {
+      "__uuid__": "d5a5ce43-3310-41f3-89a9-5f133f2e3e04"
+    },
+    "rank_2": {
+      "__uuid__": "dc4cd8dc-7c5c-4f6c-b054-ad82f42ca5dd"
+    },
+    "rank_3": {
+      "__uuid__": "de3ebaea-cedc-4ba1-a385-df126e484c90"
+    },
+    "rank_group": {
+      "__uuid__": "6fdc97a3-5a04-461b-b1ae-e0985a3c2f49"
+    },
+    "rankBoard": {
+      "__uuid__": "5f7b369e-891a-4174-ab1a-cec958d151bc"
+    },
+    "rankHand": {
+      "__uuid__": "67a0ebd1-0078-4338-96cb-84ba8928e273"
+    },
+    "rankHand-1": {
+      "__uuid__": "39a89b71-45fe-4132-8a7a-caede37aaca4"
+    },
+    "reddot": {
+      "__uuid__": "57b3e695-f040-4649-912c-3fb874c6eddc"
+    },
+    "restart": {
+      "__uuid__": "ba9ae4c5-aae8-4424-9bfc-e943a1f26f3a"
+    },
+    "share_btn": {
+      "__uuid__": "39942a23-bc3a-4dff-a8e9-02196028e3ab"
+    },
+    "share_play": {
+      "__uuid__": "aae5a860-3a46-460f-9b26-7cfb2ab05c96"
+    },
+    "shareNotRevive": {
+      "__uuid__": "08d0c36b-06b9-4833-a6b1-9b3cda7384c2"
+    },
+    "skin1": {
+      "__uuid__": "35d6f292-341a-4d12-a433-33f9f94c277a"
+    },
+    "skin2": {
+      "__uuid__": "b747635a-e415-4150-9e4e-d360b1a51ad2"
+    },
+    "skin3": {
+      "__uuid__": "67e1e008-4dc3-4ed6-8c97-9013fa8c04c7"
+    },
+    "skin4": {
+      "__uuid__": "e353b83b-470e-4399-863e-471a8f9c8b09"
+    },
+    "skin5": {
+      "__uuid__": "ebe7954b-478c-484a-b762-f5e60a9a27be"
+    },
+    "skin-bg": {
+      "__uuid__": "6c86683e-8383-4885-b93f-47a31aa2d1bc"
+    },
+    "skin-bg1": {
+      "__uuid__": "9747c0bd-0de6-49e2-a8f1-50d3536306dc"
+    },
+    "skin-front": {
+      "__uuid__": "b099f0c9-58d6-4e14-86e6-66dc6692bd33"
+    },
+    "skin-front1": {
+      "__uuid__": "73f7cf40-d298-4a8e-b6e8-76c6b05fa71b"
+    },
+    "soundoff": {
+      "__uuid__": "73af1a4b-3f83-44ae-a43b-beb02ad09c99"
+    },
+    "soundon": {
+      "__uuid__": "1b6a1dbf-d7ad-41b6-b9f0-5a20af19169f"
+    },
+    "start_paly": {
+      "__uuid__": "b624faa5-0176-4d83-b624-24a6705aedb2"
+    },
+    "tipsLine": {
+      "__uuid__": "eda146b9-1d10-44e6-ad7b-218e6f293190"
+    },
+    "top": {
+      "__uuid__": "e6c9a708-380c-41a7-a2eb-2148e7c89d95"
+    },
+    "pause_skin": {
+      "__uuid__": "3170a29a-1cba-49a8-939d-ba158e293d28"
+    },
+    "icongame": {
+      "__uuid__": "e9cc0fa3-77f4-43a8-a5fc-766e585e9b80"
+    },
+    "button-more": {
+      "__uuid__": "21c37175-caa7-43aa-81dd-bd4d51a59a53"
+    }
+  }
+}

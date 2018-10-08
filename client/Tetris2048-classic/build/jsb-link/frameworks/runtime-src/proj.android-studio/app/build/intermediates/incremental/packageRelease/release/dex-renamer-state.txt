@@ -1,0 +1,4 @@
+#Thu May 24 10:29:06 CST 2018
+base.0=/Users/tuyoo/Match3/games/Tetris2048/client/new2048/Tetris2048/client/Tetris2048/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/transforms/dex/release/0
+renamed.0=classes.dex
+file.0=/Users/tuyoo/Match3/games/Tetris2048/client/new2048/Tetris2048/client/Tetris2048/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/transforms/dex/release/0/classes.dex

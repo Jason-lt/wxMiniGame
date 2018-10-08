@@ -1,0 +1,1384 @@
+2018-06-29T09:03:44.993Z - normal: Load ~/.CocosCreator/settings.json
+2018-06-29T09:03:44.999Z - normal: checking language setting...
+2018-06-29T09:03:44.999Z - normal: Language: zh
+2018-06-29T09:03:45.879Z - success: protocol editor-framework registered
+2018-06-29T09:03:45.880Z - success: protocol app registered
+2018-06-29T09:03:45.880Z - success: protocol theme registered
+2018-06-29T09:03:45.880Z - success: protocol packages registered
+2018-06-29T09:03:45.880Z - success: protocol unpack registerred
+2018-06-29T09:03:45.881Z - success: protocol disable-commonjs registerred
+2018-06-29T09:03:45.958Z - normal: connected!
+2018-06-29T09:03:45.964Z - normal: Check project /Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic
+2018-06-29T09:03:45.967Z - normal: Initializing Cocos2d
+2018-06-29T09:03:46.238Z - normal: Initializing Asset Database
+2018-06-29T09:03:46.289Z - success: protocol uuid registerred
+2018-06-29T09:03:46.289Z - success: protocol db registerred
+2018-06-29T09:03:46.289Z - success: protocol thumbnail registerred
+2018-06-29T09:03:46.289Z - normal: Loading editor/builtin packages
+2018-06-29T09:03:46.309Z - success: anysdk loaded
+2018-06-29T09:03:46.437Z - success: assets loaded
+2018-06-29T09:03:46.442Z - success: builder loaded
+2018-06-29T09:03:46.445Z - success: cocos-analytics loaded
+2018-06-29T09:03:46.450Z - success: console loaded
+2018-06-29T09:03:46.488Z - success: fb-instant-games loaded
+2018-06-29T09:03:46.493Z - success: hierarchy loaded
+2018-06-29T09:03:46.500Z - success: inspector loaded
+2018-06-29T09:03:46.501Z - success: keystore loaded
+2018-06-29T09:03:46.514Z - success: node-library loaded
+2018-06-29T09:03:46.516Z - success: package-asset loaded
+2018-06-29T09:03:46.518Z - success: preferences loaded
+2018-06-29T09:03:46.523Z - success: project-exporter loaded
+2018-06-29T09:03:46.543Z - success: project-importer loaded
+2018-06-29T09:03:46.548Z - success: project-settings loaded
+2018-06-29T09:03:46.552Z - success: ui-kit loaded
+2018-06-29T09:03:46.557Z - success: ui-grid loaded
+2018-06-29T09:03:46.563Z - success: scene loaded
+2018-06-29T09:03:46.564Z - success: sprite-editor loaded
+2018-06-29T09:03:46.570Z - success: store loaded
+2018-06-29T09:03:46.580Z - success: timeline loaded
+2018-06-29T09:03:46.580Z - normal: Loading builtin packages
+2018-06-29T09:03:46.585Z - success: asset-db-debugger loaded
+2018-06-29T09:03:46.586Z - success: color-picker loaded
+2018-06-29T09:03:46.590Z - success: package-manager loaded
+2018-06-29T09:03:46.596Z - success: sdkbox loaded
+2018-06-29T09:03:46.602Z - success: tester loaded
+2018-06-29T09:03:46.606Z - success: ui-kit-preview-extra loaded
+2018-06-29T09:03:46.612Z - success: ui-kit-preview loaded
+2018-06-29T09:03:46.616Z - success: ui-tree loaded
+2018-06-29T09:03:47.625Z - normal: Initializing project /Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic
+2018-06-29T09:03:47.631Z - normal: Loading packages
+2018-06-29T09:03:47.637Z - normal: Watching packages
+2018-06-29T09:03:47.648Z - normal: Run Application
+2018-06-29T09:03:49.632Z - success: preview server running at http://localhost:7457
+2018-06-29T09:03:58.516Z - normal: 1.9.1
+2018-06-29T09:23:04.247Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "android-10",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build",
+  "debug": false,
+  "dest": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.tetris2048",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "6f8dcfa9-06eb-4663-8e0a-16f3c794744b"
+  ],
+  "sourceMaps": false,
+  "startScene": "6f8dcfa9-06eb-4663-8e0a-16f3c794744b",
+  "template": "link",
+  "title": "Tetris2048",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wxf811feddef45fc13",
+    "orientation": "portrait",
+    "subContext": "openDataContext"
+  },
+  "xxteaKey": "7d34e7b7-4193-49",
+  "zipCompressJs": true,
+  "project": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic",
+  "projectName": "Tetris2048",
+  "debugBuildWorker": false
+}
+2018-06-29T09:23:04.292Z - normal: Building /Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic
+2018-06-29T09:23:04.292Z - normal: Destination /Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame
+2018-06-29T09:23:04.641Z - normal: Delete /Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame/**/*
+2018-06-29T09:23:18.575Z - normal: Compiled project javascript file successfully
+2018-06-29T09:23:18.576Z - normal: Start building assets
+2018-06-29T09:23:18.576Z - normal: Start spawn build-worker
+2018-06-29T09:23:19.332Z - normal: Finish spawn build-worker
+2018-06-29T09:23:19.332Z - normal: Start init build-worker
+2018-06-29T09:23:21.730Z - normal: 1.9.1
+2018-06-29T09:23:21.972Z - normal: Finish init build-worker
+2018-06-29T09:23:21.973Z - normal: Start build-assets in worker
+2018-06-29T09:23:23.999Z - normal: Finish build-assets in worker
+2018-06-29T09:23:24.008Z - normal: Finish building assets
+2018-06-29T09:23:24.059Z - normal: Start building raw assets
+2018-06-29T09:23:24.060Z - normal: Start building plugin scripts
+2018-06-29T09:23:24.194Z - normal: Finish building plugin scripts
+2018-06-29T09:23:24.236Z - normal: Finish building raw assets
+2018-06-29T09:23:24.239Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-06-29T09:23:24.367Z - normal: Built to "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame" successfully
+2018-06-29T09:39:32.024Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "android-10",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build",
+  "debug": false,
+  "dest": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.tetris2048",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "6f8dcfa9-06eb-4663-8e0a-16f3c794744b"
+  ],
+  "sourceMaps": false,
+  "startScene": "6f8dcfa9-06eb-4663-8e0a-16f3c794744b",
+  "template": "link",
+  "title": "Tetris2048",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wxf811feddef45fc13",
+    "orientation": "portrait",
+    "subContext": "openDataContext"
+  },
+  "xxteaKey": "7d34e7b7-4193-49",
+  "zipCompressJs": true,
+  "project": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic",
+  "projectName": "Tetris2048",
+  "debugBuildWorker": false
+}
+2018-06-29T09:39:32.043Z - normal: Building /Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic
+2018-06-29T09:39:32.043Z - normal: Destination /Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame
+2018-06-29T09:39:32.045Z - normal: Delete /Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame/**/*
+2018-06-29T09:39:50.490Z - normal: Compiled project javascript file successfully
+2018-06-29T09:39:50.491Z - normal: Start building assets
+2018-06-29T09:39:50.491Z - normal: Start spawn build-worker
+2018-06-29T09:39:52.138Z - normal: Finish spawn build-worker
+2018-06-29T09:39:52.139Z - normal: Start init build-worker
+2018-06-29T09:39:58.146Z - normal: 1.9.1
+2018-06-29T09:39:58.448Z - normal: Finish init build-worker
+2018-06-29T09:39:58.448Z - normal: Start build-assets in worker
+2018-06-29T09:40:02.157Z - normal: Finish build-assets in worker
+2018-06-29T09:40:02.187Z - normal: Finish building assets
+2018-06-29T09:40:02.235Z - normal: Start building raw assets
+2018-06-29T09:40:02.238Z - normal: Start building plugin scripts
+2018-06-29T09:40:02.435Z - normal: Finish building plugin scripts
+2018-06-29T09:40:02.472Z - normal: Finish building raw assets
+2018-06-29T09:40:02.477Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-06-29T09:40:02.687Z - normal: Built to "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame" successfully
+2018-06-29T09:42:48.539Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "android-10",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build",
+  "debug": false,
+  "dest": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.tetris2048",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "6f8dcfa9-06eb-4663-8e0a-16f3c794744b"
+  ],
+  "sourceMaps": false,
+  "startScene": "6f8dcfa9-06eb-4663-8e0a-16f3c794744b",
+  "template": "link",
+  "title": "Tetris2048",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wxf811feddef45fc13",
+    "orientation": "portrait",
+    "subContext": "openDataContext"
+  },
+  "xxteaKey": "7d34e7b7-4193-49",
+  "zipCompressJs": true,
+  "project": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic",
+  "projectName": "Tetris2048",
+  "debugBuildWorker": false
+}
+2018-06-29T09:42:48.563Z - normal: Building /Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic
+2018-06-29T09:42:48.564Z - normal: Destination /Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame
+2018-06-29T09:42:48.565Z - normal: Delete /Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame/**/*
+2018-06-29T09:43:03.974Z - normal: Compiled project javascript file successfully
+2018-06-29T09:43:03.974Z - normal: Start building assets
+2018-06-29T09:43:03.974Z - normal: Start spawn build-worker
+2018-06-29T09:43:04.951Z - normal: Finish spawn build-worker
+2018-06-29T09:43:04.951Z - normal: Start init build-worker
+2018-06-29T09:43:07.666Z - normal: 1.9.1
+2018-06-29T09:43:07.912Z - normal: Finish init build-worker
+2018-06-29T09:43:07.913Z - normal: Start build-assets in worker
+2018-06-29T09:43:10.483Z - normal: Finish build-assets in worker
+2018-06-29T09:43:10.497Z - normal: Finish building assets
+2018-06-29T09:43:10.538Z - normal: Start building raw assets
+2018-06-29T09:43:10.539Z - normal: Start building plugin scripts
+2018-06-29T09:43:10.655Z - normal: Finish building plugin scripts
+2018-06-29T09:43:10.704Z - normal: Finish building raw assets
+2018-06-29T09:43:10.709Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-06-29T09:43:10.850Z - normal: Built to "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame" successfully
+2018-06-29T09:45:05.937Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "android-10",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build",
+  "debug": false,
+  "dest": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.tetris2048",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "6f8dcfa9-06eb-4663-8e0a-16f3c794744b"
+  ],
+  "sourceMaps": false,
+  "startScene": "6f8dcfa9-06eb-4663-8e0a-16f3c794744b",
+  "template": "link",
+  "title": "Tetris2048",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wxf811feddef45fc13",
+    "orientation": "portrait",
+    "subContext": "openDataContext"
+  },
+  "xxteaKey": "7d34e7b7-4193-49",
+  "zipCompressJs": true,
+  "project": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic",
+  "projectName": "Tetris2048",
+  "debugBuildWorker": false
+}
+2018-06-29T09:45:05.952Z - normal: Building /Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic
+2018-06-29T09:45:05.952Z - normal: Destination /Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame
+2018-06-29T09:45:05.953Z - normal: Delete /Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame/**/*
+2018-06-29T09:45:21.983Z - normal: Compiled project javascript file successfully
+2018-06-29T09:45:21.983Z - normal: Start building assets
+2018-06-29T09:45:21.984Z - normal: Start spawn build-worker
+2018-06-29T09:45:23.081Z - normal: Finish spawn build-worker
+2018-06-29T09:45:23.081Z - normal: Start init build-worker
+2018-06-29T09:45:25.938Z - normal: 1.9.1
+2018-06-29T09:45:26.254Z - normal: Finish init build-worker
+2018-06-29T09:45:26.254Z - normal: Start build-assets in worker
+2018-06-29T09:45:28.821Z - normal: Finish build-assets in worker
+2018-06-29T09:45:28.870Z - normal: Finish building assets
+2018-06-29T09:45:28.912Z - normal: Start building raw assets
+2018-06-29T09:45:28.913Z - normal: Start building plugin scripts
+2018-06-29T09:45:29.018Z - normal: Finish building plugin scripts
+2018-06-29T09:45:29.052Z - normal: Finish building raw assets
+2018-06-29T09:45:29.055Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-06-29T09:45:29.156Z - normal: Built to "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame" successfully
+2018-06-29T09:47:03.630Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "android-10",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build",
+  "debug": false,
+  "dest": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.tetris2048",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "6f8dcfa9-06eb-4663-8e0a-16f3c794744b"
+  ],
+  "sourceMaps": false,
+  "startScene": "6f8dcfa9-06eb-4663-8e0a-16f3c794744b",
+  "template": "link",
+  "title": "Tetris2048",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wxf811feddef45fc13",
+    "orientation": "portrait",
+    "subContext": "openDataContext"
+  },
+  "xxteaKey": "7d34e7b7-4193-49",
+  "zipCompressJs": true,
+  "project": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic",
+  "projectName": "Tetris2048",
+  "debugBuildWorker": false
+}
+2018-06-29T09:47:03.651Z - normal: Building /Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic
+2018-06-29T09:47:03.652Z - normal: Destination /Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame
+2018-06-29T09:47:03.653Z - normal: Delete /Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame/**/*
+2018-06-29T09:47:30.445Z - normal: Compiled project javascript file successfully
+2018-06-29T09:47:30.445Z - normal: Start building assets
+2018-06-29T09:47:30.445Z - normal: Start spawn build-worker
+2018-06-29T09:47:31.846Z - normal: Finish spawn build-worker
+2018-06-29T09:47:31.846Z - normal: Start init build-worker
+2018-06-29T09:47:36.461Z - normal: 1.9.1
+2018-06-29T09:47:36.948Z - normal: Finish init build-worker
+2018-06-29T09:47:36.949Z - normal: Start build-assets in worker
+2018-06-29T09:47:40.647Z - normal: Finish build-assets in worker
+2018-06-29T09:47:40.655Z - normal: Finish building assets
+2018-06-29T09:47:40.701Z - normal: Start building raw assets
+2018-06-29T09:47:40.702Z - normal: Start building plugin scripts
+2018-06-29T09:47:40.811Z - normal: Finish building plugin scripts
+2018-06-29T09:47:40.849Z - normal: Finish building raw assets
+2018-06-29T09:47:40.863Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-06-29T09:47:41.370Z - normal: Built to "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame" successfully
+2018-06-29T09:49:14.278Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "android-10",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build",
+  "debug": false,
+  "dest": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.tetris2048",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "6f8dcfa9-06eb-4663-8e0a-16f3c794744b"
+  ],
+  "sourceMaps": false,
+  "startScene": "6f8dcfa9-06eb-4663-8e0a-16f3c794744b",
+  "template": "link",
+  "title": "Tetris2048",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wxf811feddef45fc13",
+    "orientation": "portrait",
+    "subContext": "openDataContext"
+  },
+  "xxteaKey": "7d34e7b7-4193-49",
+  "zipCompressJs": true,
+  "project": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic",
+  "projectName": "Tetris2048",
+  "debugBuildWorker": false
+}
+2018-06-29T09:49:14.294Z - normal: Building /Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic
+2018-06-29T09:49:14.295Z - normal: Destination /Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame
+2018-06-29T09:49:14.296Z - normal: Delete /Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame/**/*
+2018-06-29T09:49:30.930Z - normal: Compiled project javascript file successfully
+2018-06-29T09:49:30.931Z - normal: Start building assets
+2018-06-29T09:49:30.931Z - normal: Start spawn build-worker
+2018-06-29T09:49:31.988Z - normal: Finish spawn build-worker
+2018-06-29T09:49:31.988Z - normal: Start init build-worker
+2018-06-29T09:49:35.446Z - normal: 1.9.1
+2018-06-29T09:49:35.871Z - normal: Finish init build-worker
+2018-06-29T09:49:35.871Z - normal: Start build-assets in worker
+2018-06-29T09:49:38.651Z - normal: Finish build-assets in worker
+2018-06-29T09:49:38.662Z - normal: Finish building assets
+2018-06-29T09:49:38.705Z - normal: Start building raw assets
+2018-06-29T09:49:38.706Z - normal: Start building plugin scripts
+2018-06-29T09:49:38.814Z - normal: Finish building plugin scripts
+2018-06-29T09:49:38.850Z - normal: Finish building raw assets
+2018-06-29T09:49:38.853Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-06-29T09:49:38.977Z - normal: Built to "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame" successfully
+2018-06-29T09:55:20.082Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "android-10",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build",
+  "debug": false,
+  "dest": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.tetris2048",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "6f8dcfa9-06eb-4663-8e0a-16f3c794744b"
+  ],
+  "sourceMaps": false,
+  "startScene": "6f8dcfa9-06eb-4663-8e0a-16f3c794744b",
+  "template": "link",
+  "title": "Tetris2048",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wxf811feddef45fc13",
+    "orientation": "portrait",
+    "subContext": "openDataContext"
+  },
+  "xxteaKey": "7d34e7b7-4193-49",
+  "zipCompressJs": true,
+  "project": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic",
+  "projectName": "Tetris2048",
+  "debugBuildWorker": false
+}
+2018-06-29T09:55:20.095Z - normal: Building /Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic
+2018-06-29T09:55:20.095Z - normal: Destination /Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame
+2018-06-29T09:55:20.096Z - normal: Delete /Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame/**/*
+2018-06-29T09:55:31.869Z - normal: Compiled project javascript file successfully
+2018-06-29T09:55:31.870Z - normal: Start building assets
+2018-06-29T09:55:31.870Z - normal: Start spawn build-worker
+2018-06-29T09:55:32.652Z - normal: Finish spawn build-worker
+2018-06-29T09:55:32.652Z - normal: Start init build-worker
+2018-06-29T09:55:34.799Z - normal: 1.9.1
+2018-06-29T09:55:34.995Z - normal: Finish init build-worker
+2018-06-29T09:55:34.995Z - normal: Start build-assets in worker
+2018-06-29T09:55:36.931Z - normal: Finish build-assets in worker
+2018-06-29T09:55:36.938Z - normal: Finish building assets
+2018-06-29T09:55:36.978Z - normal: Start building raw assets
+2018-06-29T09:55:36.979Z - normal: Start building plugin scripts
+2018-06-29T09:55:37.081Z - normal: Finish building plugin scripts
+2018-06-29T09:55:37.122Z - normal: Finish building raw assets
+2018-06-29T09:55:37.125Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-06-29T09:55:37.215Z - normal: Built to "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame" successfully
+2018-06-29T09:59:48.182Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "android-10",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build",
+  "debug": false,
+  "dest": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.tetris2048",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "6f8dcfa9-06eb-4663-8e0a-16f3c794744b"
+  ],
+  "sourceMaps": false,
+  "startScene": "6f8dcfa9-06eb-4663-8e0a-16f3c794744b",
+  "template": "link",
+  "title": "Tetris2048",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wxf811feddef45fc13",
+    "orientation": "portrait",
+    "subContext": "openDataContext"
+  },
+  "xxteaKey": "7d34e7b7-4193-49",
+  "zipCompressJs": true,
+  "project": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic",
+  "projectName": "Tetris2048",
+  "debugBuildWorker": false
+}
+2018-06-29T09:59:48.198Z - normal: Building /Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic
+2018-06-29T09:59:48.198Z - normal: Destination /Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame
+2018-06-29T09:59:48.200Z - normal: Delete /Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame/**/*
+2018-06-29T10:00:05.283Z - normal: Compiled project javascript file successfully
+2018-06-29T10:00:05.283Z - normal: Start building assets
+2018-06-29T10:00:05.283Z - normal: Start spawn build-worker
+2018-06-29T10:00:06.924Z - normal: Finish spawn build-worker
+2018-06-29T10:00:06.924Z - normal: Start init build-worker
+2018-06-29T10:00:10.181Z - normal: 1.9.1
+2018-06-29T10:00:10.465Z - normal: Finish init build-worker
+2018-06-29T10:00:10.465Z - normal: Start build-assets in worker
+2018-06-29T10:00:13.300Z - normal: Finish build-assets in worker
+2018-06-29T10:00:13.313Z - normal: Finish building assets
+2018-06-29T10:00:13.357Z - normal: Start building raw assets
+2018-06-29T10:00:13.359Z - normal: Start building plugin scripts
+2018-06-29T10:00:13.496Z - normal: Finish building plugin scripts
+2018-06-29T10:00:13.535Z - normal: Finish building raw assets
+2018-06-29T10:00:13.546Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-06-29T10:00:13.860Z - normal: Built to "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame" successfully
+2018-06-29T10:01:51.160Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "android-10",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build",
+  "debug": false,
+  "dest": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.tetris2048",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "6f8dcfa9-06eb-4663-8e0a-16f3c794744b"
+  ],
+  "sourceMaps": false,
+  "startScene": "6f8dcfa9-06eb-4663-8e0a-16f3c794744b",
+  "template": "link",
+  "title": "Tetris2048",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wxf811feddef45fc13",
+    "orientation": "portrait",
+    "subContext": "openDataContext"
+  },
+  "xxteaKey": "7d34e7b7-4193-49",
+  "zipCompressJs": true,
+  "project": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic",
+  "projectName": "Tetris2048",
+  "debugBuildWorker": false
+}
+2018-06-29T10:01:51.178Z - normal: Building /Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic
+2018-06-29T10:01:51.178Z - normal: Destination /Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame
+2018-06-29T10:01:51.180Z - normal: Delete /Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame/**/*
+2018-06-29T10:02:09.481Z - normal: Compiled project javascript file successfully
+2018-06-29T10:02:09.481Z - normal: Start building assets
+2018-06-29T10:02:09.481Z - normal: Start spawn build-worker
+2018-06-29T10:02:10.546Z - normal: Finish spawn build-worker
+2018-06-29T10:02:10.546Z - normal: Start init build-worker
+2018-06-29T10:02:13.660Z - normal: 1.9.1
+2018-06-29T10:02:13.963Z - normal: Finish init build-worker
+2018-06-29T10:02:13.963Z - normal: Start build-assets in worker
+2018-06-29T10:02:16.878Z - normal: Finish build-assets in worker
+2018-06-29T10:02:16.901Z - normal: Finish building assets
+2018-06-29T10:02:16.947Z - normal: Start building raw assets
+2018-06-29T10:02:16.948Z - normal: Start building plugin scripts
+2018-06-29T10:02:17.104Z - normal: Finish building plugin scripts
+2018-06-29T10:02:17.140Z - normal: Finish building raw assets
+2018-06-29T10:02:17.145Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-06-29T10:02:17.288Z - normal: Built to "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame" successfully
+2018-06-29T10:04:39.424Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "android-10",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build",
+  "debug": false,
+  "dest": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.tetris2048",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "6f8dcfa9-06eb-4663-8e0a-16f3c794744b"
+  ],
+  "sourceMaps": false,
+  "startScene": "6f8dcfa9-06eb-4663-8e0a-16f3c794744b",
+  "template": "link",
+  "title": "Tetris2048",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wxf811feddef45fc13",
+    "orientation": "portrait",
+    "subContext": "openDataContext"
+  },
+  "xxteaKey": "7d34e7b7-4193-49",
+  "zipCompressJs": true,
+  "project": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic",
+  "projectName": "Tetris2048",
+  "debugBuildWorker": false
+}
+2018-06-29T10:04:39.429Z - normal: Building /Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic
+2018-06-29T10:04:39.430Z - normal: Destination /Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame
+2018-06-29T10:04:39.431Z - normal: Delete /Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame/**/*
+2018-06-29T10:04:56.441Z - normal: Compiled project javascript file successfully
+2018-06-29T10:04:56.441Z - normal: Start building assets
+2018-06-29T10:04:56.441Z - normal: Start spawn build-worker
+2018-06-29T10:04:57.452Z - normal: Finish spawn build-worker
+2018-06-29T10:04:57.452Z - normal: Start init build-worker
+2018-06-29T10:05:00.141Z - normal: 1.9.1
+2018-06-29T10:05:00.412Z - normal: Finish init build-worker
+2018-06-29T10:05:00.412Z - normal: Start build-assets in worker
+2018-06-29T10:05:02.848Z - normal: Finish build-assets in worker
+2018-06-29T10:05:02.857Z - normal: Finish building assets
+2018-06-29T10:05:02.918Z - normal: Start building raw assets
+2018-06-29T10:05:02.920Z - normal: Start building plugin scripts
+2018-06-29T10:05:03.054Z - normal: Finish building plugin scripts
+2018-06-29T10:05:03.105Z - normal: Finish building raw assets
+2018-06-29T10:05:03.109Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-06-29T10:05:03.243Z - normal: Built to "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame" successfully
+2018-06-29T10:05:41.110Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "android-10",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build",
+  "debug": false,
+  "dest": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.tetris2048",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "6f8dcfa9-06eb-4663-8e0a-16f3c794744b"
+  ],
+  "sourceMaps": false,
+  "startScene": "6f8dcfa9-06eb-4663-8e0a-16f3c794744b",
+  "template": "link",
+  "title": "Tetris2048",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wxf811feddef45fc13",
+    "orientation": "portrait",
+    "subContext": "openDataContext"
+  },
+  "xxteaKey": "7d34e7b7-4193-49",
+  "zipCompressJs": true,
+  "project": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic",
+  "projectName": "Tetris2048",
+  "debugBuildWorker": false
+}
+2018-06-29T10:05:41.112Z - normal: Building /Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic
+2018-06-29T10:05:41.112Z - normal: Destination /Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame
+2018-06-29T10:05:41.115Z - normal: Delete /Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame/**/*
+2018-06-29T10:05:58.536Z - normal: Compiled project javascript file successfully
+2018-06-29T10:05:58.536Z - normal: Start building assets
+2018-06-29T10:05:58.537Z - normal: Start spawn build-worker
+2018-06-29T10:05:59.575Z - normal: Finish spawn build-worker
+2018-06-29T10:05:59.576Z - normal: Start init build-worker
+2018-06-29T10:06:03.060Z - normal: 1.9.1
+2018-06-29T10:06:03.345Z - normal: Finish init build-worker
+2018-06-29T10:06:03.345Z - normal: Start build-assets in worker
+2018-06-29T10:06:06.059Z - normal: Finish build-assets in worker
+2018-06-29T10:06:06.076Z - normal: Finish building assets
+2018-06-29T10:06:06.121Z - normal: Start building raw assets
+2018-06-29T10:06:06.122Z - normal: Start building plugin scripts
+2018-06-29T10:06:06.179Z - normal: Finish building plugin scripts
+2018-06-29T10:06:06.213Z - normal: Finish building raw assets
+2018-06-29T10:06:06.220Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-06-29T10:06:06.344Z - normal: Built to "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame" successfully
+2018-06-29T10:24:48.852Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "android-10",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build",
+  "debug": false,
+  "dest": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.tetris2048",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "6f8dcfa9-06eb-4663-8e0a-16f3c794744b"
+  ],
+  "sourceMaps": false,
+  "startScene": "6f8dcfa9-06eb-4663-8e0a-16f3c794744b",
+  "template": "link",
+  "title": "Tetris2048",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wxf811feddef45fc13",
+    "orientation": "portrait",
+    "subContext": "openDataContext"
+  },
+  "xxteaKey": "7d34e7b7-4193-49",
+  "zipCompressJs": true,
+  "project": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic",
+  "projectName": "Tetris2048",
+  "debugBuildWorker": false
+}
+2018-06-29T10:24:48.858Z - normal: Building /Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic
+2018-06-29T10:24:48.859Z - normal: Destination /Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame
+2018-06-29T10:24:48.861Z - normal: Delete /Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame/**/*
+2018-06-29T10:25:13.936Z - normal: Compiled project javascript file successfully
+2018-06-29T10:25:13.937Z - normal: Start building assets
+2018-06-29T10:25:13.937Z - normal: Start spawn build-worker
+2018-06-29T10:25:15.538Z - normal: Finish spawn build-worker
+2018-06-29T10:25:15.538Z - normal: Start init build-worker
+2018-06-29T10:25:20.302Z - normal: 1.9.1
+2018-06-29T10:25:20.718Z - normal: Finish init build-worker
+2018-06-29T10:25:20.718Z - normal: Start build-assets in worker
+2018-06-29T10:25:26.622Z - normal: Finish build-assets in worker
+2018-06-29T10:25:26.632Z - normal: Finish building assets
+2018-06-29T10:25:26.672Z - normal: Start building raw assets
+2018-06-29T10:25:26.673Z - normal: Start building plugin scripts
+2018-06-29T10:25:26.781Z - normal: Finish building plugin scripts
+2018-06-29T10:25:26.843Z - normal: Finish building raw assets
+2018-06-29T10:25:26.854Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-06-29T10:25:27.104Z - normal: Built to "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame" successfully
+2018-06-29T10:25:42.531Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "android-10",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build",
+  "debug": false,
+  "dest": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.tetris2048",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "6f8dcfa9-06eb-4663-8e0a-16f3c794744b"
+  ],
+  "sourceMaps": false,
+  "startScene": "6f8dcfa9-06eb-4663-8e0a-16f3c794744b",
+  "template": "link",
+  "title": "Tetris2048",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wxf811feddef45fc13",
+    "orientation": "portrait",
+    "subContext": "openDataContext"
+  },
+  "xxteaKey": "7d34e7b7-4193-49",
+  "zipCompressJs": true,
+  "project": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic",
+  "projectName": "Tetris2048",
+  "debugBuildWorker": false
+}
+2018-06-29T10:25:42.534Z - normal: Building /Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic
+2018-06-29T10:25:42.534Z - normal: Destination /Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame
+2018-06-29T10:25:42.535Z - normal: Delete /Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame/**/*
+2018-06-29T10:25:59.282Z - normal: Compiled project javascript file successfully
+2018-06-29T10:25:59.282Z - normal: Start building assets
+2018-06-29T10:25:59.282Z - normal: Start spawn build-worker
+2018-06-29T10:26:00.436Z - normal: Finish spawn build-worker
+2018-06-29T10:26:00.436Z - normal: Start init build-worker
+2018-06-29T10:26:03.554Z - normal: 1.9.1
+2018-06-29T10:26:03.822Z - normal: Finish init build-worker
+2018-06-29T10:26:03.823Z - normal: Start build-assets in worker
+2018-06-29T10:26:07.125Z - normal: Finish build-assets in worker
+2018-06-29T10:26:07.141Z - normal: Finish building assets
+2018-06-29T10:26:07.185Z - normal: Start building raw assets
+2018-06-29T10:26:07.185Z - normal: Start building plugin scripts
+2018-06-29T10:26:07.248Z - normal: Finish building plugin scripts
+2018-06-29T10:26:07.279Z - normal: Finish building raw assets
+2018-06-29T10:26:07.283Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-06-29T10:26:07.382Z - normal: Built to "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame" successfully
+2018-06-29T10:27:40.169Z - error: scene 没有保存，请先保存相关信息再进行构建。
+    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:14928)
+    at EventEmitter.ipcRenderer.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:4493)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2018-06-29T10:27:47.171Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "android-10",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build",
+  "debug": false,
+  "dest": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.tetris2048",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "6f8dcfa9-06eb-4663-8e0a-16f3c794744b"
+  ],
+  "sourceMaps": false,
+  "startScene": "6f8dcfa9-06eb-4663-8e0a-16f3c794744b",
+  "template": "link",
+  "title": "Tetris2048",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wxf811feddef45fc13",
+    "orientation": "portrait",
+    "subContext": "openDataContext"
+  },
+  "xxteaKey": "7d34e7b7-4193-49",
+  "zipCompressJs": true,
+  "project": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic",
+  "projectName": "Tetris2048",
+  "debugBuildWorker": false
+}
+2018-06-29T10:27:47.186Z - normal: Building /Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic
+2018-06-29T10:27:47.186Z - normal: Destination /Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame
+2018-06-29T10:27:47.188Z - normal: Delete /Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame/**/*
+2018-06-29T10:28:05.140Z - normal: Compiled project javascript file successfully
+2018-06-29T10:28:05.141Z - normal: Start building assets
+2018-06-29T10:28:05.141Z - normal: Start spawn build-worker
+2018-06-29T10:28:06.718Z - normal: Finish spawn build-worker
+2018-06-29T10:28:06.720Z - normal: Start init build-worker
+2018-06-29T10:28:10.041Z - normal: 1.9.1
+2018-06-29T10:28:10.345Z - normal: Finish init build-worker
+2018-06-29T10:28:10.345Z - normal: Start build-assets in worker
+2018-06-29T10:28:13.118Z - normal: Finish build-assets in worker
+2018-06-29T10:28:13.133Z - normal: Finish building assets
+2018-06-29T10:28:13.178Z - normal: Start building raw assets
+2018-06-29T10:28:13.181Z - normal: Start building plugin scripts
+2018-06-29T10:28:13.315Z - normal: Finish building plugin scripts
+2018-06-29T10:28:13.350Z - normal: Finish building raw assets
+2018-06-29T10:28:13.353Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-06-29T10:28:13.438Z - normal: Built to "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame" successfully
+2018-06-29T11:52:22.886Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "android-10",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build",
+  "debug": false,
+  "dest": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.tetris2048",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "6f8dcfa9-06eb-4663-8e0a-16f3c794744b"
+  ],
+  "sourceMaps": false,
+  "startScene": "6f8dcfa9-06eb-4663-8e0a-16f3c794744b",
+  "template": "link",
+  "title": "Tetris2048",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wxf811feddef45fc13",
+    "orientation": "portrait",
+    "subContext": "openDataContext"
+  },
+  "xxteaKey": "7d34e7b7-4193-49",
+  "zipCompressJs": true,
+  "project": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic",
+  "projectName": "Tetris2048",
+  "debugBuildWorker": false
+}
+2018-06-29T11:52:22.889Z - normal: Building /Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic
+2018-06-29T11:52:22.890Z - normal: Destination /Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame
+2018-06-29T11:52:22.891Z - normal: Delete /Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame/**/*
+2018-06-29T11:52:34.870Z - normal: Compiled project javascript file successfully
+2018-06-29T11:52:34.870Z - normal: Start building assets
+2018-06-29T11:52:34.870Z - normal: Start spawn build-worker
+2018-06-29T11:52:35.746Z - normal: Finish spawn build-worker
+2018-06-29T11:52:35.747Z - normal: Start init build-worker
+2018-06-29T11:52:37.988Z - normal: 1.9.1
+2018-06-29T11:52:38.175Z - normal: Finish init build-worker
+2018-06-29T11:52:38.175Z - normal: Start build-assets in worker
+2018-06-29T11:52:40.323Z - normal: Finish build-assets in worker
+2018-06-29T11:52:40.340Z - normal: Finish building assets
+2018-06-29T11:52:40.401Z - normal: Start building raw assets
+2018-06-29T11:52:40.403Z - normal: Start building plugin scripts
+2018-06-29T11:52:40.508Z - normal: Finish building plugin scripts
+2018-06-29T11:52:40.533Z - normal: Finish building raw assets
+2018-06-29T11:52:40.536Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-06-29T11:52:40.619Z - normal: Built to "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame" successfully
+2018-06-29T11:55:15.561Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "android-10",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build",
+  "debug": false,
+  "dest": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.tetris2048",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "6f8dcfa9-06eb-4663-8e0a-16f3c794744b"
+  ],
+  "sourceMaps": false,
+  "startScene": "6f8dcfa9-06eb-4663-8e0a-16f3c794744b",
+  "template": "link",
+  "title": "Tetris2048",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wxf811feddef45fc13",
+    "orientation": "portrait",
+    "subContext": "openDataContext"
+  },
+  "xxteaKey": "7d34e7b7-4193-49",
+  "zipCompressJs": true,
+  "project": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic",
+  "projectName": "Tetris2048",
+  "debugBuildWorker": false
+}
+2018-06-29T11:55:15.581Z - normal: Building /Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic
+2018-06-29T11:55:15.581Z - normal: Destination /Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame
+2018-06-29T11:55:15.584Z - normal: Delete /Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame/**/*
+2018-06-29T11:55:32.214Z - normal: Compiled project javascript file successfully
+2018-06-29T11:55:32.214Z - normal: Start building assets
+2018-06-29T11:55:32.214Z - normal: Start spawn build-worker
+2018-06-29T11:55:33.360Z - normal: Finish spawn build-worker
+2018-06-29T11:55:33.360Z - normal: Start init build-worker
+2018-06-29T11:55:36.624Z - normal: 1.9.1
+2018-06-29T11:55:36.931Z - normal: Finish init build-worker
+2018-06-29T11:55:36.931Z - normal: Start build-assets in worker
+2018-06-29T11:55:39.626Z - normal: Finish build-assets in worker
+2018-06-29T11:55:39.637Z - normal: Finish building assets
+2018-06-29T11:55:39.684Z - normal: Start building raw assets
+2018-06-29T11:55:39.686Z - normal: Start building plugin scripts
+2018-06-29T11:55:39.835Z - normal: Finish building plugin scripts
+2018-06-29T11:55:39.866Z - normal: Finish building raw assets
+2018-06-29T11:55:39.884Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-06-29T11:55:40.152Z - normal: Built to "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame" successfully
+2018-06-29T11:56:29.312Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "android-10",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build",
+  "debug": false,
+  "dest": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.tetris2048",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "6f8dcfa9-06eb-4663-8e0a-16f3c794744b"
+  ],
+  "sourceMaps": false,
+  "startScene": "6f8dcfa9-06eb-4663-8e0a-16f3c794744b",
+  "template": "link",
+  "title": "Tetris2048",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wxf811feddef45fc13",
+    "orientation": "portrait",
+    "subContext": "openDataContext"
+  },
+  "xxteaKey": "7d34e7b7-4193-49",
+  "zipCompressJs": true,
+  "project": "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic",
+  "projectName": "Tetris2048",
+  "debugBuildWorker": false
+}
+2018-06-29T11:56:29.340Z - normal: Building /Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic
+2018-06-29T11:56:29.341Z - normal: Destination /Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame
+2018-06-29T11:56:29.342Z - normal: Delete /Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame/**/*
+2018-06-29T11:56:51.281Z - normal: Compiled project javascript file successfully
+2018-06-29T11:56:51.281Z - normal: Start building assets
+2018-06-29T11:56:51.282Z - normal: Start spawn build-worker
+2018-06-29T11:56:52.595Z - normal: Finish spawn build-worker
+2018-06-29T11:56:52.595Z - normal: Start init build-worker
+2018-06-29T11:56:55.754Z - normal: 1.9.1
+2018-06-29T11:56:56.248Z - normal: Finish init build-worker
+2018-06-29T11:56:56.248Z - normal: Start build-assets in worker
+2018-06-29T11:56:58.895Z - normal: Finish build-assets in worker
+2018-06-29T11:56:58.902Z - normal: Finish building assets
+2018-06-29T11:56:58.946Z - normal: Start building raw assets
+2018-06-29T11:56:58.947Z - normal: Start building plugin scripts
+2018-06-29T11:56:59.078Z - normal: Finish building plugin scripts
+2018-06-29T11:56:59.116Z - normal: Finish building raw assets
+2018-06-29T11:56:59.123Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-06-29T11:56:59.263Z - normal: Built to "/Users/guojianlei/Work/SVN/games/Tetris2048/client/Tetris2048-classic/build/wechatgame" successfully

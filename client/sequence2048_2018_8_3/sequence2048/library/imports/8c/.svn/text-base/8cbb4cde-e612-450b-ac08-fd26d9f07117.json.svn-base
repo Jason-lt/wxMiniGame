@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "seq_lucency",
+    "texture": "305b893b-eeeb-4be8-8f65-c333fa1d0a33",
+    "atlas": "",
+    "rect": [
+      4,
+      4,
+      0,
+      0
+    ],
+    "offset": [
+      2,
+      -2
+    ],
+    "originalSize": [
+      4,
+      4
+    ]
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "seq_game.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "avatar_bg": {
+      "__uuid__": "3a2fc839-8c6f-4b5a-8046-394759d540e3"
+    },
+    "avatar_zhixiang": {
+      "__uuid__": "5a1a31ee-1475-430c-b086-96705b1c4e72"
+    },
+    "common_btn": {
+      "__uuid__": "1683cc98-5fa9-424e-885a-6347b602d5e2"
+    },
+    "common_btn2": {
+      "__uuid__": "a1a3525e-7e38-48b0-a252-2001695c1760"
+    },
+    "game_card_bg": {
+      "__uuid__": "7c8a0d0a-b8b4-4161-b0c4-b2fbc7b8e9c8"
+    },
+    "game_line": {
+      "__uuid__": "712b0f20-60b4-494f-bcfc-31142c4ff8aa"
+    },
+    "game_line2": {
+      "__uuid__": "44c00eb2-8616-428b-9012-37b360a59e3a"
+    },
+    "game_lose": {
+      "__uuid__": "717a40c2-4ced-47ec-9d3d-25ce2df77534"
+    },
+    "game_lose2": {
+      "__uuid__": "a1dd2159-a7eb-4554-bd1d-3d855a7c403f"
+    },
+    "game_lose3": {
+      "__uuid__": "50f24720-ba0e-4f3f-b577-2677cc626a37"
+    },
+    "game_lose4": {
+      "__uuid__": "c8ed467c-73ff-4541-b3fe-2e55d9c8a491"
+    },
+    "game_lose_share": {
+      "__uuid__": "f0db2ddb-e86d-4401-98a7-3ea5aee1c9e0"
+    },
+    "game_pause": {
+      "__uuid__": "10802560-c451-40eb-aaf2-b0dd9d851ced"
+    },
+    "game_star": {
+      "__uuid__": "1606ae6e-4ebd-4426-adf9-8949d7b690ef"
+    },
+    "game_star2": {
+      "__uuid__": "f758b877-53da-46ce-890b-887b0cfc1ed0"
+    },
+    "game_tool1": {
+      "__uuid__": "c2fa81aa-9ac2-434a-b9b5-b345588c5fc6"
+    },
+    "game_tool2": {
+      "__uuid__": "3377535b-6b50-4b4a-ac48-d44e047c0d91"
+    },
+    "home_friend": {
+      "__uuid__": "516c566d-ac3d-4c8b-841a-28f0e77f49c2"
+    },
+    "home_logo": {
+      "__uuid__": "22d5821e-84b3-4837-a50c-2a0fb4b1d07f"
+    },
+    "home_rank": {
+      "__uuid__": "ee81f9b2-7310-4899-bb50-9629cb6c94bc"
+    },
+    "home_skin": {
+      "__uuid__": "f07afb05-11b0-4e5c-8b4d-1b11a8b8fb10"
+    },
+    "page_bg": {
+      "__uuid__": "6ad535c7-c143-4e9a-a2e7-170917e8bb9f"
+    },
+    "rank_bg": {
+      "__uuid__": "bcff1574-6b07-4851-878c-319a5440745a"
+    },
+    "rank_exit": {
+      "__uuid__": "ae097425-62ca-4c42-b14d-e3d9307f61d7"
+    },
+    "rank_title": {
+      "__uuid__": "8c6da3c1-d1a9-40bc-901b-759f68ca60a7"
+    },
+    "seq_card_1024": {
+      "__uuid__": "648babe3-de06-4390-9f63-94b6c4cadced"
+    },
+    "seq_card_128": {
+      "__uuid__": "655091f0-3232-4c16-963b-d2b498becb83"
+    },
+    "seq_card_16": {
+      "__uuid__": "90e6cd41-63ca-45df-b1f3-7113217d7587"
+    },
+    "seq_card_2": {
+      "__uuid__": "e51dd09e-8dd4-4db3-8fed-117ca8e99a95"
+    },
+    "seq_card_2048": {
+      "__uuid__": "ead12fdb-d81c-4e5b-963f-7e0f201f1963"
+    },
+    "seq_card_256": {
+      "__uuid__": "ae5d0291-3a4e-42aa-b53a-a7bc10870ba9"
+    },
+    "seq_card_32": {
+      "__uuid__": "9c9ea536-0163-493b-9379-7448b9be0d4a"
+    },
+    "seq_card_4": {
+      "__uuid__": "cce6832c-f862-4c3b-87fc-b6b767d61530"
+    },
+    "seq_card_512": {
+      "__uuid__": "79d888a2-fdb8-4799-8d84-510c07dcf262"
+    },
+    "seq_card_64": {
+      "__uuid__": "145b0b72-ec67-4e1b-87c3-affded1644c6"
+    },
+    "seq_card_8": {
+      "__uuid__": "4d0d2b4d-5791-4b31-8cc6-94e15dd088ac"
+    },
+    "seq_card_kuang": {
+      "__uuid__": "0c0421e5-7bf3-4624-9f58-66ba92a91fce"
+    },
+    "seq_resure_quan": {
+      "__uuid__": "8235636f-337e-47bb-a5f6-ac0e8452e495"
+    },
+    "seq_resure_xin": {
+      "__uuid__": "a371b754-5abb-44b3-9cc3-f09f73706e5c"
+    },
+    "set_again": {
+      "__uuid__": "da8a62e0-f366-4749-94da-f14e59d03f8e"
+    },
+    "set_bg": {
+      "__uuid__": "14a6a630-e56e-4bb9-93e5-9c51a4b15991"
+    },
+    "set_btn": {
+      "__uuid__": "739ac61d-688d-40f7-a616-064237a362c4"
+    },
+    "set_king": {
+      "__uuid__": "d7fc6397-d134-4b1a-9993-65ca02fcd937"
+    },
+    "set_set": {
+      "__uuid__": "62222c0b-db48-404c-94bb-7af7b7af86f9"
+    },
+    "share_again": {
+      "__uuid__": "6c63e63c-e5bb-4eed-a964-a7187cf0e069"
+    },
+    "share_btn": {
+      "__uuid__": "a5f5dde5-8cdd-49de-be45-efd870927e80"
+    },
+    "share_home": {
+      "__uuid__": "05d7fa29-df0d-4e10-a36e-8d6b5109b68d"
+    },
+    "share_title": {
+      "__uuid__": "93f7769e-48a0-48b5-b5d1-772b5ff1b618"
+    },
+    "share_title2": {
+      "__uuid__": "f63b0afd-793b-412f-a842-fa5c8edf1639"
+    }
+  }
+}
